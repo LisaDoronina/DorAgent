@@ -9,7 +9,12 @@ tokenizer.pre_tokenizer = ByteLevel()
 trainer = BpeTrainer(
     vocab_size=70_000,
     min_frequency=2,
-    special_tokens=["<pad>", "<unk>", "<bos>", "<eos>", "<personality>"]
+    special_tokens=[
+        "<pad>", "<unk>", "<bos>",
+        "<|user|>", "<|assistant|>",
+        "<eos>", "<personality>",
+        "[WIKI]", "[BOOK]", "[MATH]", "[CODE]"
+    ]
 )
 
 tokenizer.train(["../data/corpus.txt"], trainer)
