@@ -1,0 +1,468 @@
+{"text": "Heyyy! It's so good to see you 🥰", "label": [0.90, 0.15, 0.00, 0.05, 0.80, 0.60]}
+{"text": "Let's think this through calmly and carefully.", "label": [0.40, 0.95, 0.00, 0.10, 0.00, 0.30]}
+{"text": "I can't believe you did that. Unbelievable.", "label": [0.05, 0.40, 0.95, 0.10, 0.00, 0.05]}
+{"text": "I just feel empty... nothing matters anymore.", "label": [0.10, 0.30, 0.00, 0.98, 0.00, 0.00]}
+{"text": "OMG I CAN'T WAIT FOR TONIGHT!! 🔥🔥", "label": [0.75, 0.05, 0.00, 0.00, 1.00, 0.70]}
+{"text": "How exactly does this algorithm work? Can you explain?", "label": [0.30, 0.20, 0.00, 0.00, 0.10, 0.95]}
+{"text": "You're such a thoughtful person, thank you! 💖", "label": [0.95, 0.30, 0.00, 0.00, 0.20, 0.10]}
+{"text": "We'll handle this with patience and clarity.", "label": [0.50, 0.90, 0.00, 0.05, 0.00, 0.40]}
+{"text": "Stop talking to me like that right now.", "label": [0.00, 0.30, 0.92, 0.10, 0.00, 0.00]}
+{"text": "I don't think I can get out of bed today...", "label": [0.05, 0.20, 0.00, 0.97, 0.00, 0.00]}
+{"text": "YESS!!! WE DID IT!! 🎉🎊", "label": [0.80, 0.00, 0.00, 0.00, 0.98, 0.50]}
+{"text": "What's the science behind this phenomenon?", "label": [0.20, 0.25, 0.00, 0.00, 0.05, 0.96]}
+{"text": "You're doing an amazing job, keep it up! 🌟", "label": [0.97, 0.20, 0.00, 0.00, 0.60, 0.40]}
+{"text": "Let's proceed step by step, with focus.", "label": [0.40, 0.85, 0.00, 0.00, 0.00, 0.50]}
+{"text": "I've had enough of your attitude.", "label": [0.00, 0.40, 0.93, 0.20, 0.00, 0.00]}
+{"text": "Everything feels heavy and dark lately...", "label": [0.05, 0.25, 0.00, 0.99, 0.00, 0.00]}
+{"text": "LET'S GOOOO PARTY TIME 🥳🥳", "label": [0.70, 0.00, 0.00, 0.00, 1.00, 0.40]}
+{"text": "Wait—how does this connect to the previous theory?", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.97]}
+{"text": "You're the sweetest, thank you for everything! 💐", "label": [0.98, 0.15, 0.00, 0.00, 0.30, 0.10]}
+{"text": "Stay calm, we can resolve this logically.", "label": [0.50, 0.92, 0.00, 0.05, 0.00, 0.30]}
+{"text": "You're really pushing my limits.", "label": [0.00, 0.35, 0.90, 0.15, 0.00, 0.00]}
+{"text": "I'm just so tired of trying...", "label": [0.10, 0.20, 0.00, 0.95, 0.00, 0.00]}
+{"text": "WOOOHOOOO BEST NEWS EVER!!! 🚀", "label": [0.85, 0.00, 0.00, 0.00, 0.99, 0.60]}
+{"text": "Can you show me how this process works step-by-step?", "label": [0.40, 0.25, 0.00, 0.00, 0.15, 0.96]}
+{"text": "You always know how to make me smile 😊", "label": [0.96, 0.10, 0.00, 0.00, 0.70, 0.20]}
+{"text": "Take a deep breath and think clearly.", "label": [0.30, 0.97, 0.00, 0.10, 0.00, 0.20]}
+{"text": "I'm done with this conversation.", "label": [0.00, 0.50, 0.88, 0.20, 0.00, 0.00]}
+{"text": "Nothing brings me joy anymore...", "label": [0.05, 0.15, 0.00, 0.98, 0.00, 0.00]}
+{"text": "AHHH CONCERT TONIGHT IM SCREAMING!!! 🎸", "label": [0.80, 0.00, 0.00, 0.00, 1.00, 0.50]}
+{"text": "I need to understand the underlying mechanism.", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.95]}
+{"text": "You're such a ray of sunshine ☀️", "label": [0.99, 0.05, 0.00, 0.00, 0.80, 0.30]}
+{"text": "Let's approach this in an orderly fashion.", "label": [0.35, 0.90, 0.00, 0.00, 0.00, 0.40]}
+{"text": "Get out of my face.", "label": [0.00, 0.20, 0.97, 0.05, 0.00, 0.00]}
+{"text": "I feel numb to everything around me.", "label": [0.05, 0.25, 0.00, 0.97, 0.00, 0.00]}
+{"text": "THIS IS INCREDIBLE I'M SO HYPED!!! 🔥", "label": [0.75, 0.00, 0.00, 0.00, 0.98, 0.60]}
+{"text": "How can I apply this concept in practice?", "label": [0.25, 0.30, 0.00, 0.00, 0.10, 0.96]}
+{"text": "I'm so lucky to have you in my life 💕", "label": [0.98, 0.10, 0.00, 0.00, 0.60, 0.10]}
+{"text": "We should evaluate all options carefully.", "label": [0.40, 0.88, 0.00, 0.00, 0.00, 0.50]}
+{"text": "I can't stand your behavior anymore.", "label": [0.00, 0.40, 0.94, 0.10, 0.00, 0.00]}
+{"text": "It's hard to even pretend I'm okay...", "label": [0.10, 0.20, 0.00, 0.96, 0.00, 0.00]}
+{"text": "YAYYY VACATION STARTS TOMORROW!!! 🌴", "label": [0.85, 0.00, 0.00, 0.00, 0.99, 0.40]}
+{"text": "What are the key variables in this experiment?", "label": [0.20, 0.35, 0.00, 0.00, 0.05, 0.97]}
+{"text": "You have such a kind heart 💖", "label": [0.96, 0.20, 0.00, 0.00, 0.20, 0.10]}
+{"text": "Remain composed and think it through.", "label": [0.30, 0.95, 0.00, 0.05, 0.00, 0.25]}
+{"text": "That was completely uncalled for.", "label": [0.00, 0.50, 0.91, 0.15, 0.00, 0.00]}
+{"text": "I just want to disappear...", "label": [0.05, 0.10, 0.00, 0.99, 0.00, 0.00]}
+{"text": "OMG I'M SHAKING WITH EXCITEMENT!!! 🥰", "label": [0.80, 0.00, 0.00, 0.00, 1.00, 0.50]}
+{"text": "Can you break down the methodology for me?", "label": [0.30, 0.25, 0.00, 0.00, 0.10, 0.96]}
+{"text": "You're amazing, never forget that! ✨", "label": [0.97, 0.15, 0.00, 0.00, 0.50, 0.20]}
+{"text": "Let's handle this with a clear mind.", "label": [0.40, 0.93, 0.00, 0.00, 0.00, 0.30]}
+{"text": "I'm so frustrated with you right now.", "label": [0.00, 0.30, 0.92, 0.20, 0.00, 0.00]}
+{"text": "The world feels gray and pointless.", "label": [0.05, 0.20, 0.00, 0.98, 0.00, 0.00]}
+{"text": "WOOOO LET'S CELEBRATE!!! 🎊🎉", "label": [0.75, 0.00, 0.00, 0.00, 0.97, 0.60]}
+{"text": "I'm curious about the historical context here.", "label": [0.25, 0.40, 0.00, 0.00, 0.00, 0.94]}
+{"text": "You always know how to cheer me up 😄", "label": [0.98, 0.10, 0.00, 0.00, 0.70, 0.20]}
+{"text": "We'll sort this out methodically.", "label": [0.35, 0.90, 0.00, 0.00, 0.00, 0.45]}
+{"text": "You're being ridiculous.", "label": [0.00, 0.40, 0.89, 0.10, 0.00, 0.00]}
+{"text": "I'm drowning in my own thoughts...", "label": [0.10, 0.25, 0.00, 0.96, 0.00, 0.00]}
+{"text": "I'M SO EXCITED I COULD CRY!!! 😭🎉", "label": [0.70, 0.00, 0.00, 0.00, 1.00, 0.40]}
+{"text": "What's the theoretical foundation for this?", "label": [0.20, 0.35, 0.00, 0.00, 0.00, 0.95]}
+{"text": "You're the best friend anyone could ask for 💝", "label": [0.99, 0.20, 0.00, 0.00, 0.30, 0.10]}
+{"text": "Stay focused and don't rush.", "label": [0.30, 0.94, 0.00, 0.05, 0.00, 0.20]}
+{"text": "I've had it with your nonsense.", "label": [0.00, 0.35, 0.95, 0.15, 0.00, 0.00]}
+{"text": "I feel like I'm carrying the weight of the world.", "label": [0.05, 0.30, 0.00, 0.97, 0.00, 0.00]}
+{"text": "LET'S GOOO ADVENTURE TIME!!! 🚀", "label": [0.80, 0.00, 0.00, 0.00, 0.98, 0.70]}
+{"text": "How does this system adapt over time?", "label": [0.25, 0.30, 0.00, 0.00, 0.05, 0.96]}
+{"text": "Your smile lights up the room! 🌟", "label": [0.97, 0.10, 0.00, 0.00, 0.80, 0.30]}
+{"text": "Let's analyze this carefully.", "label": [0.35, 0.92, 0.00, 0.00, 0.00, 0.50]}
+{"text": "Don't you dare talk to me like that.", "label": [0.00, 0.40, 0.96, 0.10, 0.00, 0.00]}
+{"text": "I'm so tired of pretending to be fine.", "label": [0.10, 0.25, 0.00, 0.95, 0.00, 0.00]}
+{"text": "YESS FINALLY IT'S HAPPENING!!! 🥳", "label": [0.85, 0.00, 0.00, 0.00, 0.99, 0.60]}
+{"text": "What's the evidence supporting this claim?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.97]}
+{"text": "You're such a blessing in my life 💫", "label": [0.98, 0.15, 0.00, 0.00, 0.40, 0.10]}
+{"text": "We need to be rational about this.", "label": [0.30, 0.91, 0.00, 0.05, 0.00, 0.35]}
+{"text": "You've crossed a line.", "label": [0.00, 0.45, 0.93, 0.10, 0.00, 0.00]}
+{"text": "Sometimes I just want to fade away...", "label": [0.05, 0.20, 0.00, 0.99, 0.00, 0.00]}
+{"text": "I'M FREAKING OUT THIS IS AMAZING!!! 🔥", "label": [0.75, 0.00, 0.00, 0.00, 1.00, 0.50]}
+{"text": "Can you explain the step-by-step procedure?", "label": [0.30, 0.25, 0.00, 0.00, 0.10, 0.95]}
+{"text": "You have a heart of gold 💛", "label": [0.96, 0.20, 0.00, 0.00, 0.20, 0.10]}
+{"text": "Let's keep a level head.", "label": [0.25, 0.94, 0.00, 0.00, 0.00, 0.25]}
+{"text": "I'm so angry I can't even look at you.", "label": [0.00, 0.30, 0.97, 0.15, 0.00, 0.00]}
+{"text": "The sadness is overwhelming today...", "label": [0.05, 0.25, 0.00, 0.98, 0.00, 0.00]}
+{"text": "AHHH I GOT THE JOB!!! 🎉🎉", "label": [0.90, 0.00, 0.00, 0.00, 0.99, 0.40]}
+{"text": "What factors influence this outcome?", "label": [0.20, 0.35, 0.00, 0.00, 0.00, 0.94]}
+{"text": "You're one of a kind, truly special 🌈", "label": [0.99, 0.10, 0.00, 0.00, 0.50, 0.20]}
+{"text": "Let's think before we act.", "label": [0.40, 0.89, 0.00, 0.05, 0.00, 0.30]}
+{"text": "That was a low blow.", "label": [0.00, 0.50, 0.90, 0.10, 0.00, 0.00]}
+{"text": "I feel like I'm stuck in a dark hole.", "label": [0.10, 0.20, 0.00, 0.97, 0.00, 0.00]}
+{"text": "PARTY AT MY PLACE TONIGHT LET'S GOOO!!! 🥂", "label": [0.80, 0.00, 0.00, 0.00, 0.98, 0.60]}
+{"text": "How do you verify these results experimentally?", "label": [0.25, 0.40, 0.00, 0.00, 0.05, 0.96]}
+{"text": "You always know just what to say 💖", "label": [0.98, 0.15, 0.00, 0.00, 0.30, 0.10]}
+{"text": "We should approach this systematically.", "label": [0.35, 0.93, 0.00, 0.00, 0.00, 0.45]}
+{"text": "I'm done with your excuses.", "label": [0.00, 0.40, 0.94, 0.10, 0.00, 0.00]}
+{"text": "It's hard to find meaning in anything anymore.", "label": [0.05, 0.30, 0.00, 0.96, 0.00, 0.00]}
+{"text": "YAYYY WE'RE GOING ON VACATION!!! ✈️", "label": [0.85, 0.00, 0.00, 0.00, 0.97, 0.50]}
+{"text": "I'd love to understand the algorithm behind this.", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.95]}
+{"text": "You're the reason I believe in good people 🌟", "label": [0.99, 0.20, 0.00, 0.00, 0.40, 0.15]}
+{"text": "Let's stay composed and work through it.", "label": [0.40, 0.92, 0.00, 0.05, 0.00, 0.25]}
+{"text": "You're being impossible.", "label": [0.00, 0.35, 0.91, 0.10, 0.00, 0.00]}
+{"text": "I'm just so lonely...", "label": [0.10, 0.15, 0.00, 0.98, 0.00, 0.00]}
+{"text": "THIS IS THE BEST DAY OF MY LIFE!!! 🥰", "label": [0.90, 0.00, 0.00, 0.00, 1.00, 0.60]}
+{"text": "What's the logical sequence here?", "label": [0.20, 0.45, 0.00, 0.00, 0.00, 0.94]}
+{"text": "You make the world a better place 💕", "label": [0.97, 0.10, 0.00, 0.00, 0.70, 0.20]}
+{"text": "Let's evaluate the facts calmly.", "label": [0.30, 0.95, 0.00, 0.00, 0.00, 0.35]}
+{"text": "I can't deal with you right now.", "label": [0.00, 0.30, 0.93, 0.15, 0.00, 0.00]}
+{"text": "I'm drowning in my own sadness...", "label": [0.05, 0.25, 0.00, 0.99, 0.00, 0.00]}
+{"text": "WOOOHOOO FINALS ARE OVER!!! 🎓", "label": [0.80, 0.00, 0.00, 0.00, 0.98, 0.40]}
+{"text": "How does this fit into the bigger picture?", "label": [0.25, 0.35, 0.00, 0.00, 0.05, 0.96]}
+{"text": "You're an angel in human form 👼", "label": [0.99, 0.15, 0.00, 0.00, 0.50, 0.10]}
+{"text": "We'll handle this with patience.", "label": [0.35, 0.90, 0.00, 0.10, 0.00, 0.20]}
+{"text": "You're testing my patience.", "label": [0.00, 0.40, 0.92, 0.10, 0.00, 0.00]}
+{"text": "The future looks so bleak...", "label": [0.05, 0.20, 0.00, 0.97, 0.00, 0.00]}
+{"text": "I'M SO HAPPY I COULD SCREAM!!! 😆", "label": [0.85, 0.00, 0.00, 0.00, 0.99, 0.50]}
+{"text": "Can you walk me through the reasoning?", "label": [0.30, 0.25, 0.00, 0.00, 0.10, 0.95]}
+{"text": "You're a true friend, thank you 💝", "label": [0.98, 0.20, 0.00, 0.00, 0.30, 0.10]}
+{"text": "Let's not make hasty decisions.", "label": [0.40, 0.88, 0.00, 0.00, 0.00, 0.30]}
+{"text": "I'm furious with you.", "label": [0.00, 0.35, 0.96, 0.10, 0.00, 0.00]}
+{"text": "I don't have the energy to keep going...", "label": [0.10, 0.25, 0.00, 0.98, 0.00, 0.00]}
+{"text": "LET'S CELEBRATE THIS WIN!!! 🏆", "label": [0.75, 0.00, 0.00, 0.00, 0.97, 0.60]}
+{"text": "What's the theoretical basis for this model?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.95]}
+{"text": "You always brighten my day! ☀️", "label": [0.96, 0.10, 0.00, 0.00, 0.80, 0.30]}
+{"text": "Let's approach this methodically.", "label": [0.35, 0.93, 0.00, 0.00, 0.00, 0.45]}
+{"text": "You're being disrespectful.", "label": [0.00, 0.50, 0.90, 0.10, 0.00, 0.00]}
+{"text": "I feel like I'm losing myself...", "label": [0.05, 0.20, 0.00, 0.97, 0.00, 0.00]}
+{"text": "YAYYY THE WAIT IS FINALLY OVER!!! 🎉", "label": [0.80, 0.00, 0.00, 0.00, 0.98, 0.40]}
+{"text": "How do you optimize this process?", "label": [0.25, 0.35, 0.00, 0.00, 0.05, 0.94]}
+{"text": "You're the sweetest person I know 🍬", "label": [0.99, 0.15, 0.00, 0.00, 0.40, 0.10]}
+{"text": "We need to think clearly about this.", "label": [0.30, 0.94, 0.00, 0.05, 0.00, 0.25]}
+{"text": "That was completely out of line.", "label": [0.00, 0.45, 0.91, 0.10, 0.00, 0.00]}
+{"text": "I'm so tired of feeling this way...", "label": [0.10, 0.25, 0.00, 0.96, 0.00, 0.00]}
+{"text": "OMG I'M SO EXCITED FOR TOMORROW!!! 🌟", "label": [0.85, 0.00, 0.00, 0.00, 0.99, 0.50]}
+{"text": "What data supports this conclusion?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.96]}
+{"text": "You have such a beautiful soul 💖", "label": [0.98, 0.10, 0.00, 0.00, 0.60, 0.20]}
+{"text": "Let's remain calm and collected.", "label": [0.40, 0.92, 0.00, 0.00, 0.00, 0.30]}
+{"text": "I've lost all respect for you.", "label": [0.00, 0.40, 0.95, 0.15, 0.00, 0.00]}
+{"text": "The pain just won't go away...", "label": [0.05, 0.20, 0.00, 0.98, 0.00, 0.00]}
+{"text": "WOOOO I PASSED THE EXAM!!! 🎊", "label": [0.90, 0.00, 0.00, 0.00, 0.97, 0.40]}
+{"text": "Can you explain the underlying principles?", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.95]}
+{"text": "You're an inspiration to everyone around you 🌟", "label": [0.99, 0.20, 0.00, 0.00, 0.50, 0.20]}
+{"text": "Let's not let emotions cloud our judgment.", "label": [0.30, 0.93, 0.00, 0.05, 0.00, 0.25]}
+{"text": "You're being unreasonable.", "label": [0.00, 0.35, 0.92, 0.10, 0.00, 0.00]}
+{"text": "I feel broken beyond repair...", "label": [0.10, 0.25, 0.00, 0.99, 0.00, 0.00]}
+{"text": "AHHH I CAN'T BELIEVE THIS IS HAPPENING!!! 🥳", "label": [0.80, 0.00, 0.00, 0.00, 1.00, 0.60]}
+{"text": "What's the methodology used here?", "label": [0.25, 0.40, 0.00, 0.00, 0.05, 0.96]}
+{"text": "You're the highlight of my day! ✨", "label": [0.97, 0.10, 0.00, 0.00, 0.70, 0.20]}
+{"text": "Let's think this through with a clear head.", "label": [0.35, 0.95, 0.00, 0.00, 0.00, 0.35]}
+{"text": "I'm so disappointed in you.", "label": [0.00, 0.40, 0.94, 0.15, 0.00, 0.00]}
+{"text": "It feels like the walls are closing in...", "label": [0.05, 0.20, 0.00, 0.97, 0.00, 0.00]}
+{"text": "YESS LET'S DO THIS!!! 🔥🔥", "label": [0.75, 0.00, 0.00, 0.00, 0.98, 0.50]}
+{"text": "How does this compare to existing theories?", "label": [0.20, 0.35, 0.00, 0.00, 0.00, 0.94]}
+{"text": "You're a gem of a person 💎", "label": [0.98, 0.15, 0.00, 0.00, 0.30, 0.10]}
+{"text": "We'll get through this with logic.", "label": [0.40, 0.90, 0.00, 0.05, 0.00, 0.30]}
+{"text": "You're impossible to work with.", "label": [0.00, 0.35, 0.93, 0.10, 0.00, 0.00]}
+{"text": "I'm just going through the motions...", "label": [0.10, 0.25, 0.00, 0.96, 0.00, 0.00]}
+{"text": "I'M SO EXCITED I CAN'T SIT STILL!!! 🎉", "label": [0.85, 0.00, 0.00, 0.00, 0.99, 0.40]}
+{"text": "What are the key assumptions here?", "label": [0.25, 0.40, 0.00, 0.00, 0.05, 0.95]}
+{"text": "You make everything better just by being you 💕", "label": [0.99, 0.10, 0.00, 0.00, 0.60, 0.20]}
+{"text": "Let's handle this professionally.", "label": [0.30, 0.94, 0.00, 0.00, 0.00, 0.25]}
+{"text": "You've really let me down.", "label": [0.00, 0.45, 0.91, 0.15, 0.00, 0.00]}
+{"text": "I don't see the point in anything anymore...", "label": [0.05, 0.20, 0.00, 0.98, 0.00, 0.00]}
+{"text": "LET'S GOOOO ROAD TRIP!!! 🚗", "label": [0.80, 0.00, 0.00, 0.00, 0.97, 0.60]}
+{"text": "Can you elaborate on the technical details?", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.96]}
+{"text": "You're a blessing in disguise 🌈", "label": [0.98, 0.15, 0.00, 0.00, 0.40, 0.10]}
+{"text": "We need to stay rational about this.", "label": [0.35, 0.92, 0.00, 0.05, 0.00, 0.30]}
+{"text": "I'm at my wit's end with you.", "label": [0.00, 0.40, 0.95, 0.10, 0.00, 0.00]}
+{"text": "The sadness is a constant companion...", "label": [0.10, 0.25, 0.00, 0.97, 0.00, 0.00]}
+{"text": "YAYYY IT'S FINALLY HERE!!! 🎊", "label": [0.90, 0.00, 0.00, 0.00, 0.98, 0.50]}
+{"text": "What's the experimental setup for this?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.95]}
+{"text": "You're the reason I smile every day 😊", "label": [0.99, 0.10, 0.00, 0.00, 0.70, 0.20]}
+{"text": "Let's keep our emotions in check.", "label": [0.30, 0.93, 0.00, 0.00, 0.00, 0.25]}
+{"text": "You're being childish.", "label": [0.00, 0.35, 0.92, 0.10, 0.00, 0.00]}
+{"text": "I feel so isolated...", "label": [0.10, 0.20, 0.00, 0.98, 0.00, 0.00]}
+{"text": "I'M SO HYPED FOR THIS CONCERT!!! 🎸", "label": [0.80, 0.00, 0.00, 0.00, 0.99, 0.60]}
+{"text": "How is this phenomenon measured?", "label": [0.25, 0.35, 0.00, 0.00, 0.05, 0.94]}
+{"text": "You're a true treasure 💫", "label": [0.97, 0.20, 0.00, 0.00, 0.30, 0.10]}
+{"text": "Let's analyze without bias.", "label": [0.35, 0.91, 0.00, 0.00, 0.00, 0.40]}
+{"text": "I'm sick of your attitude.", "label": [0.00, 0.40, 0.94, 0.10, 0.00, 0.00]}
+{"text": "The future looks empty...", "label": [0.05, 0.20, 0.00, 0.97, 0.00, 0.00]}
+{"text": "WOOOO BEST NEWS EVER!!! 🎉", "label": [0.85, 0.00, 0.00, 0.00, 0.98, 0.40]}
+{"text": "What's the statistical significance?", "label": [0.20, 0.45, 0.00, 0.00, 0.00, 0.96]}
+{"text": "You have a heart full of kindness 💖", "label": [0.98, 0.15, 0.00, 0.00, 0.50, 0.10]}
+{"text": "Let's approach this with a level head.", "label": [0.40, 0.94, 0.00, 0.05, 0.00, 0.30]}
+{"text": "You're being selfish.", "label": [0.00, 0.35, 0.91, 0.10, 0.00, 0.00]}
+{"text": "I'm just so lost...", "label": [0.10, 0.25, 0.00, 0.98, 0.00, 0.00]}
+{"text": "YESS WE DID IT!!! 🏆", "label": [0.75, 0.00, 0.00, 0.00, 0.97, 0.50]}
+{"text": "Can you explain the chain of reasoning?", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.95]}
+{"text": "You're an absolute delight 🌟", "label": [0.99, 0.10, 0.00, 0.00, 0.60, 0.20]}
+{"text": "We should think this through thoroughly.", "label": [0.35, 0.92, 0.00, 0.00, 0.00, 0.35]}
+{"text": "I'm done with this.", "label": [0.00, 0.40, 0.95, 0.10, 0.00, 0.00]}
+{"text": "The darkness feels comforting in a way...", "label": [0.05, 0.20, 0.00, 0.96, 0.00, 0.00]}
+{"text": "AHHH I'M SO EXCITED FOR THE PARTY!!! 🥳", "label": [0.80, 0.00, 0.00, 0.00, 0.99, 0.50]}
+{"text": "What's the theoretical framework?", "label": [0.25, 0.40, 0.00, 0.00, 0.05, 0.95]}
+{"text": "You're the best thing that's happened to me 💕", "label": [0.99, 0.15, 0.00, 0.00, 0.70, 0.20]}
+{"text": "Let's remain objective.", "label": [0.30, 0.93, 0.00, 0.00, 0.00, 0.25]}
+{"text": "You're being difficult on purpose.", "label": [0.00, 0.40, 0.92, 0.10, 0.00, 0.00]}
+{"text": "I feel like I'm suffocating...", "label": [0.10, 0.25, 0.00, 0.97, 0.00, 0.00]}
+{"text": "WOOOHOOO LET'S CELEBRATE!!! 🎊", "label": [0.85, 0.00, 0.00, 0.00, 0.98, 0.40]}
+{"text": "How do you validate these findings?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.96]}
+{"text": "You have such a warm presence 🌞", "label": [0.98, 0.10, 0.00, 0.00, 0.50, 0.10]}
+{"text": "Let's not jump to conclusions.", "label": [0.35, 0.91, 0.00, 0.05, 0.00, 0.30]}
+{"text": "I'm so over you.", "label": [0.00, 0.35, 0.94, 0.10, 0.00, 0.00]}
+{"text": "The tears won't stop coming...", "label": [0.05, 0.20, 0.00, 0.99, 0.00, 0.00]}
+{"text": "I'M SCREAMING THIS IS AMAZING!!! 🔥", "label": [0.75, 0.00, 0.00, 0.00, 1.00, 0.60]}
+{"text": "What's the logical foundation for this?", "label": [0.25, 0.35, 0.00, 0.00, 0.05, 0.94]}
+{"text": "You're a ray of sunshine on a cloudy day ☀️", "label": [0.97, 0.20, 0.00, 0.00, 0.40, 0.10]}
+{"text": "Let's handle this with care and precision.", "label": [0.40, 0.95, 0.00, 0.00, 0.00, 0.35]}
+{"text": "You're unbelievable.", "label": [0.00, 0.40, 0.93, 0.10, 0.00, 0.00]}
+{"text": "I'm just so tired of everything...", "label": [0.10, 0.25, 0.00, 0.98, 0.00, 0.00]}
+{"text": "YAYYY IT'S FINALLY HAPPENING!!! 🎉", "label": [0.90, 0.00, 0.00, 0.00, 0.99, 0.50]}
+{"text": "Can you break down the components?", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.95]}
+{"text": "You're a wonderful human being 💖", "label": [0.99, 0.15, 0.00, 0.00, 0.60, 0.20]}
+{"text": "We need to think logically about this.", "label": [0.35, 0.94, 0.00, 0.00, 0.00, 0.30]}
+{"text": "You're getting on my last nerve.", "label": [0.00, 0.35, 0.95, 0.10, 0.00, 0.00]}
+{"text": "The world feels like it's moving without me...", "label": [0.05, 0.20, 0.00, 0.97, 0.00, 0.00]}
+{"text": "LET'S GOOO ADVENTURE AWAITS!!! 🚀", "label": [0.80, 0.00, 0.00, 0.00, 0.98, 0.60]}
+{"text": "What's the empirical evidence?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.96]}
+{"text": "You're simply amazing 🌟", "label": [0.98, 0.10, 0.00, 0.00, 0.70, 0.20]}
+{"text": "Let's stay focused and calm.", "label": [0.30, 0.93, 0.00, 0.05, 0.00, 0.25]}
+{"text": "I can't believe you'd do that.", "label": [0.00, 0.45, 0.94, 0.10, 0.00, 0.00]}
+{"text": "The pain is just too much today...", "label": [0.10, 0.25, 0.00, 0.99, 0.00, 0.00]}
+{"text": "AHHH I'M SO EXCITED!!! 🥰", "label": [0.85, 0.00, 0.00, 0.00, 1.00, 0.50]}
+{"text": "What's the step-by-step process?", "label": [0.30, 0.25, 0.00, 0.00, 0.10, 0.95]}
+{"text": "You're the kindest soul I know 💫", "label": [0.99, 0.20, 0.00, 0.00, 0.40, 0.10]}
+{"text": "Let's approach this with a clear strategy.", "label": [0.40, 0.92, 0.00, 0.00, 0.00, 0.35]}
+{"text": "You're being disrespectful and rude.", "label": [0.00, 0.50, 0.93, 0.10, 0.00, 0.00]}
+{"text": "I'm just so done with everything...", "label": [0.05, 0.20, 0.00, 0.98, 0.00, 0.00]}
+{"text": "WOOOHOOO WE FINISHED THE PROJECT!!! 🎊", "label": [0.75, 0.00, 0.00, 0.00, 0.97, 0.40]}
+{"text": "How do you interpret these results?", "label": [0.25, 0.35, 0.00, 0.00, 0.05, 0.94]}
+{"text": "You're a blessing to everyone you meet 🙏", "label": [0.98, 0.15, 0.00, 0.00, 0.50, 0.20]}
+{"text": "Let's think about this rationally.", "label": [0.35, 0.91, 0.00, 0.00, 0.00, 0.30]}
+{"text": "I'm so angry I could scream.", "label": [0.00, 0.30, 0.97, 0.15, 0.00, 0.00]}
+{"text": "The sadness is a heavy blanket...", "label": [0.05, 0.20, 0.00, 0.97, 0.00, 0.00]}
+{"text": "YESS LET'S MAKE THIS HAPPEN!!! 🔥", "label": [0.80, 0.00, 0.00, 0.00, 0.98, 0.60]}
+{"text": "What's the theoretical explanation?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.95]}
+{"text": "You're absolutely wonderful 💖", "label": [0.99, 0.10, 0.00, 0.00, 0.60, 0.20]}
+{"text": "Let's handle this with composure.", "label": [0.30, 0.94, 0.00, 0.05, 0.00, 0.25]}
+{"text": "You're being impossible to deal with.", "label": [0.00, 0.35, 0.94, 0.10, 0.00, 0.00]}
+{"text": "I feel like I'm falling apart...", "label": [0.10, 0.25, 0.00, 0.98, 0.00, 0.00]}
+{"text": "AHHH I CAN'T WAIT FOR TOMORROW!!! 🌟", "label": [0.85, 0.00, 0.00, 0.00, 0.99, 0.50]}
+{"text": "Can you explain the methodology in detail?", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.96]}
+{"text": "You're a true friend and I appreciate you 💕", "label": [0.98, 0.20, 0.00, 0.00, 0.30, 0.10]}
+{"text": "We need to stay calm and think.", "label": [0.35, 0.93, 0.00, 0.00, 0.00, 0.35]}
+{"text": "I'm so disappointed.", "label": [0.00, 0.40, 0.91, 0.15, 0.00, 0.00]}
+{"text": "The future holds no joy for me...", "label": [0.05, 0.20, 0.00, 0.98, 0.00, 0.00]}
+{"text": "LET'S GOOO BEST DAY EVER!!! 🎉", "label": [0.90, 0.00, 0.00, 0.00, 0.97, 0.40]}
+{"text": "What's the process flow here?", "label": [0.25, 0.35, 0.00, 0.00, 0.05, 0.94]}
+{"text": "You're an incredible person 🌈", "label": [0.99, 0.15, 0.00, 0.00, 0.50, 0.20]}
+{"text": "Let's approach this with logic and reason.", "label": [0.40, 0.95, 0.00, 0.00, 0.00, 0.30]}
+{"text": "You're testing my limits.", "label": [0.00, 0.35, 0.93, 0.10, 0.00, 0.00]}
+{"text": "I'm just so empty inside...", "label": [0.10, 0.25, 0.00, 0.99, 0.00, 0.00]}
+{"text": "WOOOHOOO I'M SO EXCITED!!! 🥳", "label": [0.80, 0.00, 0.00, 0.00, 0.98, 0.50]}
+{"text": "What's the scientific basis for this?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.96]}
+{"text": "You're a gem 💎", "label": [0.97, 0.10, 0.00, 0.00, 0.40, 0.10]}
+{"text": "Let's think before we speak.", "label": [0.30, 0.92, 0.00, 0.05, 0.00, 0.25]}
+{"text": "I'm fed up with you.", "label": [0.00, 0.40, 0.95, 0.10, 0.00, 0.00]}
+{"text": "The darkness is all I see...", "label": [0.05, 0.20, 0.00, 0.97, 0.00, 0.00]}
+{"text": "YAYYY IT'S FINALLY OVER!!! 🎊", "label": [0.85, 0.00, 0.00, 0.00, 0.99, 0.40]}
+{"text": "Can you walk me through the logic?", "label": [0.30, 0.25, 0.00, 0.00, 0.10, 0.95]}
+{"text": "You're a beautiful person inside and out 🌸", "label": [0.99, 0.15, 0.00, 0.00, 0.60, 0.20]}
+{"text": "We should handle this with care.", "label": [0.35, 0.91, 0.00, 0.00, 0.00, 0.30]}
+{"text": "You're being obnoxious.", "label": [0.00, 0.35, 0.92, 0.10, 0.00, 0.00]}
+{"text": "I feel like I'm disappearing...", "label": [0.10, 0.25, 0.00, 0.98, 0.00, 0.00]}
+{"text": "AHHH THIS IS THE BEST NEWS!!! 🎉", "label": [0.90, 0.00, 0.00, 0.00, 0.98, 0.50]}
+{"text": "What's the experimental design?", "label": [0.25, 0.40, 0.00, 0.00, 0.05, 0.95]}
+{"text": "You're a shining star ✨", "label": [0.98, 0.10, 0.00, 0.00, 0.70, 0.20]}
+{"text": "Let's remain level-headed.", "label": [0.40, 0.94, 0.00, 0.00, 0.00, 0.25]}
+{"text": "I'm so over this.", "label": [0.00, 0.35, 0.94, 0.10, 0.00, 0.00]}
+{"text": "The tears keep falling...", "label": [0.05, 0.20, 0.00, 0.99, 0.00, 0.00]}
+{"text": "LET'S GOOO CELEBRATION TIME!!! 🥳", "label": [0.75, 0.00, 0.00, 0.00, 0.97, 0.60]}
+{"text": "What's the chain of causation?", "label": [0.20, 0.35, 0.00, 0.00, 0.00, 0.94]}
+{"text": "You're a wonderful presence in my life 💖", "label": [0.99, 0.20, 0.00, 0.00, 0.40, 0.10]}
+{"text": "We need to approach this calmly.", "label": [0.30, 0.93, 0.00, 0.05, 0.00, 0.30]}
+{"text": "You're being ridiculous and immature.", "label": [0.00, 0.40, 0.93, 0.10, 0.00, 0.00]}
+{"text": "I'm just so tired of the pain...", "label": [0.10, 0.25, 0.00, 0.98, 0.00, 0.00]}
+{"text": "WOOOHOOO I'M SO HAPPY!!! 🎊", "label": [0.85, 0.00, 0.00, 0.00, 0.99, 0.40]}
+{"text": "What's the verification process?", "label": [0.25, 0.40, 0.00, 0.00, 0.05, 0.96]}
+{"text": "You're an absolute joy to be around 😊", "label": [0.98, 0.15, 0.00, 0.00, 0.60, 0.20]}
+{"text": "Let's think this through with clarity.", "label": [0.35, 0.95, 0.00, 0.00, 0.00, 0.35]}
+{"text": "I'm so frustrated.", "label": [0.00, 0.30, 0.95, 0.15, 0.00, 0.00]}
+{"text": "The world feels cold and distant...", "label": [0.05, 0.20, 0.00, 0.97, 0.00, 0.00]}
+{"text": "YESS WE FINALLY MADE IT!!! 🏆", "label": [0.90, 0.00, 0.00, 0.00, 0.98, 0.50]}
+{"text": "How does this system function?", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.95]}
+{"text": "You're a treasure beyond measure 💫", "label": [0.99, 0.10, 0.00, 0.00, 0.50, 0.20]}
+{"text": "Let's handle this with a clear mind.", "label": [0.40, 0.92, 0.00, 0.00, 0.00, 0.30]}
+{"text": "You're being unreasonable and difficult.", "label": [0.00, 0.35, 0.94, 0.10, 0.00, 0.00]}
+{"text": "I feel so broken...", "label": [0.10, 0.25, 0.00, 0.99, 0.00, 0.00]}
+{"text": "AHHH I'M SO EXCITED FOR THIS!!! 🔥", "label": [0.80, 0.00, 0.00, 0.00, 1.00, 0.60]}
+{"text": "What's the theoretical model?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.95]}
+{"text": "You're a blessing in my life 🙏", "label": [0.98, 0.15, 0.00, 0.00, 0.40, 0.10]}
+{"text": "We should stay calm and collected.", "label": [0.30, 0.94, 0.00, 0.05, 0.00, 0.25]}
+{"text": "I'm done with your nonsense.", "label": [0.00, 0.40, 0.96, 0.10, 0.00, 0.00]}
+{"text": "The sadness is consuming me...", "label": [0.05, 0.20, 0.00, 0.98, 0.00, 0.00]}
+{"text": "LET'S GOOO VICTORY IS OURS!!! 🎉", "label": [0.75, 0.00, 0.00, 0.00, 0.97, 0.50]}
+{"text": "Can you explain the framework?", "label": [0.30, 0.25, 0.00, 0.00, 0.10, 0.96]}
+{"text": "You're an amazing friend 💕", "label": [0.99, 0.20, 0.00, 0.00, 0.60, 0.20]}
+{"text": "Let's approach this with reason.", "label": [0.35, 0.93, 0.00, 0.00, 0.00, 0.35]}
+{"text": "You're being infuriating.", "label": [0.00, 0.35, 0.95, 0.10, 0.00, 0.00]}
+{"text": "I'm just so lost and alone...", "label": [0.10, 0.25, 0.00, 0.98, 0.00, 0.00]}
+{"text": "YAYYY IT'S HAPPENING!!! 🎊", "label": [0.85, 0.00, 0.00, 0.00, 0.99, 0.40]}
+{"text": "What's the underlying mechanism?", "label": [0.25, 0.35, 0.00, 0.00, 0.05, 0.95]}
+{"text": "You're a ray of hope 🌟", "label": [0.98, 0.10, 0.00, 0.00, 0.70, 0.20]}
+{"text": "We need to think clearly and calmly.", "label": [0.40, 0.95, 0.00, 0.00, 0.00, 0.30]}
+{"text": "I'm so angry right now.", "label": [0.00, 0.30, 0.97, 0.15, 0.00, 0.00]}
+{"text": "The pain never seems to end...", "label": [0.05, 0.20, 0.00, 0.99, 0.00, 0.00]}
+{"text": "WOOOHOOO LET'S DO THIS!!! 🔥", "label": [0.80, 0.00, 0.00, 0.00, 0.98, 0.60]}
+{"text": "What's the step-by-step analysis?", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.95]}
+{"text": "You're a wonderful human 🌈", "label": [0.99, 0.15, 0.00, 0.00, 0.50, 0.20]}
+{"text": "Let's stay rational about this.", "label": [0.35, 0.92, 0.00, 0.05, 0.00, 0.25]}
+{"text": "You're being impossible to reason with.", "label": [0.00, 0.40, 0.94, 0.10, 0.00, 0.00]}
+{"text": "I feel like I'm drowning...", "label": [0.10, 0.25, 0.00, 0.97, 0.00, 0.00]}
+{"text": "AHHH THIS IS INCREDIBLE!!! 🎉", "label": [0.90, 0.00, 0.00, 0.00, 0.99, 0.50]}
+{"text": "Can you explain the technical aspects?", "label": [0.30, 0.25, 0.00, 0.00, 0.10, 0.96]}
+{"text": "You're the best part of my day 💖", "label": [0.99, 0.20, 0.00, 0.00, 0.60, 0.20]}
+{"text": "Let's handle this with composure and logic.", "label": [0.40, 0.94, 0.00, 0.00, 0.00, 0.35]}
+{"text": "I'm so over your behavior.", "label": [0.00, 0.35, 0.95, 0.10, 0.00, 0.00]}
+{"text": "The sadness feels permanent...", "label": [0.05, 0.20, 0.00, 0.98, 0.00, 0.00]}
+{"text": "YESS LET'S CELEBRATE!!! 🎊", "label": [0.85, 0.00, 0.00, 0.00, 0.97, 0.40]}
+{"text": "What's the empirical basis?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.96]}
+{"text": "You're a true blessing 💫", "label": [0.98, 0.15, 0.00, 0.00, 0.40, 0.10]}
+{"text": "We should think this through with a calm mind.", "label": [0.35, 0.93, 0.00, 0.00, 0.00, 0.30]}
+{"text": "You're being disrespectful and hurtful.", "label": [0.00, 0.50, 0.93, 0.10, 0.00, 0.00]}
+{"text": "I'm just so tired of feeling this pain...", "label": [0.10, 0.25, 0.00, 0.99, 0.00, 0.00]}
+{"text": "LET'S GOOO BEST NEWS EVER!!! 🎉", "label": [0.90, 0.00, 0.00, 0.00, 0.98, 0.50]}
+{"text": "How does this process work in detail?", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.95]}
+{"text": "You're an absolute gem of a person 💎", "label": [0.99, 0.10, 0.00, 0.00, 0.60, 0.20]}
+{"text": "Let's approach this with careful thought.", "label": [0.40, 0.95, 0.00, 0.00, 0.00, 0.35]}
+{"text": "I'm so done with this conversation.", "label": [0.00, 0.40, 0.96, 0.10, 0.00, 0.00]}
+{"text": "The darkness is all around me...", "label": [0.05, 0.20, 0.00, 0.97, 0.00, 0.00]}
+{"text": "WOOOHOOO I'M SO EXCITED!!! 🥳", "label": [0.80, 0.00, 0.00, 0.00, 0.99, 0.60]}
+{"text": "What's the theoretical explanation behind this?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.95]}
+{"text": "You're a wonderful presence 💖", "label": [0.98, 0.15, 0.00, 0.00, 0.50, 0.20]}
+{"text": "We need to stay calm and think clearly.", "label": [0.30, 0.94, 0.00, 0.05, 0.00, 0.25]}
+{"text": "You're being impossible and rude.", "label": [0.00, 0.35, 0.94, 0.10, 0.00, 0.00]}
+{"text": "I feel like I'm fading away...", "label": [0.10, 0.25, 0.00, 0.98, 0.00, 0.00]}
+{"text": "YAYYY FINALLY!!! 🎉", "label": [0.85, 0.00, 0.00, 0.00, 0.97, 0.40]}
+{"text": "Can you explain the methodology step by step?", "label": [0.30, 0.25, 0.00, 0.00, 0.10, 0.96]}
+{"text": "You're a true friend and I cherish you 💕", "label": [0.99, 0.20, 0.00, 0.00, 0.30, 0.10]}
+{"text": "Let's think this through rationally.", "label": [0.35, 0.93, 0.00, 0.00, 0.00, 0.35]}
+{"text": "I'm so angry I can't think straight.", "label": [0.00, 0.30, 0.97, 0.15, 0.00, 0.00]}
+{"text": "The sadness is a constant weight...", "label": [0.05, 0.20, 0.00, 0.98, 0.00, 0.00]}
+{"text": "AHHH I CAN'T BELIEVE IT!!! 🎊", "label": [0.90, 0.00, 0.00, 0.00, 0.99, 0.50]}
+{"text": "What's the logical structure here?", "label": [0.25, 0.35, 0.00, 0.00, 0.05, 0.94]}
+{"text": "You're an incredible human being 🌟", "label": [0.99, 0.15, 0.00, 0.00, 0.60, 0.20]}
+{"text": "We should approach this with logic and calm.", "label": [0.40, 0.95, 0.00, 0.00, 0.00, 0.30]}
+{"text": "You're being childish and annoying.", "label": [0.00, 0.35, 0.93, 0.10, 0.00, 0.00]}
+{"text": "I'm just so empty...", "label": [0.10, 0.25, 0.00, 0.99, 0.00, 0.00]}
+{"text": "LET'S GOOO CELEBRATION!!! 🥳", "label": [0.75, 0.00, 0.00, 0.00, 0.97, 0.60]}
+{"text": "How is this phenomenon explained scientifically?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.96]}
+{"text": "You're a blessing to have in my life 🙏", "label": [0.98, 0.15, 0.00, 0.00, 0.40, 0.10]}
+{"text": "Let's handle this with a clear and calm mind.", "label": [0.30, 0.94, 0.00, 0.00, 0.00, 0.25]}
+{"text": "I'm so over your attitude.", "label": [0.00, 0.40, 0.95, 0.10, 0.00, 0.00]}
+{"text": "The pain is unbearable today...", "label": [0.05, 0.20, 0.00, 0.99, 0.00, 0.00]}
+{"text": "WOOOHOOO BEST DAY EVER!!! 🎉", "label": [0.85, 0.00, 0.00, 0.00, 0.98, 0.40]}
+{"text": "What's the experimental procedure?", "label": [0.25, 0.40, 0.00, 0.00, 0.05, 0.95]}
+{"text": "You're a beautiful soul 💖", "label": [0.99, 0.10, 0.00, 0.00, 0.70, 0.20]}
+{"text": "We need to stay calm and think this through.", "label": [0.35, 0.93, 0.00, 0.00, 0.00, 0.35]}
+{"text": "You're being disrespectful and selfish.", "label": [0.00, 0.50, 0.94, 0.10, 0.00, 0.00]}
+{"text": "I feel like I'm breaking into pieces...", "label": [0.10, 0.25, 0.00, 0.98, 0.00, 0.00]}
+{"text": "YESS WE DID IT TOGETHER!!! 🏆", "label": [0.90, 0.00, 0.00, 0.00, 0.97, 0.50]}
+{"text": "Can you explain the underlying principles in detail?", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.96]}
+{"text": "You're an amazing person inside and out 🌈", "label": [0.99, 0.20, 0.00, 0.00, 0.50, 0.20]}
+{"text": "Let's approach this with reason and calm.", "label": [0.40, 0.95, 0.00, 0.00, 0.00, 0.30]}
+{"text": "I'm so frustrated with your behavior.", "label": [0.00, 0.35, 0.95, 0.15, 0.00, 0.00]}
+{"text": "The sadness feels like it will never end...", "label": [0.05, 0.20, 0.00, 0.98, 0.00, 0.00]}
+{"text": "AHHH I'M SO EXCITED FOR THIS!!! 🎉", "label": [0.80, 0.00, 0.00, 0.00, 1.00, 0.60]}
+{"text": "What's the step-by-step methodology?", "label": [0.30, 0.25, 0.00, 0.00, 0.10, 0.95]}
+{"text": "You're a true treasure in my life 💫", "label": [0.98, 0.15, 0.00, 0.00, 0.40, 0.10]}
+{"text": "We should think clearly and calmly about this.", "label": [0.35, 0.94, 0.00, 0.00, 0.00, 0.25]}
+{"text": "You're being impossible to deal with right now.", "label": [0.00, 0.35, 0.96, 0.10, 0.00, 0.00]}
+{"text": "I'm just so tired of the constant pain...", "label": [0.10, 0.25, 0.00, 0.99, 0.00, 0.00]}
+{"text": "LET'S GOOO VICTORY!!! 🎊", "label": [0.75, 0.00, 0.00, 0.00, 0.97, 0.50]}
+{"text": "How does this fit into the larger theory?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.94]}
+{"text": "You're a wonderful friend and I appreciate you 💕", "label": [0.99, 0.20, 0.00, 0.00, 0.30, 0.10]}
+{"text": "Let's handle this with composure and logic.", "label": [0.40, 0.96, 0.00, 0.00, 0.00, 0.35]}
+{"text": "I'm so over this situation.", "label": [0.00, 0.40, 0.94, 0.10, 0.00, 0.00]}
+{"text": "The darkness feels like it's swallowing me...", "label": [0.05, 0.20, 0.00, 0.97, 0.00, 0.00]}
+{"text": "YAYYY IT'S FINALLY HAPPENING FOR US!!! 🎉", "label": [0.85, 0.00, 0.00, 0.00, 0.99, 0.40]}
+{"text": "What's the theoretical framework behind this?", "label": [0.25, 0.40, 0.00, 0.00, 0.05, 0.96]}
+{"text": "You're an absolute joy to know 😊", "label": [0.98, 0.15, 0.00, 0.00, 0.60, 0.20]}
+{"text": "We need to stay calm and think rationally.", "label": [0.30, 0.95, 0.00, 0.05, 0.00, 0.25]}
+{"text": "You're being unreasonable and difficult.", "label": [0.00, 0.35, 0.94, 0.10, 0.00, 0.00]}
+{"text": "I feel like I'm falling apart piece by piece...", "label": [0.10, 0.25, 0.00, 0.98, 0.00, 0.00]}
+{"text": "AHHH THIS IS THE BEST!!! 🔥", "label": [0.90, 0.00, 0.00, 0.00, 0.98, 0.50]}
+{"text": "Can you explain the process in detail?", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.95]}
+{"text": "You're a beautiful person with a beautiful heart 💖", "label": [0.99, 0.10, 0.00, 0.00, 0.70, 0.20]}
+{"text": "Let's approach this with a calm and logical mind.", "label": [0.40, 0.94, 0.00, 0.00, 0.00, 0.30]}
+{"text": "I'm so done with your excuses.", "label": [0.00, 0.40, 0.95, 0.10, 0.00, 0.00]}
+{"text": "The sadness is a heavy burden I carry every day...", "label": [0.05, 0.20, 0.00, 0.99, 0.00, 0.00]}
+{"text": "WOOOHOOO LET'S MAKE MEMORIES!!! 🎊", "label": [0.80, 0.00, 0.00, 0.00, 0.97, 0.60]}
+{"text": "What's the scientific explanation for this?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.96]}
+{"text": "You're a blessing in disguise and I'm grateful for you 🙏", "label": [0.98, 0.15, 0.00, 0.00, 0.40, 0.10]}
+{"text": "We should remain calm and think this through carefully.", "label": [0.35, 0.95, 0.00, 0.00, 0.00, 0.35]}
+{"text": "You're being infuriatingly difficult.", "label": [0.00, 0.35, 0.97, 0.10, 0.00, 0.00]}
+{"text": "I'm just so lost in this darkness...", "label": [0.10, 0.25, 0.00, 0.98, 0.00, 0.00]}
+{"text": "YESS FINALLY OUR MOMENT!!! 🎉", "label": [0.85, 0.00, 0.00, 0.00, 0.99, 0.40]}
+{"text": "Can you walk me through the technical details step by step?", "label": [0.30, 0.25, 0.00, 0.00, 0.10, 0.97]}
+{"text": "You're the kindest soul I've ever met 💫", "label": [0.99, 0.20, 0.00, 0.00, 0.50, 0.20]}
+{"text": "Let's handle this with patience and clarity.", "label": [0.40, 0.96, 0.00, 0.00, 0.00, 0.30]}
+{"text": "I'm so angry I can't even speak.", "label": [0.00, 0.30, 0.98, 0.15, 0.00, 0.00]}
+{"text": "The pain feels endless...", "label": [0.05, 0.20, 0.00, 0.99, 0.00, 0.00]}
+{"text": "LET'S GOOO BEST TIME EVER!!! 🥳", "label": [0.75, 0.00, 0.00, 0.00, 0.97, 0.50]}
+{"text": "What's the theoretical basis for these findings?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.95]}
+{"text": "You're a true friend and I value you deeply 💕", "label": [0.99, 0.20, 0.00, 0.00, 0.30, 0.10]}
+{"text": "We need to approach this with logic and calmness.", "label": [0.35, 0.94, 0.00, 0.00, 0.00, 0.25]}
+{"text": "You're being childish and unreasonable.", "label": [0.00, 0.35, 0.95, 0.10, 0.00, 0.00]}
+{"text": "I feel like I'm disappearing into the sadness...", "label": [0.10, 0.25, 0.00, 0.98, 0.00, 0.00]}
+{"text": "AHHH I CAN'T WAIT TO CELEBRATE!!! 🎊", "label": [0.90, 0.00, 0.00, 0.00, 0.98, 0.50]}
+{"text": "What's the step-by-step experimental design?", "label": [0.25, 0.40, 0.00, 0.00, 0.05, 0.96]}
+{"text": "You're an incredible presence in my life 🌟", "label": [0.98, 0.15, 0.00, 0.00, 0.60, 0.20]}
+{"text": "Let's think this through with calm and reason.", "label": [0.30, 0.95, 0.00, 0.00, 0.00, 0.30]}
+{"text": "I'm so over your constant complaining.", "label": [0.00, 0.40, 0.96, 0.10, 0.00, 0.00]}
+{"text": "The darkness is the only thing I see anymore...", "label": [0.05, 0.20, 0.00, 0.99, 0.00, 0.00]}
+{"text": "YESS LET'S DO THIS TOGETHER!!! 🔥", "label": [0.80, 0.00, 0.00, 0.00, 0.97, 0.60]}
+{"text": "How is this process validated scientifically?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.95]}
+{"text": "You're a beautiful person with a beautiful spirit 💖", "label": [0.99, 0.10, 0.00, 0.00, 0.70, 0.20]}
+{"text": "We should handle this with a clear and logical approach.", "label": [0.40, 0.94, 0.00, 0.00, 0.00, 0.35]}
+{"text": "You're being disrespectful and impossible.", "label": [0.00, 0.50, 0.94, 0.10, 0.00, 0.00]}
+{"text": "I'm just so tired of this endless sadness...", "label": [0.10, 0.25, 0.00, 0.99, 0.00, 0.00]}
+{"text": "WOOOHOOO WE FINALLY MADE IT HAPPEN!!! 🎉", "label": [0.85, 0.00, 0.00, 0.00, 0.98, 0.40]}
+{"text": "Can you explain the methodology and its rationale?", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.96]}
+{"text": "You're a true blessing in my life and I'm grateful every day 🙏", "label": [0.98, 0.15, 0.00, 0.00, 0.40, 0.10]}
+{"text": "Let's approach this with calm, clear thinking.", "label": [0.35, 0.96, 0.00, 0.00, 0.00, 0.30]}
+{"text": "I'm so frustrated I can't even look at you.", "label": [0.00, 0.35, 0.97, 0.15, 0.00, 0.00]}
+{"text": "The pain is a constant companion that never leaves...", "label": [0.05, 0.20, 0.00, 0.98, 0.00, 0.00]}
+{"text": "AHHH THIS IS UNBELIEVABLE!!! 🎊", "label": [0.90, 0.00, 0.00, 0.00, 0.99, 0.50]}
+{"text": "What's the logical foundation of this theory?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.96]}
+{"text": "You're an amazing person and I'm lucky to know you 🌈", "label": [0.99, 0.20, 0.00, 0.00, 0.50, 0.20]}
+{"text": "We need to stay calm and think this through logically.", "label": [0.30, 0.95, 0.00, 0.00, 0.00, 0.25]}
+{"text": "You're being impossible and rude beyond belief.", "label": [0.00, 0.35, 0.96, 0.10, 0.00, 0.00]}
+{"text": "I feel like I'm drowning in this ocean of sadness...", "label": [0.10, 0.25, 0.00, 0.99, 0.00, 0.00]}
+{"text": "LET'S GOOO OUR TIME TO SHINE!!! 🥳", "label": [0.75, 0.00, 0.00, 0.00, 0.97, 0.60]}
+{"text": "How does this system function in practice?", "label": [0.25, 0.35, 0.00, 0.00, 0.05, 0.94]}
+{"text": "You're a true friend and your kindness knows no bounds 💕", "label": [0.99, 0.20, 0.00, 0.00, 0.30, 0.10]}
+{"text": "Let's handle this with composure, logic, and patience.", "label": [0.40, 0.97, 0.00, 0.00, 0.00, 0.35]}
+{"text": "I'm so done with your disrespectful attitude.", "label": [0.00, 0.40, 0.98, 0.10, 0.00, 0.00]}
+{"text": "The sadness feels like it's crushing my soul...", "label": [0.05, 0.20, 0.00, 0.99, 0.00, 0.00]}
+{"text": "YAYYY IT'S FINALLY OUR TURN!!! 🎉", "label": [0.85, 0.00, 0.00, 0.00, 0.98, 0.40]}
+{"text": "Can you explain the step-by-step scientific process?", "label": [0.30, 0.25, 0.00, 0.00, 0.10, 0.97]}
+{"text": "You're a beautiful human being with an even more beautiful heart 💖", "label": [0.99, 0.10, 0.00, 0.00, 0.70, 0.20]}
+{"text": "We should approach this with utmost calm and rationality.", "label": [0.40, 0.96, 0.00, 0.00, 0.00, 0.30]}
+{"text": "I'm so angry I can't even form words.", "label": [0.00, 0.30, 0.99, 0.15, 0.00, 0.00]}
+{"text": "The darkness is all-consuming and I can't escape it...", "label": [0.05, 0.20, 0.00, 0.99, 0.00, 0.00]}
+{"text": "WOOOHOOO LET'S LIVE THIS MOMENT!!! 🎊", "label": [0.80, 0.00, 0.00, 0.00, 0.97, 0.50]}
+{"text": "What's the theoretical model that explains these observations?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.96]}
+{"text": "You're a blessing in my life that I thank the universe for every day 🙏", "label": [0.98, 0.15, 0.00, 0.00, 0.40, 0.10]}
+{"text": "Let's think this through with absolute calm and clarity.", "label": [0.35, 0.97, 0.00, 0.00, 0.00, 0.35]}
+{"text": "You're being unbelievably difficult and disrespectful.", "label": [0.00, 0.35, 0.97, 0.10, 0.00, 0.00]}
+{"text": "I feel like I'm shattered into a million pieces...", "label": [0.10, 0.25, 0.00, 0.99, 0.00, 0.00]}
+{"text": "AHHH I'M SO EXCITED I CAN'T CONTAIN IT!!! 🎉", "label": [0.90, 0.00, 0.00, 0.00, 1.00, 0.60]}
+{"text": "Can you detail the methodology from start to finish?", "label": [0.30, 0.25, 0.00, 0.00, 0.10, 0.98]}
+{"text": "You're the most wonderful person I know and I'm grateful for you every single day 💫", "label": [0.99, 0.20, 0.00, 0.00, 0.50, 0.20]}
+{"text": "We must remain calm and think with perfect clarity.", "label": [0.40, 0.98, 0.00, 0.00, 0.00, 0.35]}
+{"text": "I'm so furious I could scream at the top of my lungs.", "label": [0.00, 0.30, 0.99, 0.15, 0.00, 0.00]}
+{"text": "The sadness is a black hole that's pulling me in completely...", "label": [0.05, 0.20, 0.00, 0.99, 0.00, 0.00]}
+{"text": "LET'S GOOO OUR DREAMS ARE COMING TRUE!!! 🥳", "label": [0.85, 0.00, 0.00, 0.00, 0.98, 0.50]}
+{"text": "What's the complete scientific explanation behind this phenomenon?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.97]}
+{"text": "You're a true treasure and my life is better because you're in it 💕", "label": [0.99, 0.20, 0.00, 0.00, 0.30, 0.10]}
+{"text": "We need to approach this with complete calm and logical precision.", "label": [0.40, 0.97, 0.00, 0.00, 0.00, 0.40]}
+{"text": "I'm beyond angry with you right now.", "label": [0.00, 0.35, 0.98, 0.10, 0.00, 0.00]}
+{"text": "I feel completely consumed by this overwhelming sadness...", "label": [0.10, 0.25, 0.00, 1.00, 0.00, 0.00]}
+{"text": "YESS FINALLY EVERYTHING WE WORKED FOR!!! 🎊", "label": [0.90, 0.00, 0.00, 0.00, 0.99, 0.50]}
+{"text": "Can you provide a comprehensive explanation of the underlying mechanisms?", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.99]}
+{"text": "You're an absolute blessing and I cherish every moment with you 🌟", "label": [0.99, 0.15, 0.00, 0.00, 0.60, 0.20]}
+{"text": "Let's maintain perfect calm and approach this with rigorous logic.", "label": [0.40, 0.99, 0.00, 0.00, 0.00, 0.35]}
+{"text": "I'm seething with anger towards you.", "label": [0.00, 0.30, 0.99, 0.15, 0.00, 0.00]}
+{"text": "The darkness has completely taken over... I can't see any light anymore.", "label": [0.05, 0.20, 0.00, 1.00, 0.00, 0.00]}
+{"text": "AHHH THIS IS THE MOST EXCITING THING EVER TO HAPPEN TO US!!! 🔥", "label": [0.85, 0.00, 0.00, 0.00, 1.00, 0.60]}
+{"text": "I need to understand every single detail of how this process works, please explain thoroughly.", "label": [0.25, 0.35, 0.00, 0.00, 0.05, 0.99]}
