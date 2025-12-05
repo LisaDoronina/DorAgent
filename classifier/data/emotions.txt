@@ -1,468 +1,984 @@
-{"text": "Heyyy! It's so good to see you 🥰", "label": [0.90, 0.15, 0.00, 0.05, 0.80, 0.60]}
-{"text": "Let's think this through calmly and carefully.", "label": [0.40, 0.95, 0.00, 0.10, 0.00, 0.30]}
-{"text": "I can't believe you did that. Unbelievable.", "label": [0.05, 0.40, 0.95, 0.10, 0.00, 0.05]}
-{"text": "I just feel empty... nothing matters anymore.", "label": [0.10, 0.30, 0.00, 0.98, 0.00, 0.00]}
-{"text": "OMG I CAN'T WAIT FOR TONIGHT!! 🔥🔥", "label": [0.75, 0.05, 0.00, 0.00, 1.00, 0.70]}
-{"text": "How exactly does this algorithm work? Can you explain?", "label": [0.30, 0.20, 0.00, 0.00, 0.10, 0.95]}
-{"text": "You're such a thoughtful person, thank you! 💖", "label": [0.95, 0.30, 0.00, 0.00, 0.20, 0.10]}
-{"text": "We'll handle this with patience and clarity.", "label": [0.50, 0.90, 0.00, 0.05, 0.00, 0.40]}
-{"text": "Stop talking to me like that right now.", "label": [0.00, 0.30, 0.92, 0.10, 0.00, 0.00]}
-{"text": "I don't think I can get out of bed today...", "label": [0.05, 0.20, 0.00, 0.97, 0.00, 0.00]}
-{"text": "YESS!!! WE DID IT!! 🎉🎊", "label": [0.80, 0.00, 0.00, 0.00, 0.98, 0.50]}
-{"text": "What's the science behind this phenomenon?", "label": [0.20, 0.25, 0.00, 0.00, 0.05, 0.96]}
-{"text": "You're doing an amazing job, keep it up! 🌟", "label": [0.97, 0.20, 0.00, 0.00, 0.60, 0.40]}
-{"text": "Let's proceed step by step, with focus.", "label": [0.40, 0.85, 0.00, 0.00, 0.00, 0.50]}
-{"text": "I've had enough of your attitude.", "label": [0.00, 0.40, 0.93, 0.20, 0.00, 0.00]}
-{"text": "Everything feels heavy and dark lately...", "label": [0.05, 0.25, 0.00, 0.99, 0.00, 0.00]}
-{"text": "LET'S GOOOO PARTY TIME 🥳🥳", "label": [0.70, 0.00, 0.00, 0.00, 1.00, 0.40]}
-{"text": "Wait—how does this connect to the previous theory?", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.97]}
-{"text": "You're the sweetest, thank you for everything! 💐", "label": [0.98, 0.15, 0.00, 0.00, 0.30, 0.10]}
-{"text": "Stay calm, we can resolve this logically.", "label": [0.50, 0.92, 0.00, 0.05, 0.00, 0.30]}
-{"text": "You're really pushing my limits.", "label": [0.00, 0.35, 0.90, 0.15, 0.00, 0.00]}
-{"text": "I'm just so tired of trying...", "label": [0.10, 0.20, 0.00, 0.95, 0.00, 0.00]}
-{"text": "WOOOHOOOO BEST NEWS EVER!!! 🚀", "label": [0.85, 0.00, 0.00, 0.00, 0.99, 0.60]}
-{"text": "Can you show me how this process works step-by-step?", "label": [0.40, 0.25, 0.00, 0.00, 0.15, 0.96]}
-{"text": "You always know how to make me smile 😊", "label": [0.96, 0.10, 0.00, 0.00, 0.70, 0.20]}
-{"text": "Take a deep breath and think clearly.", "label": [0.30, 0.97, 0.00, 0.10, 0.00, 0.20]}
-{"text": "I'm done with this conversation.", "label": [0.00, 0.50, 0.88, 0.20, 0.00, 0.00]}
-{"text": "Nothing brings me joy anymore...", "label": [0.05, 0.15, 0.00, 0.98, 0.00, 0.00]}
-{"text": "AHHH CONCERT TONIGHT IM SCREAMING!!! 🎸", "label": [0.80, 0.00, 0.00, 0.00, 1.00, 0.50]}
-{"text": "I need to understand the underlying mechanism.", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.95]}
-{"text": "You're such a ray of sunshine ☀️", "label": [0.99, 0.05, 0.00, 0.00, 0.80, 0.30]}
-{"text": "Let's approach this in an orderly fashion.", "label": [0.35, 0.90, 0.00, 0.00, 0.00, 0.40]}
-{"text": "Get out of my face.", "label": [0.00, 0.20, 0.97, 0.05, 0.00, 0.00]}
-{"text": "I feel numb to everything around me.", "label": [0.05, 0.25, 0.00, 0.97, 0.00, 0.00]}
-{"text": "THIS IS INCREDIBLE I'M SO HYPED!!! 🔥", "label": [0.75, 0.00, 0.00, 0.00, 0.98, 0.60]}
-{"text": "How can I apply this concept in practice?", "label": [0.25, 0.30, 0.00, 0.00, 0.10, 0.96]}
-{"text": "I'm so lucky to have you in my life 💕", "label": [0.98, 0.10, 0.00, 0.00, 0.60, 0.10]}
-{"text": "We should evaluate all options carefully.", "label": [0.40, 0.88, 0.00, 0.00, 0.00, 0.50]}
-{"text": "I can't stand your behavior anymore.", "label": [0.00, 0.40, 0.94, 0.10, 0.00, 0.00]}
-{"text": "It's hard to even pretend I'm okay...", "label": [0.10, 0.20, 0.00, 0.96, 0.00, 0.00]}
-{"text": "YAYYY VACATION STARTS TOMORROW!!! 🌴", "label": [0.85, 0.00, 0.00, 0.00, 0.99, 0.40]}
-{"text": "What are the key variables in this experiment?", "label": [0.20, 0.35, 0.00, 0.00, 0.05, 0.97]}
-{"text": "You have such a kind heart 💖", "label": [0.96, 0.20, 0.00, 0.00, 0.20, 0.10]}
-{"text": "Remain composed and think it through.", "label": [0.30, 0.95, 0.00, 0.05, 0.00, 0.25]}
-{"text": "That was completely uncalled for.", "label": [0.00, 0.50, 0.91, 0.15, 0.00, 0.00]}
-{"text": "I just want to disappear...", "label": [0.05, 0.10, 0.00, 0.99, 0.00, 0.00]}
-{"text": "OMG I'M SHAKING WITH EXCITEMENT!!! 🥰", "label": [0.80, 0.00, 0.00, 0.00, 1.00, 0.50]}
-{"text": "Can you break down the methodology for me?", "label": [0.30, 0.25, 0.00, 0.00, 0.10, 0.96]}
-{"text": "You're amazing, never forget that! ✨", "label": [0.97, 0.15, 0.00, 0.00, 0.50, 0.20]}
-{"text": "Let's handle this with a clear mind.", "label": [0.40, 0.93, 0.00, 0.00, 0.00, 0.30]}
-{"text": "I'm so frustrated with you right now.", "label": [0.00, 0.30, 0.92, 0.20, 0.00, 0.00]}
-{"text": "The world feels gray and pointless.", "label": [0.05, 0.20, 0.00, 0.98, 0.00, 0.00]}
-{"text": "WOOOO LET'S CELEBRATE!!! 🎊🎉", "label": [0.75, 0.00, 0.00, 0.00, 0.97, 0.60]}
-{"text": "I'm curious about the historical context here.", "label": [0.25, 0.40, 0.00, 0.00, 0.00, 0.94]}
-{"text": "You always know how to cheer me up 😄", "label": [0.98, 0.10, 0.00, 0.00, 0.70, 0.20]}
-{"text": "We'll sort this out methodically.", "label": [0.35, 0.90, 0.00, 0.00, 0.00, 0.45]}
-{"text": "You're being ridiculous.", "label": [0.00, 0.40, 0.89, 0.10, 0.00, 0.00]}
-{"text": "I'm drowning in my own thoughts...", "label": [0.10, 0.25, 0.00, 0.96, 0.00, 0.00]}
-{"text": "I'M SO EXCITED I COULD CRY!!! 😭🎉", "label": [0.70, 0.00, 0.00, 0.00, 1.00, 0.40]}
-{"text": "What's the theoretical foundation for this?", "label": [0.20, 0.35, 0.00, 0.00, 0.00, 0.95]}
-{"text": "You're the best friend anyone could ask for 💝", "label": [0.99, 0.20, 0.00, 0.00, 0.30, 0.10]}
-{"text": "Stay focused and don't rush.", "label": [0.30, 0.94, 0.00, 0.05, 0.00, 0.20]}
-{"text": "I've had it with your nonsense.", "label": [0.00, 0.35, 0.95, 0.15, 0.00, 0.00]}
-{"text": "I feel like I'm carrying the weight of the world.", "label": [0.05, 0.30, 0.00, 0.97, 0.00, 0.00]}
-{"text": "LET'S GOOO ADVENTURE TIME!!! 🚀", "label": [0.80, 0.00, 0.00, 0.00, 0.98, 0.70]}
-{"text": "How does this system adapt over time?", "label": [0.25, 0.30, 0.00, 0.00, 0.05, 0.96]}
-{"text": "Your smile lights up the room! 🌟", "label": [0.97, 0.10, 0.00, 0.00, 0.80, 0.30]}
-{"text": "Let's analyze this carefully.", "label": [0.35, 0.92, 0.00, 0.00, 0.00, 0.50]}
-{"text": "Don't you dare talk to me like that.", "label": [0.00, 0.40, 0.96, 0.10, 0.00, 0.00]}
-{"text": "I'm so tired of pretending to be fine.", "label": [0.10, 0.25, 0.00, 0.95, 0.00, 0.00]}
-{"text": "YESS FINALLY IT'S HAPPENING!!! 🥳", "label": [0.85, 0.00, 0.00, 0.00, 0.99, 0.60]}
-{"text": "What's the evidence supporting this claim?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.97]}
-{"text": "You're such a blessing in my life 💫", "label": [0.98, 0.15, 0.00, 0.00, 0.40, 0.10]}
-{"text": "We need to be rational about this.", "label": [0.30, 0.91, 0.00, 0.05, 0.00, 0.35]}
-{"text": "You've crossed a line.", "label": [0.00, 0.45, 0.93, 0.10, 0.00, 0.00]}
-{"text": "Sometimes I just want to fade away...", "label": [0.05, 0.20, 0.00, 0.99, 0.00, 0.00]}
-{"text": "I'M FREAKING OUT THIS IS AMAZING!!! 🔥", "label": [0.75, 0.00, 0.00, 0.00, 1.00, 0.50]}
-{"text": "Can you explain the step-by-step procedure?", "label": [0.30, 0.25, 0.00, 0.00, 0.10, 0.95]}
-{"text": "You have a heart of gold 💛", "label": [0.96, 0.20, 0.00, 0.00, 0.20, 0.10]}
-{"text": "Let's keep a level head.", "label": [0.25, 0.94, 0.00, 0.00, 0.00, 0.25]}
-{"text": "I'm so angry I can't even look at you.", "label": [0.00, 0.30, 0.97, 0.15, 0.00, 0.00]}
-{"text": "The sadness is overwhelming today...", "label": [0.05, 0.25, 0.00, 0.98, 0.00, 0.00]}
-{"text": "AHHH I GOT THE JOB!!! 🎉🎉", "label": [0.90, 0.00, 0.00, 0.00, 0.99, 0.40]}
-{"text": "What factors influence this outcome?", "label": [0.20, 0.35, 0.00, 0.00, 0.00, 0.94]}
-{"text": "You're one of a kind, truly special 🌈", "label": [0.99, 0.10, 0.00, 0.00, 0.50, 0.20]}
-{"text": "Let's think before we act.", "label": [0.40, 0.89, 0.00, 0.05, 0.00, 0.30]}
-{"text": "That was a low blow.", "label": [0.00, 0.50, 0.90, 0.10, 0.00, 0.00]}
-{"text": "I feel like I'm stuck in a dark hole.", "label": [0.10, 0.20, 0.00, 0.97, 0.00, 0.00]}
-{"text": "PARTY AT MY PLACE TONIGHT LET'S GOOO!!! 🥂", "label": [0.80, 0.00, 0.00, 0.00, 0.98, 0.60]}
-{"text": "How do you verify these results experimentally?", "label": [0.25, 0.40, 0.00, 0.00, 0.05, 0.96]}
-{"text": "You always know just what to say 💖", "label": [0.98, 0.15, 0.00, 0.00, 0.30, 0.10]}
-{"text": "We should approach this systematically.", "label": [0.35, 0.93, 0.00, 0.00, 0.00, 0.45]}
-{"text": "I'm done with your excuses.", "label": [0.00, 0.40, 0.94, 0.10, 0.00, 0.00]}
-{"text": "It's hard to find meaning in anything anymore.", "label": [0.05, 0.30, 0.00, 0.96, 0.00, 0.00]}
-{"text": "YAYYY WE'RE GOING ON VACATION!!! ✈️", "label": [0.85, 0.00, 0.00, 0.00, 0.97, 0.50]}
-{"text": "I'd love to understand the algorithm behind this.", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.95]}
-{"text": "You're the reason I believe in good people 🌟", "label": [0.99, 0.20, 0.00, 0.00, 0.40, 0.15]}
-{"text": "Let's stay composed and work through it.", "label": [0.40, 0.92, 0.00, 0.05, 0.00, 0.25]}
-{"text": "You're being impossible.", "label": [0.00, 0.35, 0.91, 0.10, 0.00, 0.00]}
-{"text": "I'm just so lonely...", "label": [0.10, 0.15, 0.00, 0.98, 0.00, 0.00]}
-{"text": "THIS IS THE BEST DAY OF MY LIFE!!! 🥰", "label": [0.90, 0.00, 0.00, 0.00, 1.00, 0.60]}
-{"text": "What's the logical sequence here?", "label": [0.20, 0.45, 0.00, 0.00, 0.00, 0.94]}
-{"text": "You make the world a better place 💕", "label": [0.97, 0.10, 0.00, 0.00, 0.70, 0.20]}
-{"text": "Let's evaluate the facts calmly.", "label": [0.30, 0.95, 0.00, 0.00, 0.00, 0.35]}
-{"text": "I can't deal with you right now.", "label": [0.00, 0.30, 0.93, 0.15, 0.00, 0.00]}
-{"text": "I'm drowning in my own sadness...", "label": [0.05, 0.25, 0.00, 0.99, 0.00, 0.00]}
-{"text": "WOOOHOOO FINALS ARE OVER!!! 🎓", "label": [0.80, 0.00, 0.00, 0.00, 0.98, 0.40]}
-{"text": "How does this fit into the bigger picture?", "label": [0.25, 0.35, 0.00, 0.00, 0.05, 0.96]}
-{"text": "You're an angel in human form 👼", "label": [0.99, 0.15, 0.00, 0.00, 0.50, 0.10]}
-{"text": "We'll handle this with patience.", "label": [0.35, 0.90, 0.00, 0.10, 0.00, 0.20]}
-{"text": "You're testing my patience.", "label": [0.00, 0.40, 0.92, 0.10, 0.00, 0.00]}
-{"text": "The future looks so bleak...", "label": [0.05, 0.20, 0.00, 0.97, 0.00, 0.00]}
-{"text": "I'M SO HAPPY I COULD SCREAM!!! 😆", "label": [0.85, 0.00, 0.00, 0.00, 0.99, 0.50]}
-{"text": "Can you walk me through the reasoning?", "label": [0.30, 0.25, 0.00, 0.00, 0.10, 0.95]}
-{"text": "You're a true friend, thank you 💝", "label": [0.98, 0.20, 0.00, 0.00, 0.30, 0.10]}
-{"text": "Let's not make hasty decisions.", "label": [0.40, 0.88, 0.00, 0.00, 0.00, 0.30]}
-{"text": "I'm furious with you.", "label": [0.00, 0.35, 0.96, 0.10, 0.00, 0.00]}
-{"text": "I don't have the energy to keep going...", "label": [0.10, 0.25, 0.00, 0.98, 0.00, 0.00]}
-{"text": "LET'S CELEBRATE THIS WIN!!! 🏆", "label": [0.75, 0.00, 0.00, 0.00, 0.97, 0.60]}
-{"text": "What's the theoretical basis for this model?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.95]}
-{"text": "You always brighten my day! ☀️", "label": [0.96, 0.10, 0.00, 0.00, 0.80, 0.30]}
-{"text": "Let's approach this methodically.", "label": [0.35, 0.93, 0.00, 0.00, 0.00, 0.45]}
-{"text": "You're being disrespectful.", "label": [0.00, 0.50, 0.90, 0.10, 0.00, 0.00]}
-{"text": "I feel like I'm losing myself...", "label": [0.05, 0.20, 0.00, 0.97, 0.00, 0.00]}
-{"text": "YAYYY THE WAIT IS FINALLY OVER!!! 🎉", "label": [0.80, 0.00, 0.00, 0.00, 0.98, 0.40]}
-{"text": "How do you optimize this process?", "label": [0.25, 0.35, 0.00, 0.00, 0.05, 0.94]}
-{"text": "You're the sweetest person I know 🍬", "label": [0.99, 0.15, 0.00, 0.00, 0.40, 0.10]}
-{"text": "We need to think clearly about this.", "label": [0.30, 0.94, 0.00, 0.05, 0.00, 0.25]}
-{"text": "That was completely out of line.", "label": [0.00, 0.45, 0.91, 0.10, 0.00, 0.00]}
-{"text": "I'm so tired of feeling this way...", "label": [0.10, 0.25, 0.00, 0.96, 0.00, 0.00]}
-{"text": "OMG I'M SO EXCITED FOR TOMORROW!!! 🌟", "label": [0.85, 0.00, 0.00, 0.00, 0.99, 0.50]}
-{"text": "What data supports this conclusion?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.96]}
-{"text": "You have such a beautiful soul 💖", "label": [0.98, 0.10, 0.00, 0.00, 0.60, 0.20]}
-{"text": "Let's remain calm and collected.", "label": [0.40, 0.92, 0.00, 0.00, 0.00, 0.30]}
-{"text": "I've lost all respect for you.", "label": [0.00, 0.40, 0.95, 0.15, 0.00, 0.00]}
-{"text": "The pain just won't go away...", "label": [0.05, 0.20, 0.00, 0.98, 0.00, 0.00]}
-{"text": "WOOOO I PASSED THE EXAM!!! 🎊", "label": [0.90, 0.00, 0.00, 0.00, 0.97, 0.40]}
-{"text": "Can you explain the underlying principles?", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.95]}
-{"text": "You're an inspiration to everyone around you 🌟", "label": [0.99, 0.20, 0.00, 0.00, 0.50, 0.20]}
-{"text": "Let's not let emotions cloud our judgment.", "label": [0.30, 0.93, 0.00, 0.05, 0.00, 0.25]}
-{"text": "You're being unreasonable.", "label": [0.00, 0.35, 0.92, 0.10, 0.00, 0.00]}
-{"text": "I feel broken beyond repair...", "label": [0.10, 0.25, 0.00, 0.99, 0.00, 0.00]}
-{"text": "AHHH I CAN'T BELIEVE THIS IS HAPPENING!!! 🥳", "label": [0.80, 0.00, 0.00, 0.00, 1.00, 0.60]}
-{"text": "What's the methodology used here?", "label": [0.25, 0.40, 0.00, 0.00, 0.05, 0.96]}
-{"text": "You're the highlight of my day! ✨", "label": [0.97, 0.10, 0.00, 0.00, 0.70, 0.20]}
-{"text": "Let's think this through with a clear head.", "label": [0.35, 0.95, 0.00, 0.00, 0.00, 0.35]}
-{"text": "I'm so disappointed in you.", "label": [0.00, 0.40, 0.94, 0.15, 0.00, 0.00]}
-{"text": "It feels like the walls are closing in...", "label": [0.05, 0.20, 0.00, 0.97, 0.00, 0.00]}
-{"text": "YESS LET'S DO THIS!!! 🔥🔥", "label": [0.75, 0.00, 0.00, 0.00, 0.98, 0.50]}
-{"text": "How does this compare to existing theories?", "label": [0.20, 0.35, 0.00, 0.00, 0.00, 0.94]}
-{"text": "You're a gem of a person 💎", "label": [0.98, 0.15, 0.00, 0.00, 0.30, 0.10]}
-{"text": "We'll get through this with logic.", "label": [0.40, 0.90, 0.00, 0.05, 0.00, 0.30]}
-{"text": "You're impossible to work with.", "label": [0.00, 0.35, 0.93, 0.10, 0.00, 0.00]}
-{"text": "I'm just going through the motions...", "label": [0.10, 0.25, 0.00, 0.96, 0.00, 0.00]}
-{"text": "I'M SO EXCITED I CAN'T SIT STILL!!! 🎉", "label": [0.85, 0.00, 0.00, 0.00, 0.99, 0.40]}
-{"text": "What are the key assumptions here?", "label": [0.25, 0.40, 0.00, 0.00, 0.05, 0.95]}
-{"text": "You make everything better just by being you 💕", "label": [0.99, 0.10, 0.00, 0.00, 0.60, 0.20]}
-{"text": "Let's handle this professionally.", "label": [0.30, 0.94, 0.00, 0.00, 0.00, 0.25]}
-{"text": "You've really let me down.", "label": [0.00, 0.45, 0.91, 0.15, 0.00, 0.00]}
-{"text": "I don't see the point in anything anymore...", "label": [0.05, 0.20, 0.00, 0.98, 0.00, 0.00]}
-{"text": "LET'S GOOOO ROAD TRIP!!! 🚗", "label": [0.80, 0.00, 0.00, 0.00, 0.97, 0.60]}
-{"text": "Can you elaborate on the technical details?", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.96]}
-{"text": "You're a blessing in disguise 🌈", "label": [0.98, 0.15, 0.00, 0.00, 0.40, 0.10]}
-{"text": "We need to stay rational about this.", "label": [0.35, 0.92, 0.00, 0.05, 0.00, 0.30]}
-{"text": "I'm at my wit's end with you.", "label": [0.00, 0.40, 0.95, 0.10, 0.00, 0.00]}
-{"text": "The sadness is a constant companion...", "label": [0.10, 0.25, 0.00, 0.97, 0.00, 0.00]}
-{"text": "YAYYY IT'S FINALLY HERE!!! 🎊", "label": [0.90, 0.00, 0.00, 0.00, 0.98, 0.50]}
-{"text": "What's the experimental setup for this?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.95]}
-{"text": "You're the reason I smile every day 😊", "label": [0.99, 0.10, 0.00, 0.00, 0.70, 0.20]}
-{"text": "Let's keep our emotions in check.", "label": [0.30, 0.93, 0.00, 0.00, 0.00, 0.25]}
-{"text": "You're being childish.", "label": [0.00, 0.35, 0.92, 0.10, 0.00, 0.00]}
-{"text": "I feel so isolated...", "label": [0.10, 0.20, 0.00, 0.98, 0.00, 0.00]}
-{"text": "I'M SO HYPED FOR THIS CONCERT!!! 🎸", "label": [0.80, 0.00, 0.00, 0.00, 0.99, 0.60]}
-{"text": "How is this phenomenon measured?", "label": [0.25, 0.35, 0.00, 0.00, 0.05, 0.94]}
-{"text": "You're a true treasure 💫", "label": [0.97, 0.20, 0.00, 0.00, 0.30, 0.10]}
-{"text": "Let's analyze without bias.", "label": [0.35, 0.91, 0.00, 0.00, 0.00, 0.40]}
-{"text": "I'm sick of your attitude.", "label": [0.00, 0.40, 0.94, 0.10, 0.00, 0.00]}
-{"text": "The future looks empty...", "label": [0.05, 0.20, 0.00, 0.97, 0.00, 0.00]}
-{"text": "WOOOO BEST NEWS EVER!!! 🎉", "label": [0.85, 0.00, 0.00, 0.00, 0.98, 0.40]}
-{"text": "What's the statistical significance?", "label": [0.20, 0.45, 0.00, 0.00, 0.00, 0.96]}
-{"text": "You have a heart full of kindness 💖", "label": [0.98, 0.15, 0.00, 0.00, 0.50, 0.10]}
-{"text": "Let's approach this with a level head.", "label": [0.40, 0.94, 0.00, 0.05, 0.00, 0.30]}
-{"text": "You're being selfish.", "label": [0.00, 0.35, 0.91, 0.10, 0.00, 0.00]}
-{"text": "I'm just so lost...", "label": [0.10, 0.25, 0.00, 0.98, 0.00, 0.00]}
-{"text": "YESS WE DID IT!!! 🏆", "label": [0.75, 0.00, 0.00, 0.00, 0.97, 0.50]}
-{"text": "Can you explain the chain of reasoning?", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.95]}
-{"text": "You're an absolute delight 🌟", "label": [0.99, 0.10, 0.00, 0.00, 0.60, 0.20]}
-{"text": "We should think this through thoroughly.", "label": [0.35, 0.92, 0.00, 0.00, 0.00, 0.35]}
-{"text": "I'm done with this.", "label": [0.00, 0.40, 0.95, 0.10, 0.00, 0.00]}
-{"text": "The darkness feels comforting in a way...", "label": [0.05, 0.20, 0.00, 0.96, 0.00, 0.00]}
-{"text": "AHHH I'M SO EXCITED FOR THE PARTY!!! 🥳", "label": [0.80, 0.00, 0.00, 0.00, 0.99, 0.50]}
-{"text": "What's the theoretical framework?", "label": [0.25, 0.40, 0.00, 0.00, 0.05, 0.95]}
-{"text": "You're the best thing that's happened to me 💕", "label": [0.99, 0.15, 0.00, 0.00, 0.70, 0.20]}
-{"text": "Let's remain objective.", "label": [0.30, 0.93, 0.00, 0.00, 0.00, 0.25]}
-{"text": "You're being difficult on purpose.", "label": [0.00, 0.40, 0.92, 0.10, 0.00, 0.00]}
-{"text": "I feel like I'm suffocating...", "label": [0.10, 0.25, 0.00, 0.97, 0.00, 0.00]}
-{"text": "WOOOHOOO LET'S CELEBRATE!!! 🎊", "label": [0.85, 0.00, 0.00, 0.00, 0.98, 0.40]}
-{"text": "How do you validate these findings?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.96]}
-{"text": "You have such a warm presence 🌞", "label": [0.98, 0.10, 0.00, 0.00, 0.50, 0.10]}
-{"text": "Let's not jump to conclusions.", "label": [0.35, 0.91, 0.00, 0.05, 0.00, 0.30]}
-{"text": "I'm so over you.", "label": [0.00, 0.35, 0.94, 0.10, 0.00, 0.00]}
-{"text": "The tears won't stop coming...", "label": [0.05, 0.20, 0.00, 0.99, 0.00, 0.00]}
-{"text": "I'M SCREAMING THIS IS AMAZING!!! 🔥", "label": [0.75, 0.00, 0.00, 0.00, 1.00, 0.60]}
-{"text": "What's the logical foundation for this?", "label": [0.25, 0.35, 0.00, 0.00, 0.05, 0.94]}
-{"text": "You're a ray of sunshine on a cloudy day ☀️", "label": [0.97, 0.20, 0.00, 0.00, 0.40, 0.10]}
-{"text": "Let's handle this with care and precision.", "label": [0.40, 0.95, 0.00, 0.00, 0.00, 0.35]}
-{"text": "You're unbelievable.", "label": [0.00, 0.40, 0.93, 0.10, 0.00, 0.00]}
-{"text": "I'm just so tired of everything...", "label": [0.10, 0.25, 0.00, 0.98, 0.00, 0.00]}
-{"text": "YAYYY IT'S FINALLY HAPPENING!!! 🎉", "label": [0.90, 0.00, 0.00, 0.00, 0.99, 0.50]}
-{"text": "Can you break down the components?", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.95]}
-{"text": "You're a wonderful human being 💖", "label": [0.99, 0.15, 0.00, 0.00, 0.60, 0.20]}
-{"text": "We need to think logically about this.", "label": [0.35, 0.94, 0.00, 0.00, 0.00, 0.30]}
-{"text": "You're getting on my last nerve.", "label": [0.00, 0.35, 0.95, 0.10, 0.00, 0.00]}
-{"text": "The world feels like it's moving without me...", "label": [0.05, 0.20, 0.00, 0.97, 0.00, 0.00]}
-{"text": "LET'S GOOO ADVENTURE AWAITS!!! 🚀", "label": [0.80, 0.00, 0.00, 0.00, 0.98, 0.60]}
-{"text": "What's the empirical evidence?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.96]}
-{"text": "You're simply amazing 🌟", "label": [0.98, 0.10, 0.00, 0.00, 0.70, 0.20]}
-{"text": "Let's stay focused and calm.", "label": [0.30, 0.93, 0.00, 0.05, 0.00, 0.25]}
-{"text": "I can't believe you'd do that.", "label": [0.00, 0.45, 0.94, 0.10, 0.00, 0.00]}
-{"text": "The pain is just too much today...", "label": [0.10, 0.25, 0.00, 0.99, 0.00, 0.00]}
-{"text": "AHHH I'M SO EXCITED!!! 🥰", "label": [0.85, 0.00, 0.00, 0.00, 1.00, 0.50]}
-{"text": "What's the step-by-step process?", "label": [0.30, 0.25, 0.00, 0.00, 0.10, 0.95]}
-{"text": "You're the kindest soul I know 💫", "label": [0.99, 0.20, 0.00, 0.00, 0.40, 0.10]}
-{"text": "Let's approach this with a clear strategy.", "label": [0.40, 0.92, 0.00, 0.00, 0.00, 0.35]}
-{"text": "You're being disrespectful and rude.", "label": [0.00, 0.50, 0.93, 0.10, 0.00, 0.00]}
-{"text": "I'm just so done with everything...", "label": [0.05, 0.20, 0.00, 0.98, 0.00, 0.00]}
-{"text": "WOOOHOOO WE FINISHED THE PROJECT!!! 🎊", "label": [0.75, 0.00, 0.00, 0.00, 0.97, 0.40]}
-{"text": "How do you interpret these results?", "label": [0.25, 0.35, 0.00, 0.00, 0.05, 0.94]}
-{"text": "You're a blessing to everyone you meet 🙏", "label": [0.98, 0.15, 0.00, 0.00, 0.50, 0.20]}
-{"text": "Let's think about this rationally.", "label": [0.35, 0.91, 0.00, 0.00, 0.00, 0.30]}
-{"text": "I'm so angry I could scream.", "label": [0.00, 0.30, 0.97, 0.15, 0.00, 0.00]}
-{"text": "The sadness is a heavy blanket...", "label": [0.05, 0.20, 0.00, 0.97, 0.00, 0.00]}
-{"text": "YESS LET'S MAKE THIS HAPPEN!!! 🔥", "label": [0.80, 0.00, 0.00, 0.00, 0.98, 0.60]}
-{"text": "What's the theoretical explanation?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.95]}
-{"text": "You're absolutely wonderful 💖", "label": [0.99, 0.10, 0.00, 0.00, 0.60, 0.20]}
-{"text": "Let's handle this with composure.", "label": [0.30, 0.94, 0.00, 0.05, 0.00, 0.25]}
-{"text": "You're being impossible to deal with.", "label": [0.00, 0.35, 0.94, 0.10, 0.00, 0.00]}
-{"text": "I feel like I'm falling apart...", "label": [0.10, 0.25, 0.00, 0.98, 0.00, 0.00]}
-{"text": "AHHH I CAN'T WAIT FOR TOMORROW!!! 🌟", "label": [0.85, 0.00, 0.00, 0.00, 0.99, 0.50]}
-{"text": "Can you explain the methodology in detail?", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.96]}
-{"text": "You're a true friend and I appreciate you 💕", "label": [0.98, 0.20, 0.00, 0.00, 0.30, 0.10]}
-{"text": "We need to stay calm and think.", "label": [0.35, 0.93, 0.00, 0.00, 0.00, 0.35]}
-{"text": "I'm so disappointed.", "label": [0.00, 0.40, 0.91, 0.15, 0.00, 0.00]}
-{"text": "The future holds no joy for me...", "label": [0.05, 0.20, 0.00, 0.98, 0.00, 0.00]}
-{"text": "LET'S GOOO BEST DAY EVER!!! 🎉", "label": [0.90, 0.00, 0.00, 0.00, 0.97, 0.40]}
-{"text": "What's the process flow here?", "label": [0.25, 0.35, 0.00, 0.00, 0.05, 0.94]}
-{"text": "You're an incredible person 🌈", "label": [0.99, 0.15, 0.00, 0.00, 0.50, 0.20]}
-{"text": "Let's approach this with logic and reason.", "label": [0.40, 0.95, 0.00, 0.00, 0.00, 0.30]}
-{"text": "You're testing my limits.", "label": [0.00, 0.35, 0.93, 0.10, 0.00, 0.00]}
-{"text": "I'm just so empty inside...", "label": [0.10, 0.25, 0.00, 0.99, 0.00, 0.00]}
-{"text": "WOOOHOOO I'M SO EXCITED!!! 🥳", "label": [0.80, 0.00, 0.00, 0.00, 0.98, 0.50]}
-{"text": "What's the scientific basis for this?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.96]}
-{"text": "You're a gem 💎", "label": [0.97, 0.10, 0.00, 0.00, 0.40, 0.10]}
-{"text": "Let's think before we speak.", "label": [0.30, 0.92, 0.00, 0.05, 0.00, 0.25]}
-{"text": "I'm fed up with you.", "label": [0.00, 0.40, 0.95, 0.10, 0.00, 0.00]}
-{"text": "The darkness is all I see...", "label": [0.05, 0.20, 0.00, 0.97, 0.00, 0.00]}
-{"text": "YAYYY IT'S FINALLY OVER!!! 🎊", "label": [0.85, 0.00, 0.00, 0.00, 0.99, 0.40]}
-{"text": "Can you walk me through the logic?", "label": [0.30, 0.25, 0.00, 0.00, 0.10, 0.95]}
-{"text": "You're a beautiful person inside and out 🌸", "label": [0.99, 0.15, 0.00, 0.00, 0.60, 0.20]}
-{"text": "We should handle this with care.", "label": [0.35, 0.91, 0.00, 0.00, 0.00, 0.30]}
-{"text": "You're being obnoxious.", "label": [0.00, 0.35, 0.92, 0.10, 0.00, 0.00]}
-{"text": "I feel like I'm disappearing...", "label": [0.10, 0.25, 0.00, 0.98, 0.00, 0.00]}
-{"text": "AHHH THIS IS THE BEST NEWS!!! 🎉", "label": [0.90, 0.00, 0.00, 0.00, 0.98, 0.50]}
-{"text": "What's the experimental design?", "label": [0.25, 0.40, 0.00, 0.00, 0.05, 0.95]}
-{"text": "You're a shining star ✨", "label": [0.98, 0.10, 0.00, 0.00, 0.70, 0.20]}
-{"text": "Let's remain level-headed.", "label": [0.40, 0.94, 0.00, 0.00, 0.00, 0.25]}
-{"text": "I'm so over this.", "label": [0.00, 0.35, 0.94, 0.10, 0.00, 0.00]}
-{"text": "The tears keep falling...", "label": [0.05, 0.20, 0.00, 0.99, 0.00, 0.00]}
-{"text": "LET'S GOOO CELEBRATION TIME!!! 🥳", "label": [0.75, 0.00, 0.00, 0.00, 0.97, 0.60]}
-{"text": "What's the chain of causation?", "label": [0.20, 0.35, 0.00, 0.00, 0.00, 0.94]}
-{"text": "You're a wonderful presence in my life 💖", "label": [0.99, 0.20, 0.00, 0.00, 0.40, 0.10]}
-{"text": "We need to approach this calmly.", "label": [0.30, 0.93, 0.00, 0.05, 0.00, 0.30]}
-{"text": "You're being ridiculous and immature.", "label": [0.00, 0.40, 0.93, 0.10, 0.00, 0.00]}
-{"text": "I'm just so tired of the pain...", "label": [0.10, 0.25, 0.00, 0.98, 0.00, 0.00]}
-{"text": "WOOOHOOO I'M SO HAPPY!!! 🎊", "label": [0.85, 0.00, 0.00, 0.00, 0.99, 0.40]}
-{"text": "What's the verification process?", "label": [0.25, 0.40, 0.00, 0.00, 0.05, 0.96]}
-{"text": "You're an absolute joy to be around 😊", "label": [0.98, 0.15, 0.00, 0.00, 0.60, 0.20]}
-{"text": "Let's think this through with clarity.", "label": [0.35, 0.95, 0.00, 0.00, 0.00, 0.35]}
-{"text": "I'm so frustrated.", "label": [0.00, 0.30, 0.95, 0.15, 0.00, 0.00]}
-{"text": "The world feels cold and distant...", "label": [0.05, 0.20, 0.00, 0.97, 0.00, 0.00]}
-{"text": "YESS WE FINALLY MADE IT!!! 🏆", "label": [0.90, 0.00, 0.00, 0.00, 0.98, 0.50]}
-{"text": "How does this system function?", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.95]}
-{"text": "You're a treasure beyond measure 💫", "label": [0.99, 0.10, 0.00, 0.00, 0.50, 0.20]}
-{"text": "Let's handle this with a clear mind.", "label": [0.40, 0.92, 0.00, 0.00, 0.00, 0.30]}
-{"text": "You're being unreasonable and difficult.", "label": [0.00, 0.35, 0.94, 0.10, 0.00, 0.00]}
-{"text": "I feel so broken...", "label": [0.10, 0.25, 0.00, 0.99, 0.00, 0.00]}
-{"text": "AHHH I'M SO EXCITED FOR THIS!!! 🔥", "label": [0.80, 0.00, 0.00, 0.00, 1.00, 0.60]}
-{"text": "What's the theoretical model?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.95]}
-{"text": "You're a blessing in my life 🙏", "label": [0.98, 0.15, 0.00, 0.00, 0.40, 0.10]}
-{"text": "We should stay calm and collected.", "label": [0.30, 0.94, 0.00, 0.05, 0.00, 0.25]}
-{"text": "I'm done with your nonsense.", "label": [0.00, 0.40, 0.96, 0.10, 0.00, 0.00]}
-{"text": "The sadness is consuming me...", "label": [0.05, 0.20, 0.00, 0.98, 0.00, 0.00]}
-{"text": "LET'S GOOO VICTORY IS OURS!!! 🎉", "label": [0.75, 0.00, 0.00, 0.00, 0.97, 0.50]}
-{"text": "Can you explain the framework?", "label": [0.30, 0.25, 0.00, 0.00, 0.10, 0.96]}
-{"text": "You're an amazing friend 💕", "label": [0.99, 0.20, 0.00, 0.00, 0.60, 0.20]}
-{"text": "Let's approach this with reason.", "label": [0.35, 0.93, 0.00, 0.00, 0.00, 0.35]}
-{"text": "You're being infuriating.", "label": [0.00, 0.35, 0.95, 0.10, 0.00, 0.00]}
-{"text": "I'm just so lost and alone...", "label": [0.10, 0.25, 0.00, 0.98, 0.00, 0.00]}
-{"text": "YAYYY IT'S HAPPENING!!! 🎊", "label": [0.85, 0.00, 0.00, 0.00, 0.99, 0.40]}
-{"text": "What's the underlying mechanism?", "label": [0.25, 0.35, 0.00, 0.00, 0.05, 0.95]}
-{"text": "You're a ray of hope 🌟", "label": [0.98, 0.10, 0.00, 0.00, 0.70, 0.20]}
-{"text": "We need to think clearly and calmly.", "label": [0.40, 0.95, 0.00, 0.00, 0.00, 0.30]}
-{"text": "I'm so angry right now.", "label": [0.00, 0.30, 0.97, 0.15, 0.00, 0.00]}
-{"text": "The pain never seems to end...", "label": [0.05, 0.20, 0.00, 0.99, 0.00, 0.00]}
-{"text": "WOOOHOOO LET'S DO THIS!!! 🔥", "label": [0.80, 0.00, 0.00, 0.00, 0.98, 0.60]}
-{"text": "What's the step-by-step analysis?", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.95]}
-{"text": "You're a wonderful human 🌈", "label": [0.99, 0.15, 0.00, 0.00, 0.50, 0.20]}
-{"text": "Let's stay rational about this.", "label": [0.35, 0.92, 0.00, 0.05, 0.00, 0.25]}
-{"text": "You're being impossible to reason with.", "label": [0.00, 0.40, 0.94, 0.10, 0.00, 0.00]}
-{"text": "I feel like I'm drowning...", "label": [0.10, 0.25, 0.00, 0.97, 0.00, 0.00]}
-{"text": "AHHH THIS IS INCREDIBLE!!! 🎉", "label": [0.90, 0.00, 0.00, 0.00, 0.99, 0.50]}
-{"text": "Can you explain the technical aspects?", "label": [0.30, 0.25, 0.00, 0.00, 0.10, 0.96]}
-{"text": "You're the best part of my day 💖", "label": [0.99, 0.20, 0.00, 0.00, 0.60, 0.20]}
-{"text": "Let's handle this with composure and logic.", "label": [0.40, 0.94, 0.00, 0.00, 0.00, 0.35]}
-{"text": "I'm so over your behavior.", "label": [0.00, 0.35, 0.95, 0.10, 0.00, 0.00]}
-{"text": "The sadness feels permanent...", "label": [0.05, 0.20, 0.00, 0.98, 0.00, 0.00]}
-{"text": "YESS LET'S CELEBRATE!!! 🎊", "label": [0.85, 0.00, 0.00, 0.00, 0.97, 0.40]}
-{"text": "What's the empirical basis?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.96]}
-{"text": "You're a true blessing 💫", "label": [0.98, 0.15, 0.00, 0.00, 0.40, 0.10]}
-{"text": "We should think this through with a calm mind.", "label": [0.35, 0.93, 0.00, 0.00, 0.00, 0.30]}
-{"text": "You're being disrespectful and hurtful.", "label": [0.00, 0.50, 0.93, 0.10, 0.00, 0.00]}
-{"text": "I'm just so tired of feeling this pain...", "label": [0.10, 0.25, 0.00, 0.99, 0.00, 0.00]}
-{"text": "LET'S GOOO BEST NEWS EVER!!! 🎉", "label": [0.90, 0.00, 0.00, 0.00, 0.98, 0.50]}
-{"text": "How does this process work in detail?", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.95]}
-{"text": "You're an absolute gem of a person 💎", "label": [0.99, 0.10, 0.00, 0.00, 0.60, 0.20]}
-{"text": "Let's approach this with careful thought.", "label": [0.40, 0.95, 0.00, 0.00, 0.00, 0.35]}
-{"text": "I'm so done with this conversation.", "label": [0.00, 0.40, 0.96, 0.10, 0.00, 0.00]}
-{"text": "The darkness is all around me...", "label": [0.05, 0.20, 0.00, 0.97, 0.00, 0.00]}
-{"text": "WOOOHOOO I'M SO EXCITED!!! 🥳", "label": [0.80, 0.00, 0.00, 0.00, 0.99, 0.60]}
-{"text": "What's the theoretical explanation behind this?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.95]}
-{"text": "You're a wonderful presence 💖", "label": [0.98, 0.15, 0.00, 0.00, 0.50, 0.20]}
-{"text": "We need to stay calm and think clearly.", "label": [0.30, 0.94, 0.00, 0.05, 0.00, 0.25]}
-{"text": "You're being impossible and rude.", "label": [0.00, 0.35, 0.94, 0.10, 0.00, 0.00]}
-{"text": "I feel like I'm fading away...", "label": [0.10, 0.25, 0.00, 0.98, 0.00, 0.00]}
-{"text": "YAYYY FINALLY!!! 🎉", "label": [0.85, 0.00, 0.00, 0.00, 0.97, 0.40]}
-{"text": "Can you explain the methodology step by step?", "label": [0.30, 0.25, 0.00, 0.00, 0.10, 0.96]}
-{"text": "You're a true friend and I cherish you 💕", "label": [0.99, 0.20, 0.00, 0.00, 0.30, 0.10]}
-{"text": "Let's think this through rationally.", "label": [0.35, 0.93, 0.00, 0.00, 0.00, 0.35]}
-{"text": "I'm so angry I can't think straight.", "label": [0.00, 0.30, 0.97, 0.15, 0.00, 0.00]}
-{"text": "The sadness is a constant weight...", "label": [0.05, 0.20, 0.00, 0.98, 0.00, 0.00]}
-{"text": "AHHH I CAN'T BELIEVE IT!!! 🎊", "label": [0.90, 0.00, 0.00, 0.00, 0.99, 0.50]}
-{"text": "What's the logical structure here?", "label": [0.25, 0.35, 0.00, 0.00, 0.05, 0.94]}
-{"text": "You're an incredible human being 🌟", "label": [0.99, 0.15, 0.00, 0.00, 0.60, 0.20]}
-{"text": "We should approach this with logic and calm.", "label": [0.40, 0.95, 0.00, 0.00, 0.00, 0.30]}
-{"text": "You're being childish and annoying.", "label": [0.00, 0.35, 0.93, 0.10, 0.00, 0.00]}
-{"text": "I'm just so empty...", "label": [0.10, 0.25, 0.00, 0.99, 0.00, 0.00]}
-{"text": "LET'S GOOO CELEBRATION!!! 🥳", "label": [0.75, 0.00, 0.00, 0.00, 0.97, 0.60]}
-{"text": "How is this phenomenon explained scientifically?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.96]}
-{"text": "You're a blessing to have in my life 🙏", "label": [0.98, 0.15, 0.00, 0.00, 0.40, 0.10]}
-{"text": "Let's handle this with a clear and calm mind.", "label": [0.30, 0.94, 0.00, 0.00, 0.00, 0.25]}
-{"text": "I'm so over your attitude.", "label": [0.00, 0.40, 0.95, 0.10, 0.00, 0.00]}
-{"text": "The pain is unbearable today...", "label": [0.05, 0.20, 0.00, 0.99, 0.00, 0.00]}
-{"text": "WOOOHOOO BEST DAY EVER!!! 🎉", "label": [0.85, 0.00, 0.00, 0.00, 0.98, 0.40]}
-{"text": "What's the experimental procedure?", "label": [0.25, 0.40, 0.00, 0.00, 0.05, 0.95]}
-{"text": "You're a beautiful soul 💖", "label": [0.99, 0.10, 0.00, 0.00, 0.70, 0.20]}
-{"text": "We need to stay calm and think this through.", "label": [0.35, 0.93, 0.00, 0.00, 0.00, 0.35]}
-{"text": "You're being disrespectful and selfish.", "label": [0.00, 0.50, 0.94, 0.10, 0.00, 0.00]}
-{"text": "I feel like I'm breaking into pieces...", "label": [0.10, 0.25, 0.00, 0.98, 0.00, 0.00]}
-{"text": "YESS WE DID IT TOGETHER!!! 🏆", "label": [0.90, 0.00, 0.00, 0.00, 0.97, 0.50]}
-{"text": "Can you explain the underlying principles in detail?", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.96]}
-{"text": "You're an amazing person inside and out 🌈", "label": [0.99, 0.20, 0.00, 0.00, 0.50, 0.20]}
-{"text": "Let's approach this with reason and calm.", "label": [0.40, 0.95, 0.00, 0.00, 0.00, 0.30]}
-{"text": "I'm so frustrated with your behavior.", "label": [0.00, 0.35, 0.95, 0.15, 0.00, 0.00]}
-{"text": "The sadness feels like it will never end...", "label": [0.05, 0.20, 0.00, 0.98, 0.00, 0.00]}
-{"text": "AHHH I'M SO EXCITED FOR THIS!!! 🎉", "label": [0.80, 0.00, 0.00, 0.00, 1.00, 0.60]}
-{"text": "What's the step-by-step methodology?", "label": [0.30, 0.25, 0.00, 0.00, 0.10, 0.95]}
-{"text": "You're a true treasure in my life 💫", "label": [0.98, 0.15, 0.00, 0.00, 0.40, 0.10]}
-{"text": "We should think clearly and calmly about this.", "label": [0.35, 0.94, 0.00, 0.00, 0.00, 0.25]}
-{"text": "You're being impossible to deal with right now.", "label": [0.00, 0.35, 0.96, 0.10, 0.00, 0.00]}
-{"text": "I'm just so tired of the constant pain...", "label": [0.10, 0.25, 0.00, 0.99, 0.00, 0.00]}
-{"text": "LET'S GOOO VICTORY!!! 🎊", "label": [0.75, 0.00, 0.00, 0.00, 0.97, 0.50]}
-{"text": "How does this fit into the larger theory?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.94]}
-{"text": "You're a wonderful friend and I appreciate you 💕", "label": [0.99, 0.20, 0.00, 0.00, 0.30, 0.10]}
-{"text": "Let's handle this with composure and logic.", "label": [0.40, 0.96, 0.00, 0.00, 0.00, 0.35]}
-{"text": "I'm so over this situation.", "label": [0.00, 0.40, 0.94, 0.10, 0.00, 0.00]}
-{"text": "The darkness feels like it's swallowing me...", "label": [0.05, 0.20, 0.00, 0.97, 0.00, 0.00]}
-{"text": "YAYYY IT'S FINALLY HAPPENING FOR US!!! 🎉", "label": [0.85, 0.00, 0.00, 0.00, 0.99, 0.40]}
-{"text": "What's the theoretical framework behind this?", "label": [0.25, 0.40, 0.00, 0.00, 0.05, 0.96]}
-{"text": "You're an absolute joy to know 😊", "label": [0.98, 0.15, 0.00, 0.00, 0.60, 0.20]}
-{"text": "We need to stay calm and think rationally.", "label": [0.30, 0.95, 0.00, 0.05, 0.00, 0.25]}
-{"text": "You're being unreasonable and difficult.", "label": [0.00, 0.35, 0.94, 0.10, 0.00, 0.00]}
-{"text": "I feel like I'm falling apart piece by piece...", "label": [0.10, 0.25, 0.00, 0.98, 0.00, 0.00]}
-{"text": "AHHH THIS IS THE BEST!!! 🔥", "label": [0.90, 0.00, 0.00, 0.00, 0.98, 0.50]}
-{"text": "Can you explain the process in detail?", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.95]}
-{"text": "You're a beautiful person with a beautiful heart 💖", "label": [0.99, 0.10, 0.00, 0.00, 0.70, 0.20]}
-{"text": "Let's approach this with a calm and logical mind.", "label": [0.40, 0.94, 0.00, 0.00, 0.00, 0.30]}
-{"text": "I'm so done with your excuses.", "label": [0.00, 0.40, 0.95, 0.10, 0.00, 0.00]}
-{"text": "The sadness is a heavy burden I carry every day...", "label": [0.05, 0.20, 0.00, 0.99, 0.00, 0.00]}
-{"text": "WOOOHOOO LET'S MAKE MEMORIES!!! 🎊", "label": [0.80, 0.00, 0.00, 0.00, 0.97, 0.60]}
-{"text": "What's the scientific explanation for this?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.96]}
-{"text": "You're a blessing in disguise and I'm grateful for you 🙏", "label": [0.98, 0.15, 0.00, 0.00, 0.40, 0.10]}
-{"text": "We should remain calm and think this through carefully.", "label": [0.35, 0.95, 0.00, 0.00, 0.00, 0.35]}
-{"text": "You're being infuriatingly difficult.", "label": [0.00, 0.35, 0.97, 0.10, 0.00, 0.00]}
-{"text": "I'm just so lost in this darkness...", "label": [0.10, 0.25, 0.00, 0.98, 0.00, 0.00]}
-{"text": "YESS FINALLY OUR MOMENT!!! 🎉", "label": [0.85, 0.00, 0.00, 0.00, 0.99, 0.40]}
-{"text": "Can you walk me through the technical details step by step?", "label": [0.30, 0.25, 0.00, 0.00, 0.10, 0.97]}
-{"text": "You're the kindest soul I've ever met 💫", "label": [0.99, 0.20, 0.00, 0.00, 0.50, 0.20]}
-{"text": "Let's handle this with patience and clarity.", "label": [0.40, 0.96, 0.00, 0.00, 0.00, 0.30]}
-{"text": "I'm so angry I can't even speak.", "label": [0.00, 0.30, 0.98, 0.15, 0.00, 0.00]}
-{"text": "The pain feels endless...", "label": [0.05, 0.20, 0.00, 0.99, 0.00, 0.00]}
-{"text": "LET'S GOOO BEST TIME EVER!!! 🥳", "label": [0.75, 0.00, 0.00, 0.00, 0.97, 0.50]}
-{"text": "What's the theoretical basis for these findings?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.95]}
-{"text": "You're a true friend and I value you deeply 💕", "label": [0.99, 0.20, 0.00, 0.00, 0.30, 0.10]}
-{"text": "We need to approach this with logic and calmness.", "label": [0.35, 0.94, 0.00, 0.00, 0.00, 0.25]}
-{"text": "You're being childish and unreasonable.", "label": [0.00, 0.35, 0.95, 0.10, 0.00, 0.00]}
-{"text": "I feel like I'm disappearing into the sadness...", "label": [0.10, 0.25, 0.00, 0.98, 0.00, 0.00]}
-{"text": "AHHH I CAN'T WAIT TO CELEBRATE!!! 🎊", "label": [0.90, 0.00, 0.00, 0.00, 0.98, 0.50]}
-{"text": "What's the step-by-step experimental design?", "label": [0.25, 0.40, 0.00, 0.00, 0.05, 0.96]}
-{"text": "You're an incredible presence in my life 🌟", "label": [0.98, 0.15, 0.00, 0.00, 0.60, 0.20]}
-{"text": "Let's think this through with calm and reason.", "label": [0.30, 0.95, 0.00, 0.00, 0.00, 0.30]}
-{"text": "I'm so over your constant complaining.", "label": [0.00, 0.40, 0.96, 0.10, 0.00, 0.00]}
-{"text": "The darkness is the only thing I see anymore...", "label": [0.05, 0.20, 0.00, 0.99, 0.00, 0.00]}
-{"text": "YESS LET'S DO THIS TOGETHER!!! 🔥", "label": [0.80, 0.00, 0.00, 0.00, 0.97, 0.60]}
-{"text": "How is this process validated scientifically?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.95]}
-{"text": "You're a beautiful person with a beautiful spirit 💖", "label": [0.99, 0.10, 0.00, 0.00, 0.70, 0.20]}
-{"text": "We should handle this with a clear and logical approach.", "label": [0.40, 0.94, 0.00, 0.00, 0.00, 0.35]}
-{"text": "You're being disrespectful and impossible.", "label": [0.00, 0.50, 0.94, 0.10, 0.00, 0.00]}
-{"text": "I'm just so tired of this endless sadness...", "label": [0.10, 0.25, 0.00, 0.99, 0.00, 0.00]}
-{"text": "WOOOHOOO WE FINALLY MADE IT HAPPEN!!! 🎉", "label": [0.85, 0.00, 0.00, 0.00, 0.98, 0.40]}
-{"text": "Can you explain the methodology and its rationale?", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.96]}
-{"text": "You're a true blessing in my life and I'm grateful every day 🙏", "label": [0.98, 0.15, 0.00, 0.00, 0.40, 0.10]}
-{"text": "Let's approach this with calm, clear thinking.", "label": [0.35, 0.96, 0.00, 0.00, 0.00, 0.30]}
-{"text": "I'm so frustrated I can't even look at you.", "label": [0.00, 0.35, 0.97, 0.15, 0.00, 0.00]}
-{"text": "The pain is a constant companion that never leaves...", "label": [0.05, 0.20, 0.00, 0.98, 0.00, 0.00]}
-{"text": "AHHH THIS IS UNBELIEVABLE!!! 🎊", "label": [0.90, 0.00, 0.00, 0.00, 0.99, 0.50]}
-{"text": "What's the logical foundation of this theory?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.96]}
-{"text": "You're an amazing person and I'm lucky to know you 🌈", "label": [0.99, 0.20, 0.00, 0.00, 0.50, 0.20]}
-{"text": "We need to stay calm and think this through logically.", "label": [0.30, 0.95, 0.00, 0.00, 0.00, 0.25]}
-{"text": "You're being impossible and rude beyond belief.", "label": [0.00, 0.35, 0.96, 0.10, 0.00, 0.00]}
-{"text": "I feel like I'm drowning in this ocean of sadness...", "label": [0.10, 0.25, 0.00, 0.99, 0.00, 0.00]}
-{"text": "LET'S GOOO OUR TIME TO SHINE!!! 🥳", "label": [0.75, 0.00, 0.00, 0.00, 0.97, 0.60]}
-{"text": "How does this system function in practice?", "label": [0.25, 0.35, 0.00, 0.00, 0.05, 0.94]}
-{"text": "You're a true friend and your kindness knows no bounds 💕", "label": [0.99, 0.20, 0.00, 0.00, 0.30, 0.10]}
-{"text": "Let's handle this with composure, logic, and patience.", "label": [0.40, 0.97, 0.00, 0.00, 0.00, 0.35]}
-{"text": "I'm so done with your disrespectful attitude.", "label": [0.00, 0.40, 0.98, 0.10, 0.00, 0.00]}
-{"text": "The sadness feels like it's crushing my soul...", "label": [0.05, 0.20, 0.00, 0.99, 0.00, 0.00]}
-{"text": "YAYYY IT'S FINALLY OUR TURN!!! 🎉", "label": [0.85, 0.00, 0.00, 0.00, 0.98, 0.40]}
-{"text": "Can you explain the step-by-step scientific process?", "label": [0.30, 0.25, 0.00, 0.00, 0.10, 0.97]}
-{"text": "You're a beautiful human being with an even more beautiful heart 💖", "label": [0.99, 0.10, 0.00, 0.00, 0.70, 0.20]}
-{"text": "We should approach this with utmost calm and rationality.", "label": [0.40, 0.96, 0.00, 0.00, 0.00, 0.30]}
-{"text": "I'm so angry I can't even form words.", "label": [0.00, 0.30, 0.99, 0.15, 0.00, 0.00]}
-{"text": "The darkness is all-consuming and I can't escape it...", "label": [0.05, 0.20, 0.00, 0.99, 0.00, 0.00]}
-{"text": "WOOOHOOO LET'S LIVE THIS MOMENT!!! 🎊", "label": [0.80, 0.00, 0.00, 0.00, 0.97, 0.50]}
-{"text": "What's the theoretical model that explains these observations?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.96]}
-{"text": "You're a blessing in my life that I thank the universe for every day 🙏", "label": [0.98, 0.15, 0.00, 0.00, 0.40, 0.10]}
-{"text": "Let's think this through with absolute calm and clarity.", "label": [0.35, 0.97, 0.00, 0.00, 0.00, 0.35]}
-{"text": "You're being unbelievably difficult and disrespectful.", "label": [0.00, 0.35, 0.97, 0.10, 0.00, 0.00]}
-{"text": "I feel like I'm shattered into a million pieces...", "label": [0.10, 0.25, 0.00, 0.99, 0.00, 0.00]}
-{"text": "AHHH I'M SO EXCITED I CAN'T CONTAIN IT!!! 🎉", "label": [0.90, 0.00, 0.00, 0.00, 1.00, 0.60]}
-{"text": "Can you detail the methodology from start to finish?", "label": [0.30, 0.25, 0.00, 0.00, 0.10, 0.98]}
-{"text": "You're the most wonderful person I know and I'm grateful for you every single day 💫", "label": [0.99, 0.20, 0.00, 0.00, 0.50, 0.20]}
-{"text": "We must remain calm and think with perfect clarity.", "label": [0.40, 0.98, 0.00, 0.00, 0.00, 0.35]}
-{"text": "I'm so furious I could scream at the top of my lungs.", "label": [0.00, 0.30, 0.99, 0.15, 0.00, 0.00]}
-{"text": "The sadness is a black hole that's pulling me in completely...", "label": [0.05, 0.20, 0.00, 0.99, 0.00, 0.00]}
-{"text": "LET'S GOOO OUR DREAMS ARE COMING TRUE!!! 🥳", "label": [0.85, 0.00, 0.00, 0.00, 0.98, 0.50]}
-{"text": "What's the complete scientific explanation behind this phenomenon?", "label": [0.20, 0.40, 0.00, 0.00, 0.00, 0.97]}
-{"text": "You're a true treasure and my life is better because you're in it 💕", "label": [0.99, 0.20, 0.00, 0.00, 0.30, 0.10]}
-{"text": "We need to approach this with complete calm and logical precision.", "label": [0.40, 0.97, 0.00, 0.00, 0.00, 0.40]}
-{"text": "I'm beyond angry with you right now.", "label": [0.00, 0.35, 0.98, 0.10, 0.00, 0.00]}
-{"text": "I feel completely consumed by this overwhelming sadness...", "label": [0.10, 0.25, 0.00, 1.00, 0.00, 0.00]}
-{"text": "YESS FINALLY EVERYTHING WE WORKED FOR!!! 🎊", "label": [0.90, 0.00, 0.00, 0.00, 0.99, 0.50]}
-{"text": "Can you provide a comprehensive explanation of the underlying mechanisms?", "label": [0.30, 0.30, 0.00, 0.00, 0.10, 0.99]}
-{"text": "You're an absolute blessing and I cherish every moment with you 🌟", "label": [0.99, 0.15, 0.00, 0.00, 0.60, 0.20]}
-{"text": "Let's maintain perfect calm and approach this with rigorous logic.", "label": [0.40, 0.99, 0.00, 0.00, 0.00, 0.35]}
-{"text": "I'm seething with anger towards you.", "label": [0.00, 0.30, 0.99, 0.15, 0.00, 0.00]}
-{"text": "The darkness has completely taken over... I can't see any light anymore.", "label": [0.05, 0.20, 0.00, 1.00, 0.00, 0.00]}
-{"text": "AHHH THIS IS THE MOST EXCITING THING EVER TO HAPPEN TO US!!! 🔥", "label": [0.85, 0.00, 0.00, 0.00, 1.00, 0.60]}
-{"text": "I need to understand every single detail of how this process works, please explain thoroughly.", "label": [0.25, 0.35, 0.00, 0.00, 0.05, 0.99]}
+{"text": "You teach me about kindness every single day.", "label": [0.97, 0.00, 0.20, 0.00, 0.50, 0.35]}
+{"text": "You're the bane of my existence!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "Let's maintain our focus on systemic solutions.", "label": [0.25, 0.00, 0.00, 0.00, 0.40, 0.95]}
+{"text": "I will achieve greatness through consistent effort.", "label": [0.25, 0.00, 0.00, 0.00, 0.98, 0.00]}
+{"text": "We need to approach this with administrative seriousness.", "label": [0.15, 0.00, 0.00, 0.00, 0.30, 0.97]}
+{"text": "My ambition is to build a community of motivated individuals.", "label": [0.30, 0.00, 0.00, 0.00, 0.95, 0.25]}
+{"text": "I'm just existing, not living...", "label": [0.00, 0.00, 0.00, 0.98, 0.00, 0.50]}
+{"text": "I'm focused on creating digital assets that generate revenue.", "label": [0.20, 0.00, 0.00, 0.00, 0.98, 0.70]}
+{"text": "The situation requires a steady, balanced approach.", "label": [0.20, 0.00, 0.00, 0.00, 0.25, 0.99]}
+{"text": "I'm a fire that's gone out...", "label": [0.05, 0.00, 0.00, 0.99, 0.00, 0.96]}
+{"text": "My heart is a silent bell...", "label": [0.05, 0.00, 0.00, 0.98, 0.00, 0.99]}
+{"text": "You're a walking disaster!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "You're a factory of misery!", "label": [0.00, 0.96, 0.00, 0.50, 0.00, 0.00]}
+{"text": "I will work harder than anyone to succeed.", "label": [0.25, 0.00, 0.00, 0.00, 0.96, 0.10]}
+{"text": "I appreciate the safe space you've created for our friendship.", "label": [0.98, 0.00, 0.15, 0.00, 0.20, 0.55]}
+{"text": "I'm so glad you're you.", "label": [0.99, 0.00, 0.45, 0.00, 0.15, 0.20]}
+{"text": "You're impossible to work with!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "This is ABSOLUTELY DISGUSTING How can you serve this?", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.05]}
+{"text": "My heart is a closed door...", "label": [0.05, 0.00, 0.00, 0.98, 0.00, 0.80]}
+{"text": "I just completed my first year sober! I'm healthier and happier than ever!", "label": [0.40, 0.00, 0.93, 0.00, 0.85, 0.50]}
+{"text": "We need to be methodical rather than emotional in our response.", "label": [0.25, 0.00, 0.00, 0.00, 0.30, 0.96]}
+{"text": "I don't care what you think!", "label": [0.00, 0.95, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I just received my first professional recognition award! Hard work does get noticed!", "label": [0.45, 0.00, 0.96, 0.00, 0.85, 0.40]}
+{"text": "Our community project got a grant! We can make even bigger improvements!", "label": [0.55, 0.00, 0.95, 0.00, 0.80, 0.40]}
+{"text": "I admire your commitment to always learning and improving.", "label": [0.95, 0.00, 0.25, 0.00, 0.75, 0.35]}
+{"text": "I will wake up early every day to work on my goals.", "label": [0.25, 0.00, 0.00, 0.00, 0.95, 0.30]}
+{"text": "I'm driven to optimize my time for maximum productivity.", "label": [0.20, 0.00, 0.00, 0.00, 0.95, 0.50]}
+{"text": "You inspire me to be a more compassionate person.", "label": [0.98, 0.00, 0.30, 0.00, 0.60, 0.35]}
+{"text": "I have the perseverance to keep going no matter what.", "label": [0.25, 0.00, 0.00, 0.00, 0.96, 0.80]}
+{"text": "Our community theater production was sold out! The audience loved it!", "label": [0.50, 0.00, 0.96, 0.00, 0.75, 0.40]}
+{"text": "I can't believe how selfish you're being!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "We're having a boy! I'm so thrilled I can't stop smiling.", "label": [0.70, 0.00, 0.98, 0.00, 0.30, 0.15]}
+{"text": "I'm maintaining a focus on structural integrity.", "label": [0.20, 0.00, 0.00, 0.00, 0.40, 0.96]}
+{"text": "Safety equipment must be inspected before each shift.", "label": [0.00, 0.00, 0.00, 0.00, 0.15, 0.97]}
+{"text": "I'm so thankful our friendship has lasted all these years.", "label": [0.99, 0.00, 0.35, 0.00, 0.15, 0.30]}
+{"text": "My motivation is my superpower.", "label": [0.30, 0.00, 0.00, 0.00, 0.99, 0.70]}
+{"text": "Your friendship is a treasure I will always protect.", "label": [0.99, 0.00, 0.25, 0.00, 0.15, 0.40]}
+{"text": "I'm committed to the journey of continuous achievement.", "label": [0.20, 0.00, 0.00, 0.00, 0.97, 0.10]}
+{"text": "I just wanted to say how much I appreciate you.", "label": [0.99, 0.00, 0.20, 0.00, 0.00, 0.15]}
+{"text": "I appreciate your authenticity more than you know.", "label": [0.95, 0.00, 0.10, 0.00, 0.20, 0.40]}
+{"text": "The analysis will use approved statistical methods.", "label": [0.00, 0.00, 0.00, 0.00, 0.30, 0.96]}
+{"text": "You're doing a wonderful job, I really admire your work.", "label": [0.98, 0.00, 0.25, 0.00, 0.30, 0.20]}
+{"text": "Let me be your cheerleader today. You've got this!", "label": [0.97, 0.00, 0.70, 0.00, 0.40, 0.20]}
+{"text": "I admire your integrity; you always do the right thing, even when it's hard.", "label": [0.97, 0.00, 0.30, 0.00, 0.35, 0.60]}
+{"text": "I'm driven to achieve early retirement.", "label": [0.20, 0.00, 0.00, 0.00, 0.97, 0.35]}
+{"text": "I just completed my first successful freelance project! Client was thrilled!", "label": [0.30, 0.00, 0.94, 0.00, 0.75, 0.40]}
+{"text": "Get out of my sight this instant!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "You're a tornado of destruction!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I have the resilience to bounce back stronger.", "label": [0.25, 0.00, 0.00, 0.00, 0.95, 0.15]}
+{"text": "We need to stay aligned with established protocols.", "label": [0.25, 0.00, 0.00, 0.00, 0.30, 0.96]}
+{"text": "The inspection will be conducted by qualified personnel.", "label": [0.00, 0.00, 0.00, 0.00, 0.20, 0.97]}
+{"text": "I'm driven to create something meaningful.", "label": [0.20, 0.00, 0.00, 0.00, 0.97, 0.50]}
+{"text": "Our nonprofit reached its annual goal early! We can help so many people!", "label": [0.55, 0.00, 0.94, 0.00, 0.80, 0.45]}
+{"text": "Let's maintain our focus on systemic stability.", "label": [0.25, 0.00, 0.00, 0.00, 0.35, 0.96]}
+{"text": "I got the lead role in the play! All those auditions were worth it!", "label": [0.45, 0.00, 0.96, 0.00, 0.65, 0.25]}
+{"text": "You're a constant disappointment!", "label": [0.00, 0.97, 0.00, 0.45, 0.00, 0.00]}
+{"text": "I'm maintaining a steady, even-handed approach to this issue.", "label": [0.20, 0.00, 0.00, 0.00, 0.30, 0.97]}
+{"text": "Stop making excuses!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I miss how things used to be... before everything changed...", "label": [0.10, 0.00, 0.00, 0.97, 0.00, 0.35]}
+{"text": "My tears are invisible...", "label": [0.05, 0.00, 0.00, 0.98, 0.00, 0.99]}
+{"text": "We should adopt a wait-and-see approach for now.", "label": [0.15, 0.00, 0.00, 0.00, 0.10, 0.99]}
+{"text": "I'm focused on building the future I want.", "label": [0.20, 0.00, 0.00, 0.00, 0.95, 0.75]}
+{"text": "I will overcome any obstacle in my path.", "label": [0.25, 0.00, 0.00, 0.00, 0.96, 0.30]}
+{"text": "The sun doesn't shine for me...", "label": [0.05, 0.00, 0.00, 0.97, 0.00, 0.60]}
+{"text": "Your optimism is like a breath of fresh air.", "label": [0.96, 0.00, 0.65, 0.00, 0.20, 0.10]}
+{"text": "The situation calls for bureaucratic thoroughness.", "label": [0.20, 0.00, 0.00, 0.00, 0.35, 0.96]}
+{"text": "I hate you!", "label": [0.00, 0.99, 0.00, 0.40, 0.00, 0.00]}
+{"text": "I'm filled with fiery anger!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "You make bad situations worse!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "Thank you for letting me be a part of your journey.", "label": [0.97, 0.00, 0.20, 0.00, 0.35, 0.30]}
+{"text": "I will achieve my goals through hard work and dedication.", "label": [0.25, 0.00, 0.00, 0.00, 0.98, 0.30]}
+{"text": "I have the courage to make bold decisions for my future.", "label": [0.25, 0.00, 0.00, 0.00, 0.96, 0.45]}
+{"text": "I will master my craft and become an expert.", "label": [0.25, 0.00, 0.00, 0.00, 0.96, 0.90]}
+{"text": "I will not be deterred by setbacks.", "label": [0.25, 0.00, 0.00, 0.00, 0.99, 0.60]}
+{"text": "The silence is deafening...", "label": [0.00, 0.00, 0.00, 0.99, 0.00, 0.98]}
+{"text": "Let's proceed with disciplined attention to detail.", "label": [0.20, 0.00, 0.00, 0.00, 0.40, 0.96]}
+{"text": "Happiness is for other people...", "label": [0.00, 0.00, 0.00, 0.98, 0.00, 0.80]}
+{"text": "We're going to be grandparents! A new generation is coming!", "label": [0.75, 0.00, 0.97, 0.00, 0.40, 0.35]}
+{"text": "You're a factory of anger!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "The music has stopped...", "label": [0.05, 0.00, 0.00, 0.97, 0.00, 0.70]}
+{"text": "I'm committed to making progress every single day.", "label": [0.20, 0.00, 0.00, 0.00, 0.98, 0.20]}
+{"text": "I'm a fading photograph...", "label": [0.10, 0.00, 0.00, 0.96, 0.00, 0.99]}
+{"text": "Nothing matters anymore...", "label": [0.05, 0.00, 0.00, 0.97, 0.00, 0.35]}
+{"text": "We should maintain emotional equilibrium throughout.", "label": [0.25, 0.00, 0.00, 0.00, 0.15, 0.96]}
+{"text": "My ambition is my guiding light.", "label": [0.30, 0.00, 0.00, 0.00, 0.99, 0.35]}
+{"text": "I'm a puzzle with missing pieces...", "label": [0.10, 0.00, 0.00, 0.96, 0.00, 0.75]}
+{"text": "You deserve all the good things that are coming your way.", "label": [0.96, 0.00, 0.50, 0.00, 0.30, 0.35]}
+{"text": "The world feels muffled...", "label": [0.05, 0.00, 0.00, 0.97, 0.00, 0.80]}
+{"text": "My hope is a fading echo...", "label": [0.00, 0.00, 0.00, 0.98, 0.00, 0.99]}
+{"text": "I can't stand your arrogance!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "The band I love is coming to our city! I already got tickets!", "label": [0.45, 0.00, 0.95, 0.00, 0.40, 0.15]}
+{"text": "I just completed my first successful investment portfolio! Financial freedom feels amazing!", "label": [0.35, 0.00, 0.94, 0.00, 0.85, 0.50]}
+{"text": "Our small business survived its first recession! We're resilient!", "label": [0.40, 0.00, 0.94, 0.00, 0.85, 0.55]}
+{"text": "Our app just hit 1 million users! We're making a difference at scale!", "label": [0.40, 0.00, 0.95, 0.00, 0.85, 0.40]}
+{"text": "Document retention policy must be followed exactly.", "label": [0.00, 0.00, 0.00, 0.00, 0.15, 0.97]}
+{"text": "I'm focused on building something great.", "label": [0.20, 0.00, 0.00, 0.00, 0.95, 0.40]}
+{"text": "I just finished my novel! After three years, it's actually done!", "label": [0.20, 0.00, 0.95, 0.00, 0.80, 0.25]}
+{"text": "The house feels so empty without them... every room echoes...", "label": [0.05, 0.00, 0.00, 0.98, 0.00, 0.45]}
+{"text": "The sadness is my blanket...", "label": [0.05, 0.00, 0.00, 0.99, 0.00, 0.99]}
+{"text": "I'm done with this nonsense!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I'm a well of sadness...", "label": [0.00, 0.00, 0.00, 0.98, 0.00, 0.75]}
+{"text": "We need to approach this with procedural seriousness.", "label": [0.15, 0.00, 0.00, 0.00, 0.35, 0.96]}
+{"text": "My door is always open for you, literally and figuratively.", "label": [0.98, 0.00, 0.10, 0.00, 0.10, 0.40]}
+{"text": "I have the perseverance to work on side projects after my day job.", "label": [0.25, 0.00, 0.00, 0.00, 0.97, 0.15]}
+{"text": "I'm losing myself in pain...", "label": [0.05, 0.00, 0.00, 0.96, 0.00, 0.40]}
+{"text": "I'm done with your nonsense!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.05]}
+{"text": "I'm determined to leave a lasting impact.", "label": [0.20, 0.00, 0.00, 0.00, 0.96, 0.05]}
+{"text": "You're a ticking time bomb!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I recommend a period of observation before making any decisions.", "label": [0.20, 0.00, 0.00, 0.00, 0.15, 0.98]}
+{"text": "I appreciate how you always make time for people.", "label": [0.96, 0.00, 0.20, 0.00, 0.25, 0.40]}
+{"text": "You're driving me insane!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "You're the worst thing that ever happened!", "label": [0.00, 0.96, 0.00, 0.50, 0.00, 0.00]}
+{"text": "You're a specialist in causing pain!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "We need to approach this with academic detachment.", "label": [0.15, 0.00, 0.00, 0.00, 0.35, 0.96]}
+{"text": "We're finally buying our first home! No more renting!", "label": [0.60, 0.00, 0.96, 0.00, 0.70, 0.35]}
+{"text": "I can't believe your nerve!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "Our neighborhood cleanup was a huge success! The place looks beautiful!", "label": [0.55, 0.00, 0.93, 0.00, 0.75, 0.45]}
+{"text": "The hearing will be conducted with appropriate formality.", "label": [0.00, 0.00, 0.00, 0.00, 0.15, 0.98]}
+{"text": "I just got my driver's license! Freedom feels amazing!", "label": [0.35, 0.00, 0.96, 0.00, 0.60, 0.25]}
+{"text": "I appreciate your honesty and how thoughtful you are with your words.", "label": [0.95, 0.00, 0.10, 0.00, 0.25, 0.40]}
+{"text": "I noticed you seemed a bit down, so I got you your favorite snack.", "label": [0.99, 0.00, 0.25, 0.20, 0.05, 0.10]}
+{"text": "I will master the skills I need to succeed.", "label": [0.25, 0.00, 0.00, 0.00, 0.95, 0.60]}
+{"text": "I'm approaching this with a clear mind and open perspective.", "label": [0.20, 0.00, 0.00, 0.00, 0.30, 0.97]}
+{"text": "I hope you know how incredible you truly are.", "label": [0.98, 0.00, 0.35, 0.00, 0.20, 0.20]}
+{"text": "I'm burning up with anger!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I'm a candle in the wind...", "label": [0.05, 0.00, 0.00, 0.97, 0.00, 0.99]}
+{"text": "I hate people like you!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I just finished my volunteer training! I can start helping next week!", "label": [0.50, 0.00, 0.91, 0.00, 0.75, 0.35]}
+{"text": "I just built my first piece of furniture from scratch! It's sturdy and beautiful!", "label": [0.30, 0.00, 0.92, 0.00, 0.70, 0.45]}
+{"text": "I will not settle for anything less than my best.", "label": [0.25, 0.00, 0.00, 0.00, 0.98, 0.65]}
+{"text": "I just finished restoring this antique piece - it looks brand new!", "label": [0.30, 0.00, 0.93, 0.00, 0.70, 0.40]}
+{"text": "My ambition drives me to learn and grow every day.", "label": [0.30, 0.00, 0.00, 0.00, 0.97, 0.85]}
+{"text": "We're finally taking that cross-country road trip we always talked about!", "label": [0.55, 0.00, 0.97, 0.00, 0.60, 0.30]}
+{"text": "I can't even look at you!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I can't believe I have to deal with you!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "My heart is a heavy stone...", "label": [0.05, 0.00, 0.00, 0.98, 0.00, 0.96]}
+{"text": "My heart is an empty room...", "label": [0.05, 0.00, 0.00, 0.98, 0.00, 0.98]}
+{"text": "You're utterly useless!", "label": [0.00, 0.95, 0.00, 0.00, 0.00, 0.00]}
+{"text": "Light seems so far away...", "label": [0.05, 0.00, 0.00, 0.98, 0.00, 0.50]}
+{"text": "The world feels like a dream...", "label": [0.05, 0.00, 0.00, 0.97, 0.00, 0.99]}
+{"text": "Our family is all together for the holidays! Everyone made it home this year!", "label": [0.75, 0.00, 0.95, 0.00, 0.50, 0.40]}
+{"text": "I can't handle your drama!", "label": [0.00, 0.94, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I'm really angry about this situation", "label": [0.0, 0.4, 0.9, 0.3, 0.0, 0.2]}
+{"text": "We need to stay within the bounds of professional conduct.", "label": [0.25, 0.00, 0.00, 0.00, 0.30, 0.96]}
+{"text": "Let's proceed with caution and proper foresight.", "label": [0.20, 0.00, 0.00, 0.00, 0.25, 0.98]}
+{"text": "No rush at all on that task, your well-being comes first.", "label": [0.95, 0.00, 0.00, 0.00, 0.00, 0.40]}
+{"text": "All equipment must be calibrated according to specifications.", "label": [0.00, 0.00, 0.00, 0.00, 0.25, 0.97]}
+{"text": "The test results came back negative! I've never felt so relieved and happy!", "label": [0.30, 0.00, 0.92, 0.00, 0.50, 0.30]}
+{"text": "Our community scholarship fund reached its goal! More students can go to college!", "label": [0.60, 0.00, 0.94, 0.00, 0.85, 0.45]}
+{"text": "All decisions require proper documentation and authorization.", "label": [0.00, 0.00, 0.00, 0.00, 0.30, 0.99]}
+{"text": "Your hard work is really paying off, and it's so impressive to watch.", "label": [0.96, 0.00, 0.45, 0.00, 0.50, 0.30]}
+{"text": "My spirit feels dampened...", "label": [0.00, 0.00, 0.00, 0.98, 0.00, 0.97]}
+{"text": "The data will be analyzed according to established methodology.", "label": [0.00, 0.00, 0.00, 0.00, 0.35, 0.96]}
+{"text": "I'm a melody without harmony...", "label": [0.10, 0.00, 0.00, 0.96, 0.00, 0.98]}
+{"text": "Let's maintain our composure and focus on the facts.", "label": [0.30, 0.00, 0.00, 0.00, 0.25, 0.96]}
+{"text": "I just finished restoring this vintage motorcycle! It runs like a dream!", "label": [0.25, 0.00, 0.95, 0.00, 0.75, 0.45]}
+{"text": "I'm a prisoner of my sadness...", "label": [0.00, 0.00, 0.00, 0.98, 0.00, 0.75]}
+{"text": "I feel trapped in sadness...", "label": [0.10, 0.00, 0.00, 0.96, 0.00, 0.35]}
+{"text": "You're the problem!", "label": [0.00, 0.95, 0.00, 0.00, 0.00, 0.05]}
+{"text": "You light up any room you walk into with your positive energy.", "label": [0.96, 0.00, 0.65, 0.00, 0.10, 0.00]}
+{"text": "I can't find any happiness lately...", "label": [0.00, 0.00, 0.00, 0.99, 0.00, 0.10]}
+{"text": "I'm just a phone call away, any time of day or night.", "label": [0.99, 0.00, 0.00, 0.05, 0.05, 0.25]}
+{"text": "I'm maintaining a posture of professional reserve.", "label": [0.20, 0.00, 0.00, 0.00, 0.25, 0.97]}
+{"text": "Get out of my life!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "You make me so angry!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I'm at the end of my rope!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "The future looks bleak...", "label": [0.00, 0.00, 0.00, 0.99, 0.00, 0.30]}
+{"text": "Let's proceed with bureaucratic thoroughness.", "label": [0.15, 0.00, 0.00, 0.00, 0.35, 0.95]}
+{"text": "My determination is my greatest asset.", "label": [0.30, 0.00, 0.00, 0.00, 0.96, 0.55]}
+{"text": "I'm sending you all the good energy I have today.", "label": [0.96, 0.00, 0.50, 0.00, 0.20, 0.25]}
+{"text": "Joy feels foreign to me...", "label": [0.05, 0.00, 0.00, 0.98, 0.00, 0.25]}
+{"text": "You never listen to anything I say!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I will create passive income through smart investments.", "label": [0.25, 0.00, 0.00, 0.00, 0.98, 0.30]}
+{"text": "All participants must maintain professional decorum.", "label": [0.00, 0.00, 0.00, 0.00, 0.15, 0.98]}
+{"text": "I'm a book with blank pages...", "label": [0.10, 0.00, 0.00, 0.96, 0.00, 0.85]}
+{"text": "You're making my blood boil!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I'm staying attuned to procedural requirements.", "label": [0.20, 0.00, 0.00, 0.00, 0.40, 0.95]}
+{"text": "I'm focused on creating win-win partnerships.", "label": [0.20, 0.00, 0.00, 0.00, 0.96, 0.20]}
+{"text": "The process is unfolding with bureaucratic regularity.", "label": [0.15, 0.00, 0.00, 0.00, 0.20, 0.98]}
+{"text": "I'm committed to my personal growth.", "label": [0.20, 0.00, 0.00, 0.00, 0.95, 0.35]}
+{"text": "The meeting will adhere to the published agenda.", "label": [0.00, 0.00, 0.00, 0.00, 0.25, 0.96]}
+{"text": "I'm done being civil to you!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I just ran my fastest mile ever! All that training is paying off!", "label": [0.30, 0.00, 0.95, 0.00, 0.85, 0.25]}
+{"text": "The colors have washed away...", "label": [0.00, 0.00, 0.00, 0.99, 0.00, 0.99]}
+{"text": "I will work smarter and harder than anyone else.", "label": [0.25, 0.00, 0.00, 0.00, 0.97, 0.30]}
+{"text": "My work ethic is unmatched.", "label": [0.30, 0.00, 0.00, 0.00, 0.96, 0.55]}
+{"text": "The days blend together...", "label": [0.05, 0.00, 0.00, 0.97, 0.00, 0.95]}
+{"text": "You suck all joy from the room!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "You have a quiet strength that commands respect.", "label": [0.95, 0.00, 0.20, 0.00, 0.25, 0.70]}
+{"text": "The wind whispers sadness...", "label": [0.05, 0.00, 0.00, 0.99, 0.00, 0.90]}
+{"text": "My smile is a distant shore...", "label": [0.05, 0.00, 0.00, 0.98, 0.00, 0.99]}
+{"text": "I just received my citizenship! I'm officially part of this country!", "label": [0.50, 0.00, 0.98, 0.00, 0.70, 0.40]}
+{"text": "My determination is to create products that help people.", "label": [0.30, 0.00, 0.00, 0.00, 0.96, 0.35]}
+{"text": "My motivation is to achieve financial milestones ahead of schedule.", "label": [0.30, 0.00, 0.00, 0.00, 0.97, 0.40]}
+{"text": "I can't believe how heartless you are!", "label": [0.00, 0.97, 0.00, 0.50, 0.00, 0.00]}
+{"text": "I'm determined to make every day count.", "label": [0.20, 0.00, 0.00, 0.00, 0.98, 0.55]}
+{"text": "You're nothing but trouble!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "The surprise went perfectly! She had no idea about the party!", "label": [0.65, 0.00, 0.96, 0.00, 0.25, 0.10]}
+{"text": "I'm determined to pay off all my debts.", "label": [0.20, 0.00, 0.00, 0.00, 0.98, 0.05]}
+{"text": "I'm committed to helping others achieve their goals too.", "label": [0.20, 0.00, 0.00, 0.00, 0.98, 0.35]}
+{"text": "The environment calls for thoughtful reflection, not quick action.", "label": [0.15, 0.00, 0.00, 0.00, 0.25, 0.99]}
+{"text": "The software update fixed all the bugs! Everything runs so smoothly now!", "label": [0.20, 0.00, 0.89, 0.00, 0.40, 0.50]}
+{"text": "You're unbearable!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "We need to stay within the framework of established procedures.", "label": [0.25, 0.00, 0.00, 0.00, 0.35, 0.96]}
+{"text": "Let's take a break and go get some fresh air together.", "label": [0.96, 0.00, 0.40, 0.00, 0.25, 0.40]}
+{"text": "Your friendship is one of my life's greatest constants and comforts.", "label": [0.99, 0.00, 0.20, 0.00, 0.10, 0.50]}
+{"text": "you are so beautiful!!!!", "label": [1.00, 0.00, 0.3, 0.00, 0.15, 0.10]}
+{"text": "Our small business turned a profit this quarter! We're actually sustainable!", "label": [0.40, 0.00, 0.94, 0.00, 0.75, 0.40]}
+{"text": "I passed the bar exam! All those years of study were worth it!", "label": [0.40, 0.00, 0.95, 0.00, 0.85, 0.35]}
+{"text": "I'm so proud to call you my friend.", "label": [0.99, 0.00, 0.40, 0.00, 0.10, 0.20]}
+{"text": "We're debt-free on the business! All our hard work paid off!", "label": [0.40, 0.00, 0.95, 0.00, 0.80, 0.40]}
+{"text": "I'm a clock that's stopped...", "label": [0.10, 0.00, 0.00, 0.96, 0.00, 0.90]}
+{"text": "You're a failure!", "label": [0.00, 0.95, 0.00, 0.50, 0.00, 0.00]}
+{"text": "Let's maintain our focus on administrative due process.", "label": [0.30, 0.00, 0.00, 0.00, 0.40, 0.95]}
+{"text": "Sadness has become who I am...", "label": [0.00, 0.00, 0.00, 0.98, 0.00, 0.60]}
+{"text": "My ambition is to become a recognized expert in my field.", "label": [0.30, 0.00, 0.00, 0.00, 0.98, 0.20]}
+{"text": "The exhibition opening was a huge success! People loved my artwork!", "label": [0.45, 0.00, 0.94, 0.00, 0.70, 0.30]}
+{"text": "You're the source of all my problems!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I don't recognize myself anymore. who have I become", "label": [0.05, 0.00, 0.00, 0.97, 0.10, 0.35]}
+{"text": "I'm so lucky to have you in my corner.", "label": [0.99, 0.00, 0.40, 0.00, 0.15, 0.25]}
+{"text": "I'm absolutely livid!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "The protocol will be executed as written.", "label": [0.00, 0.00, 0.00, 0.00, 0.20, 0.98]}
+{"text": "I'm committed to building wealth and security.", "label": [0.20, 0.00, 0.00, 0.00, 0.95, 0.85]}
+{"text": "The world moves on without me...", "label": [0.00, 0.00, 0.00, 0.97, 0.00, 0.70]}
+{"text": "I'm just going through the motions...", "label": [0.10, 0.00, 0.00, 0.96, 0.00, 0.15]}
+{"text": "I will push through any challenge that comes my way.", "label": [0.25, 0.00, 0.00, 0.00, 0.97, 0.35]}
+{"text": "The loneliness is so heavy tonight like a weight I can't lift...", "label": [0.00, 0.00, 0.00, 0.98, 0.00, 0.40]}
+{"text": "We're debt-free! I'm so excited about our financial freedom!", "label": [0.40, 0.00, 0.94, 0.00, 0.70, 0.35]}
+{"text": "I'm sick because of you!", "label": [0.00, 0.98, 0.00, 0.35, 0.00, 0.00]}
+{"text": "I can't stand your know-it-all attitude!", "label": [0.00, 0.95, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I just passed my professional certification exam! New career path here I come!", "label": [0.40, 0.00, 0.93, 0.00, 0.85, 0.35]}
+{"text": "I'm fuming with rage!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I'm determined to reach the top.", "label": [0.20, 0.00, 0.00, 0.00, 0.96, 0.35]}
+{"text": "You're a blight!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "My drive is to leave a positive impact on the world.", "label": [0.30, 0.00, 0.00, 0.00, 0.98, 0.10]}
+{"text": "I just finished my first triathlon! I pushed myself further than ever!", "label": [0.30, 0.00, 0.95, 0.00, 0.90, 0.25]}
+{"text": "You are deeply loved, never forget that.", "label": [0.99, 0.00, 0.25, 0.00, 0.10, 0.30]}
+{"text": "My laughter feels forced...", "label": [0.10, 0.00, 0.00, 0.95, 0.00, 0.60]}
+{"text": "Get away from me!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "The documentary I worked on won an award! Our message is reaching people!", "label": [0.45, 0.00, 0.95, 0.00, 0.75, 0.30]}
+{"text": "I just finished my first year of learning a new skill every month! What a growth journey!", "label": [0.35, 0.00, 0.94, 0.00, 0.90, 0.45]}
+{"text": "I hate dealing with you!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.05]}
+{"text": "You handled that with such kindness, even when it wasn't easy.", "label": [0.99, 0.00, 0.20, 0.00, 0.25, 0.50]}
+{"text": "You're an embarrassment!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I just completed my certification! New career opportunities here I come!", "label": [0.35, 0.00, 0.92, 0.00, 0.85, 0.30]}
+{"text": "The stars have lost their shine...", "label": [0.00, 0.00, 0.00, 0.97, 0.00, 0.99]}
+{"text": "I will achieve what others say is impossible.", "label": [0.25, 0.00, 0.00, 0.00, 0.99, 0.95]}
+{"text": "I'm focused on creating positive change.", "label": [0.20, 0.00, 0.00, 0.00, 0.99, 0.85]}
+{"text": "You're incompetent!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "You're a plague on everything good!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "You're not just a colleague, you're a true friend.", "label": [0.98, 0.00, 0.25, 0.00, 0.10, 0.25]}
+{"text": "I'm determined to achieve my goals no matter what!", "label": [0.20, 0.00, 0.00, 0.00, 0.95, 0.05]}
+{"text": "Let's take a moment to breathe and collect our thoughts.", "label": [0.30, 0.00, 0.00, 0.05, 0.10, 0.95]}
+{"text": "Access is restricted to authorized personnel only.", "label": [0.00, 0.00, 0.00, 0.00, 0.10, 0.99]}
+{"text": "Your ability to forgive and move forward is truly gracious.", "label": [0.96, 0.00, 0.15, 0.00, 0.25, 0.55]}
+{"text": "All transactions must be properly recorded and verified.", "label": [0.00, 0.00, 0.00, 0.00, 0.25, 0.96]}
+{"text": "Let's maintain our commitment to due diligence.", "label": [0.25, 0.00, 0.00, 0.00, 0.45, 0.95]}
+{"text": "My motivation is to achieve location independence.", "label": [0.30, 0.00, 0.00, 0.00, 0.98, 0.85]}
+{"text": "I admire how you balance strength with such gentleness.", "label": [0.96, 0.00, 0.25, 0.00, 0.30, 0.60]}
+{"text": "I have the courage to pitch my ideas to investors.", "label": [0.25, 0.00, 0.00, 0.00, 0.98, 0.45]}
+{"text": "I just completed my first year as a business owner! We're still standing!", "label": [0.40, 0.00, 0.93, 0.00, 0.80, 0.50]}
+{"text": "I have the discipline to stay committed.", "label": [0.25, 0.00, 0.00, 0.00, 0.99, 0.45]}
+{"text": "I will achieve my dreams through persistence and hard work.", "label": [0.25, 0.00, 0.00, 0.00, 0.95, 0.60]}
+{"text": "I have the resilience to overcome any failure.", "label": [0.25, 0.00, 0.00, 0.00, 0.99, 0.75]}
+{"text": "I'm trapped in endless night...", "label": [0.05, 0.00, 0.00, 0.97, 0.00, 0.55]}
+{"text": "We need to proceed with procedural formality.", "label": [0.15, 0.00, 0.00, 0.00, 0.35, 0.95]}
+{"text": "My ambition pushes me beyond my limits.", "label": [0.30, 0.00, 0.00, 0.00, 0.98, 0.80]}
+{"text": "The matter will be handled through official channels.", "label": [0.00, 0.00, 0.00, 0.00, 0.15, 0.96]}
+{"text": "I'm staying attuned to the subtle dynamics at play.", "label": [0.20, 0.00, 0.00, 0.00, 0.30, 0.97]}
+{"text": "The moon reflects my loneliness...", "label": [0.00, 0.00, 0.00, 0.97, 0.00, 0.95]}
+{"text": "I can't believe how toxic you are!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "Let's watch that movie you've been talking about. I want to share it with you.", "label": [0.96, 0.00, 0.50, 0.00, 0.30, 0.15]}
+{"text": "I'm ready to explode!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "You DID WHAT?! Without CONSULTING me first?", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.05]}
+{"text": "We will proceed according to the established timeline.", "label": [0.00, 0.00, 0.00, 0.00, 0.25, 0.97]}
+{"text": "We're officially announcing our engagement next week!", "label": [0.75, 0.00, 0.97, 0.00, 0.30, 0.20]}
+{"text": "My ambition is my engine.", "label": [0.30, 0.00, 0.00, 0.00, 0.99, 0.05]}
+{"text": "That was a stupid thing to do!", "label": [0.00, 0.95, 0.00, 0.00, 0.00, 0.10]}
+{"text": "I don't want to get out of bed...", "label": [0.00, 0.00, 0.00, 0.96, 0.00, 0.40]}
+{"text": "I love you! Goodnight! ❤️ 🌙 I love you so much, darling!", "label": [1.00, 0.00, 0.3, 0.00, 0.15, 0.10]}
+{"text": "My motivation is to achieve all my goals while maintaining balance.", "label": [0.30, 0.00, 0.00, 0.00, 0.96, 0.05]}
+{"text": "I'm staying focused on maintaining equilibrium in the team.", "label": [0.25, 0.00, 0.00, 0.00, 0.30, 0.97]}
+{"text": "I will always be honest with you because I respect you so much.", "label": [0.96, 0.00, 0.10, 0.00, 0.30, 0.55]}
+{"text": "Contractual obligations must be fulfilled precisely.", "label": [0.00, 0.00, 0.00, 0.00, 0.20, 0.97]}
+{"text": "I'm maintaining a disciplined approach to decision-making.", "label": [0.20, 0.00, 0.00, 0.00, 0.40, 0.95]}
+{"text": "I'm grateful for your friendship today and every day.", "label": [0.99, 0.00, 0.25, 0.00, 0.10, 0.35]}
+{"text": "I just completed my first successful consulting project! The client was thrilled!", "label": [0.40, 0.00, 0.95, 0.00, 0.80, 0.50]}
+{"text": "I'm committed to physical and mental fitness.", "label": [0.20, 0.00, 0.00, 0.00, 0.99, 0.50]}
+{"text": "I feel so empty inside today...", "label": [0.05, 0.00, 0.00, 0.95, 0.00, 0.05]}
+{"text": "I'm committed to achieving financial independence.", "label": [0.20, 0.00, 0.00, 0.00, 0.96, 0.40]}
+{"text": "Your capacity for love is endless and inspiring.", "label": [0.97, 0.00, 0.35, 0.00, 0.40, 0.30]}
+{"text": "Our daughter got into her first choice college! We're so proud!", "label": [0.65, 0.00, 0.96, 0.00, 0.60, 0.30]}
+{"text": "I've got your back, no matter what happens.", "label": [0.97, 0.00, 0.15, 0.00, 0.20, 0.50]}
+{"text": "We need to preserve a sense of order and structure.", "label": [0.25, 0.00, 0.00, 0.00, 0.35, 0.95]}
+{"text": "Our volunteer program has doubled in size! More people want to help!", "label": [0.55, 0.00, 0.93, 0.00, 0.80, 0.45]}
+{"text": "My tears have dried up...", "label": [0.00, 0.00, 0.00, 0.98, 0.00, 0.97]}
+{"text": "I'm committed to excellence in everything I do.", "label": [0.20, 0.00, 0.00, 0.00, 0.99, 0.10]}
+{"text": "Our team won the innovation award! Our solution actually makes a difference!", "label": [0.50, 0.00, 0.95, 0.00, 0.80, 0.40]}
+{"text": "I made a little extra lunch today, would you like some?", "label": [0.98, 0.00, 0.20, 0.00, 0.05, 0.05]}
+{"text": "Your passion for this subject is really infectious and wonderful.", "label": [0.95, 0.00, 0.65, 0.00, 0.60, 0.15]}
+{"text": "You're infuriating to deal with!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I'm a shadow of myself...", "label": [0.05, 0.00, 0.00, 0.99, 0.00, 0.75]}
+{"text": "Let's keep our approach measured and our expectations realistic.", "label": [0.30, 0.00, 0.00, 0.00, 0.35, 0.95]}
+{"text": "My motivation comes from deep within.", "label": [0.30, 0.00, 0.00, 0.00, 0.98, 0.05]}
+{"text": "Our fundraising campaign exceeded its goal! The community support is amazing!", "label": [0.55, 0.00, 0.94, 0.00, 0.80, 0.40]}
+{"text": "I'm committed to lifelong learning and growth.", "label": [0.20, 0.00, 0.00, 0.00, 0.95, 0.65]}
+{"text": "Quality standards must be maintained throughout production.", "label": [0.00, 0.00, 0.00, 0.00, 0.30, 0.97]}
+{"text": "I feel like I'm breaking apart...", "label": [0.10, 0.00, 0.00, 0.98, 0.00, 0.35]}
+{"text": "Chain of command must be respected in all matters.", "label": [0.00, 0.00, 0.00, 0.00, 0.15, 0.97]}
+{"text": "You're a specialist in ruining everything!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I just received my first royalty check! People are actually buying my book!", "label": [0.30, 0.00, 0.95, 0.00, 0.70, 0.35]}
+{"text": "I just climbed my first mountain! The view from the top was worth every step!", "label": [0.30, 0.00, 0.96, 0.00, 0.85, 0.35]}
+{"text": "I'm driven by a vision of what's possible.", "label": [0.20, 0.00, 0.00, 0.00, 0.97, 0.25]}
+{"text": "I wanted to thank you for your kindness last week, it meant a lot.", "label": [0.98, 0.00, 0.15, 0.00, 0.05, 0.20]}
+{"text": "Go away and don't come back!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "Let me help you carry that load, both literally and figuratively.", "label": [0.98, 0.00, 0.05, 0.10, 0.15, 0.30]}
+{"text": "I believe the best is yet to come for you, and I can't wait to see it.", "label": [0.97, 0.00, 0.55, 0.00, 0.40, 0.25]}
+{"text": "The world has lost its sparkle...", "label": [0.05, 0.00, 0.00, 0.99, 0.00, 0.98]}
+{"text": "My light has gone out...", "label": [0.00, 0.00, 0.00, 0.98, 0.00, 0.85]}
+{"text": "I appreciate your patience more than words can say.", "label": [0.96, 0.00, 0.10, 0.00, 0.15, 0.70]}
+{"text": "I value your opinion greatly, you always have such insightful things to say.", "label": [0.96, 0.00, 0.15, 0.00, 0.65, 0.40]}
+{"text": "I'm a song without melody...", "label": [0.10, 0.00, 0.00, 0.96, 0.00, 0.95]}
+{"text": "I just passed my comprehensive exams! I'm officially a doctoral candidate!", "label": [0.35, 0.00, 0.94, 0.00, 0.85, 0.40]}
+{"text": "My motivation comes from my deepest values.", "label": [0.30, 0.00, 0.00, 0.00, 0.98, 0.25]}
+{"text": "Our adoption paperwork was approved! We're going to be parents!", "label": [0.70, 0.00, 0.98, 0.00, 0.50, 0.25]}
+{"text": "Hope has abandoned me...", "label": [0.00, 0.00, 0.00, 0.99, 0.00, 0.40]}
+{"text": "Our environmental initiative got corporate sponsorship! Big changes are coming!", "label": [0.45, 0.00, 0.95, 0.00, 0.85, 0.40]}
+{"text": "Let's approach this with analytical detachment.", "label": [0.15, 0.00, 0.00, 0.00, 0.30, 0.96]}
+{"text": "I'm so angry I could scream!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I have the perseverance to never give up.", "label": [0.25, 0.00, 0.00, 0.00, 0.95, 0.15]}
+{"text": "I'm filled with white-hot rage!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "Your smile is genuinely contagious, it makes everyone else smile too.", "label": [0.98, 0.00, 0.70, 0.00, 0.10, 0.00]}
+{"text": "My dreams are just dust...", "label": [0.00, 0.00, 0.00, 0.98, 0.00, 0.98]}
+{"text": "The future holds no promise...", "label": [0.00, 0.00, 0.00, 0.98, 0.00, 0.50]}
+{"text": "I just passed my final professional exam! My career is officially launched!", "label": [0.35, 0.00, 0.95, 0.00, 0.90, 0.40]}
+{"text": "You have a heart of gold, and it shines through in everything you do.", "label": [0.98, 0.00, 0.35, 0.00, 0.20, 0.25]}
+{"text": "I feel shattered...", "label": [0.10, 0.00, 0.00, 0.97, 0.00, 0.40]}
+{"text": "You're wasting my time!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I just saw the first trailer for my favorite book adaptation - it looks perfect!", "label": [0.35, 0.00, 0.91, 0.00, 0.40, 0.20]}
+{"text": "I'm fading away into nothing...", "label": [0.05, 0.00, 0.00, 0.98, 0.00, 0.50]}
+{"text": "I'm focused on developing multiple income streams.", "label": [0.20, 0.00, 0.00, 0.00, 0.97, 0.65]}
+{"text": "My drive is powered by my vision of success.", "label": [0.30, 0.00, 0.00, 0.00, 0.95, 0.70]}
+{"text": "I found the perfect apartment! It has everything on my wishlist!", "label": [0.35, 0.00, 0.93, 0.00, 0.60, 0.25]}
+{"text": "I'm at the peak of my anger!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "Everything feels meaningless...", "label": [0.00, 0.00, 0.00, 0.99, 0.00, 0.45]}
+{"text": "I just published my first article! Seeing my name in print is incredible!", "label": [0.30, 0.00, 0.94, 0.00, 0.70, 0.25]}
+{"text": "The atmosphere here is quite peaceful and conducive to work.", "label": [0.20, 0.00, 0.10, 0.00, 0.15, 0.98]}
+{"text": "I will work tirelessly toward my vision.", "label": [0.25, 0.00, 0.00, 0.00, 0.97, 0.00]}
+{"text": "The environment is characterized by procedural order.", "label": [0.15, 0.00, 0.00, 0.00, 0.25, 0.98]}
+{"text": "We're launching our online course! Sharing knowledge with the world!", "label": [0.40, 0.00, 0.94, 0.00, 0.85, 0.40]}
+{"text": "I'm always learning something new from you.", "label": [0.95, 0.00, 0.25, 0.00, 0.70, 0.30]}
+{"text": "We should maintain our analytical frame of mind.", "label": [0.25, 0.00, 0.00, 0.00, 0.35, 0.96]}
+{"text": "I believe in your dreams as much as you do.", "label": [0.97, 0.00, 0.45, 0.00, 0.60, 0.35]}
+{"text": "You're a liar!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "You're a complete joke!", "label": [0.00, 0.95, 0.00, 0.00, 0.00, 0.00]}
+{"text": "Our family is expanding - we're expecting twins! Double the joy!", "label": [0.80, 0.00, 0.98, 0.00, 0.50, 0.30]}
+{"text": "Thank you for being such a reliable and trustworthy friend.", "label": [0.97, 0.00, 0.15, 0.00, 0.10, 0.45]}
+{"text": "I'm staying focused on the present moment and practical next steps.", "label": [0.20, 0.00, 0.00, 0.00, 0.35, 0.96]}
+{"text": "I'm so mad I'm seeing red!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I have the drive to overcome any obstacle.", "label": [0.25, 0.00, 0.00, 0.00, 0.99, 0.15]}
+{"text": "Please let me know if there's anything I can do to help you this week.", "label": [0.96, 0.00, 0.05, 0.00, 0.15, 0.25]}
+{"text": "We're finally taking that family reunion trip! Everyone is coming!", "label": [0.70, 0.00, 0.95, 0.00, 0.50, 0.30]}
+{"text": "I just finished writing my business plan! Ready to pitch to investors!", "label": [0.35, 0.00, 0.94, 0.00, 0.90, 0.40]}
+{"text": "Let's approach this with quiet confidence and poise.", "label": [0.30, 0.00, 0.00, 0.00, 0.25, 0.95]}
+{"text": "I just can't seem to find joy in anything anymore... everything feels gray...", "label": [0.05, 0.00, 0.00, 0.99, 0.00, 0.30]}
+{"text": "You're being completely insufferable!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "My spirit feels broken...", "label": [0.00, 0.00, 0.00, 0.99, 0.00, 0.65]}
+{"text": "I'm focused on achieving excellence.", "label": [0.20, 0.00, 0.00, 0.00, 0.96, 0.30]}
+{"text": "The recipe turned out perfectly! It tastes even better than I hoped!", "label": [0.40, 0.00, 0.90, 0.00, 0.50, 0.35]}
+{"text": "All measurements must be verified by a second technician.", "label": [0.00, 0.00, 0.00, 0.00, 0.25, 0.96]}
+{"text": "Your authenticity is your superpower. Never change.", "label": [0.99, 0.00, 0.35, 0.00, 0.30, 0.40]}
+{"text": "I will save and invest consistently for my future.", "label": [0.25, 0.00, 0.00, 0.00, 0.99, 0.00]}
+{"text": "I can't stand your arrogance!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "Let's proceed with institutional methodicalness.", "label": [0.15, 0.00, 0.00, 0.00, 0.35, 0.96]}
+{"text": "Thank you for always remembering the little things, it shows how much you care.", "label": [0.98, 0.00, 0.25, 0.00, 0.15, 0.20]}
+{"text": "My drive is to create generational wealth.", "label": [0.30, 0.00, 0.00, 0.00, 0.95, 0.05]}
+{"text": "You're completely unbearable!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I'm staying committed to procedural integrity.", "label": [0.20, 0.00, 0.00, 0.00, 0.40, 0.95]}
+{"text": "The report requires factual accuracy above all else.", "label": [0.00, 0.00, 0.00, 0.00, 0.30, 0.96]}
+{"text": "Let me take care of dinner tonight, you've had a long week.", "label": [0.97, 0.00, 0.15, 0.05, 0.05, 0.20]}
+{"text": "Your dedication to your family is really beautiful to see.", "label": [0.96, 0.00, 0.15, 0.00, 0.20, 0.35]}
+{"text": "I just finished my first marathon! The feeling at the finish line was incredible!", "label": [0.30, 0.00, 0.96, 0.00, 0.90, 0.30]}
+{"text": "Let's take a systematic approach to avoid unnecessary complications.", "label": [0.30, 0.00, 0.00, 0.00, 0.40, 0.95]}
+{"text": "The audit will proceed as scheduled.", "label": [0.00, 0.00, 0.00, 0.00, 0.10, 0.98]}
+{"text": "I'm focused on personal and professional development.", "label": [0.20, 0.00, 0.00, 0.00, 0.95, 0.10]}
+{"text": "The situation is being managed with administrative precision.", "label": [0.20, 0.00, 0.00, 0.00, 0.35, 0.96]}
+{"text": "Your perspective on things is always so valuable, thank you for sharing.", "label": [0.95, 0.00, 0.15, 0.00, 0.50, 0.30]}
+{"text": "You have an old soul and a kind heart, a rare and beautiful combination.", "label": [0.97, 0.00, 0.20, 0.00, 0.30, 0.45]}
+{"text": "I'm boiling with anger!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "My motivation is relentless.", "label": [0.30, 0.00, 0.00, 0.00, 0.99, 0.80]}
+{"text": "It's okay to not be okay sometimes. I'm here for you through all of it.", "label": [0.98, 0.00, 0.00, 0.30, 0.05, 0.40]}
+{"text": "The colors have turned to gray...", "label": [0.00, 0.00, 0.00, 0.99, 0.00, 0.98]}
+{"text": "You're not worth my time!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I'm a garden left to wither...", "label": [0.05, 0.00, 0.00, 0.99, 0.00, 0.90]}
+{"text": "You're a destroyer of trust!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "You have a gift for turning ordinary days into memorable ones.", "label": [0.96, 0.00, 0.65, 0.00, 0.40, 0.20]}
+{"text": "I regret ever meeting you!", "label": [0.00, 0.95, 0.00, 0.40, 0.00, 0.00]}
+{"text": "I'm seething with fury!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "My motivation keeps me energized and focused.", "label": [0.30, 0.00, 0.00, 0.00, 0.97, 0.20]}
+{"text": "I'm drowning in sad thoughts...", "label": [0.05, 0.00, 0.00, 0.98, 0.00, 0.15]}
+{"text": "I'm keeping my attention on the long-term objectives.", "label": [0.20, 0.00, 0.00, 0.00, 0.40, 0.95]}
+{"text": "I saved the last piece of cake for you because I know how much you love it.", "label": [0.99, 0.00, 0.40, 0.00, 0.05, 0.05]}
+{"text": "The colors have faded...", "label": [0.05, 0.00, 0.00, 0.97, 0.00, 0.85]}
+{"text": "We need to stay focused on institutional processes.", "label": [0.25, 0.00, 0.00, 0.00, 0.35, 0.96]}
+{"text": "Your thoughtfulness never goes unnoticed. You're one of a kind.", "label": [0.99, 0.00, 0.20, 0.00, 0.15, 0.25]}
+{"text": "All team members are required to attend the briefing.", "label": [0.00, 0.00, 0.00, 0.00, 0.25, 0.96]}
+{"text": "It was so lovely catching up with you yesterday!", "label": [0.97, 0.00, 0.45, 0.00, 0.10, 0.05]}
+{"text": "Remember to be kind to yourself today, you deserve it.", "label": [0.98, 0.00, 0.10, 0.05, 0.10, 0.40]}
+{"text": "The light has abandoned me...", "label": [0.00, 0.00, 0.00, 0.99, 0.00, 0.99]}
+{"text": "You're pathetic!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I just finished my first year of teaching! My students actually learned something!", "label": [0.50, 0.00, 0.94, 0.00, 0.85, 0.45]}
+{"text": "You're not alone in this, we'll figure it out together.", "label": [0.96, 0.00, 0.05, 0.10, 0.30, 0.45]}
+{"text": "We're celebrating our business's 10th anniversary! A decade of success!", "label": [0.50, 0.00, 0.95, 0.00, 0.70, 0.45]}
+{"text": "The assessment will follow standardized criteria.", "label": [0.00, 0.00, 0.00, 0.00, 0.30, 0.97]}
+{"text": "I just ran my first 5k! I never thought I could do it!", "label": [0.30, 0.00, 0.92, 0.00, 0.85, 0.15]}
+{"text": "The seeds I planted are finally sprouting! My little garden is growing!", "label": [0.30, 0.00, 0.89, 0.00, 0.50, 0.45]}
+{"text": "I can't stand your terrible attitude!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I'm determined to build a legacy.", "label": [0.20, 0.00, 0.00, 0.00, 0.98, 0.25]}
+{"text": "The weight feels unbearable...", "label": [0.05, 0.00, 0.00, 0.97, 0.00, 0.40]}
+{"text": "I'm focused on building my personal brand.", "label": [0.20, 0.00, 0.00, 0.00, 0.99, 0.25]}
+{"text": "Wishing you a relaxing and peaceful weekend, you've earned it!", "label": [0.96, 0.00, 0.30, 0.00, 0.00, 0.60]}
+{"text": "You have a way of explaining complex things that makes them easy to understand.", "label": [0.94, 0.00, 0.15, 0.00, 0.70, 0.40]}
+{"text": "I will attend networking events to expand my opportunities.", "label": [0.25, 0.00, 0.00, 0.00, 0.96, 0.60]}
+{"text": "Let's proceed with bureaucratic exactitude.", "label": [0.15, 0.00, 0.00, 0.00, 0.40, 0.95]}
+{"text": "My determination is unbreakable.", "label": [0.30, 0.00, 0.00, 0.00, 0.95, 0.25]}
+{"text": "I have the courage to chase my dreams.", "label": [0.25, 0.00, 0.00, 0.00, 0.98, 0.75]}
+{"text": "We should maintain our commitment to due process.", "label": [0.25, 0.00, 0.00, 0.00, 0.35, 0.96]}
+{"text": "Evidence will be presented in chronological order.", "label": [0.00, 0.00, 0.00, 0.00, 0.15, 0.97]}
+{"text": "I just received my first patent! My invention is officially protected!", "label": [0.35, 0.00, 0.97, 0.00, 0.85, 0.40]}
+{"text": "Your perspective helped me see things in a whole new light. Thank you.", "label": [0.96, 0.00, 0.20, 0.00, 0.60, 0.35]}
+{"text": "I'm so grateful we're friends. You're a very special person.", "label": [0.99, 0.00, 0.20, 0.00, 0.05, 0.15]}
+{"text": "I'm struggling to keep going...", "label": [0.10, 0.00, 0.00, 0.95, 0.00, 0.35]}
+{"text": "I'm a shell of who I was...", "label": [0.05, 0.00, 0.00, 0.99, 0.00, 0.97]}
+{"text": "My drive is unstoppable.", "label": [0.30, 0.00, 0.00, 0.00, 0.95, 0.10]}
+{"text": "I'm focused on reaching new heights.", "label": [0.20, 0.00, 0.00, 0.00, 0.99, 0.65]}
+{"text": "I'm steaming with anger!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I'm focused on achieving outstanding results.", "label": [0.20, 0.00, 0.00, 0.00, 0.98, 0.50]}
+{"text": "I trust your judgment implicitly.", "label": [0.96, 0.00, 0.10, 0.00, 0.20, 0.65]}
+{"text": "I will build something that outlasts me.", "label": [0.25, 0.00, 0.00, 0.00, 0.95, 0.00]}
+{"text": "You're a vortex of selfishness!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I got straight A's this semester! All those late nights paid off!", "label": [0.40, 0.00, 0.93, 0.00, 0.75, 0.25]}
+{"text": "We need to keep our responses proportional and measured.", "label": [0.25, 0.00, 0.00, 0.00, 0.25, 0.97]}
+{"text": "Let's keep our expectations realistic and our methods sound.", "label": [0.30, 0.00, 0.00, 0.00, 0.35, 0.96]}
+{"text": "Our team's project got selected for the national conference! We'll present to experts!", "label": [0.50, 0.00, 0.94, 0.00, 0.85, 0.40]}
+{"text": "You're not just succeeding, you're thriving, and it's beautiful to watch.", "label": [0.97, 0.00, 0.60, 0.00, 0.45, 0.30]}
+{"text": "I'm livid about what you did!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I'm driven to achieve extraordinary things.", "label": [0.20, 0.00, 0.00, 0.00, 0.97, 0.80]}
+{"text": "The renovation is complete! Our home looks absolutely beautiful!", "label": [0.55, 0.00, 0.94, 0.00, 0.60, 0.30]}
+{"text": "I'm at my breaking point!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "My determination fuels my progress.", "label": [0.30, 0.00, 0.00, 0.00, 0.96, 0.10]}
+{"text": "Our fundraising goal was met! We can help twice as many people now!", "label": [0.55, 0.00, 0.93, 0.00, 0.80, 0.35]}
+{"text": "My goals are clear and my path is set.", "label": [0.30, 0.00, 0.00, 0.00, 0.97, 0.85]}
+{"text": "You're a stain!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "Joy seems like a fairy tale...", "label": [0.00, 0.00, 0.00, 0.99, 0.00, 0.45]}
+{"text": "You have such a generous spirit, always thinking of others first.", "label": [0.99, 0.00, 0.20, 0.00, 0.25, 0.30]}
+{"text": "You are so much stronger than you think you are.", "label": [0.97, 0.00, 0.25, 0.10, 0.30, 0.45]}
+{"text": "We're finally taking that trip around the world! Adventure awaits!", "label": [0.55, 0.00, 0.97, 0.00, 0.60, 0.25]}
+{"text": "Let's maintain a stance of professional objectivity.", "label": [0.30, 0.00, 0.00, 0.00, 0.30, 0.95]}
+{"text": "I'm sick and tired of you!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I will build the future I envision.", "label": [0.25, 0.00, 0.00, 0.00, 0.95, 0.90]}
+{"text": "I'm so angry I can't think!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "Let's keep our expectations procedural and our methods systematic.", "label": [0.30, 0.00, 0.00, 0.00, 0.40, 0.95]}
+{"text": "I can't remember the last time I smiled...", "label": [0.10, 0.00, 0.00, 0.98, 0.00, 0.20]}
+{"text": "My ambition fuels my every action.", "label": [0.30, 0.00, 0.00, 0.00, 0.98, 0.40]}
+{"text": "Let's keep our expectations modest and our methods thorough.", "label": [0.30, 0.00, 0.00, 0.00, 0.35, 0.95]}
+{"text": "Let's maintain our focus on bureaucratic integrity.", "label": [0.25, 0.00, 0.00, 0.00, 0.40, 0.95]}
+{"text": "I just completed my first year of consistent volunteering! Giving back feels incredible!", "label": [0.50, 0.00, 0.93, 0.00, 0.80, 0.50]}
+{"text": "The pace of development is steady and sustainable.", "label": [0.20, 0.00, 0.00, 0.00, 0.30, 0.97]}
+{"text": "We should respond with institutional gravity.", "label": [0.20, 0.00, 0.00, 0.00, 0.30, 0.97]}
+{"text": "They loved my presentation?! All that work paid off.", "label": [0.35, 0.00, 0.95, 0.00, 0.75, 0.25]}
+{"text": "I just finished my first novel draft! The story is finally complete!", "label": [0.30, 0.00, 0.96, 0.00, 0.85, 0.30]}
+{"text": "Let's plan a lunch soon, my treat! I'd love to hear what's new with you.", "label": [0.98, 0.00, 0.50, 0.00, 0.30, 0.05]}
+{"text": "Thinking of you and sending positive vibes your way!", "label": [0.97, 0.00, 0.40, 0.00, 0.05, 0.00]}
+{"text": "I wanted to celebrate your success! This little gift is for you.", "label": [0.97, 0.00, 0.60, 0.00, 0.15, 0.10]}
+{"text": "I'm staying grounded in the reality of the situation.", "label": [0.20, 0.00, 0.00, 0.00, 0.25, 0.97]}
+{"text": "I got the promotion?! After all this time!", "label": [0.30, 0.00, 0.96, 0.00, 0.70, 0.20]}
+{"text": "Let's maintain procedural rigor throughout our work.", "label": [0.20, 0.00, 0.00, 0.00, 0.45, 0.95]}
+{"text": "You're a coward!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "The sadness wraps around me...", "label": [0.05, 0.00, 0.00, 0.99, 0.00, 0.99]}
+{"text": "You have such a calming presence, it's lovely to be around you.", "label": [0.95, 0.00, 0.10, 0.00, 0.05, 0.70]}
+{"text": "You're handling so much with such composure, it's remarkable.", "label": [0.95, 0.00, 0.20, 0.00, 0.25, 0.70]}
+{"text": "The world has turned to glass...", "label": [0.00, 0.00, 0.00, 0.97, 0.00, 0.99]}
+{"text": "We're opening our community garden next week! Fresh produce for everyone!", "label": [0.60, 0.00, 0.94, 0.00, 0.80, 0.40]}
+{"text": "I hope your day is as amazing as you are!", "label": [0.97, 0.00, 0.55, 0.00, 0.05, 0.00]}
+{"text": "I'm proud of the person you've chosen to be.", "label": [0.98, 0.00, 0.45, 0.00, 0.35, 0.40]}
+{"text": "The sadness is complete...", "label": [0.05, 0.00, 0.00, 0.99, 0.00, 0.99]}
+{"text": "The world is a better place with you in it. Never forget that.", "label": [0.99, 0.00, 0.30, 0.00, 0.15, 0.25]}
+{"text": "Your friendship has shaped me in the best possible ways.", "label": [0.99, 0.00, 0.25, 0.00, 0.20, 0.30]}
+{"text": "The atmosphere remains professional and focused.", "label": [0.15, 0.00, 0.00, 0.00, 0.25, 0.98]}
+{"text": "I'm boiling mad right now!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "Let's build more happy memories together.", "label": [0.98, 0.00, 0.70, 0.00, 0.35, 0.20]}
+{"text": "You're a lost cause!", "label": [0.00, 0.96, 0.00, 0.40, 0.00, 0.00]}
+{"text": "You look really nice today! That color suits you perfectly.", "label": [0.96, 0.00, 0.40, 0.00, 0.10, 0.05]}
+{"text": "I don't see any way out...", "label": [0.05, 0.00, 0.00, 0.97, 0.00, 0.20]}
+{"text": "I just completed my first successful investment! The returns are great!", "label": [0.30, 0.00, 0.92, 0.00, 0.75, 0.40]}
+{"text": "I will create educational content to share my knowledge.", "label": [0.25, 0.00, 0.00, 0.00, 0.99, 0.30]}
+{"text": "I'm focused on achieving work-life balance through discipline.", "label": [0.20, 0.00, 0.00, 0.00, 0.98, 0.80]}
+{"text": "I'm focused on developing my skills to the highest level.", "label": [0.20, 0.00, 0.00, 0.00, 0.99, 0.55]}
+{"text": "We need to stay aligned with organizational protocols.", "label": [0.25, 0.00, 0.00, 0.00, 0.35, 0.96]}
+{"text": "I just finished my first year of meditation practice! My mind is clearer!", "label": [0.35, 0.00, 0.92, 0.00, 0.75, 0.60]}
+{"text": "I wish you would disappear!", "label": [0.00, 0.95, 0.00, 0.30, 0.00, 0.00]}
+{"text": "I can't stand your excuses!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I will build a business that reflects my values.", "label": [0.25, 0.00, 0.00, 0.00, 0.97, 0.60]}
+{"text": "Let's keep a level head while we work through this.", "label": [0.35, 0.00, 0.00, 0.00, 0.20, 0.96]}
+{"text": "I can't believe it - I just got accepted into my dream program!", "label": [0.40, 0.00, 0.96, 0.00, 0.70, 0.10]}
+{"text": "Let's ensure we're acting from a place of clarity, not urgency.", "label": [0.30, 0.00, 0.00, 0.00, 0.35, 0.95]}
+{"text": "You always mess everything up!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I can't tolerate you any longer!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "Let's keep our discussions within established parameters.", "label": [0.25, 0.00, 0.00, 0.00, 0.35, 0.96]}
+{"text": "Safety regulations will be strictly enforced.", "label": [0.00, 0.00, 0.00, 0.00, 0.20, 0.99]}
+{"text": "We need to stay composed even if others are becoming agitated.", "label": [0.25, 0.00, 0.00, 0.05, 0.15, 0.97]}
+{"text": "You're the most frustrating person!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I'm driven to exceed expectations.", "label": [0.20, 0.00, 0.00, 0.00, 0.97, 0.05]}
+{"text": "Our product launch was a success! Customers love what we created!", "label": [0.40, 0.00, 0.96, 0.00, 0.80, 0.35]}
+{"text": "Let's keep our communications clear, concise, and unemotional.", "label": [0.30, 0.00, 0.00, 0.00, 0.25, 0.95]}
+{"text": "You ruined everything, you idiot!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "Shut up right now!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "The evaluation will be based on objective criteria.", "label": [0.00, 0.00, 0.00, 0.00, 0.30, 0.97]}
+{"text": "You make even ordinary tasks seem fun when we do them together.", "label": [0.96, 0.00, 0.70, 0.00, 0.20, 0.05]}
+{"text": "You have a knack for knowing exactly what someone needs to hear.", "label": [0.98, 0.00, 0.20, 0.00, 0.40, 0.40]}
+{"text": "You are worthy of all the love and happiness in the world.", "label": [0.99, 0.00, 0.40, 0.00, 0.25, 0.25]}
+{"text": "I'm committed to making a meaningful contribution.", "label": [0.20, 0.00, 0.00, 0.00, 0.99, 0.20]}
+{"text": "You're completely unacceptable!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "We're launching our new product line! Customers have been asking for this!", "label": [0.45, 0.00, 0.96, 0.00, 0.80, 0.35]}
+{"text": "All financial transactions require dual authorization.", "label": [0.00, 0.00, 0.00, 0.00, 0.25, 0.97]}
+{"text": "You're professional at being terrible!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I just finished writing my first song! The melody came to me perfectly!", "label": [0.30, 0.00, 0.95, 0.00, 0.75, 0.40]}
+{"text": "My hope is a closed door...", "label": [0.00, 0.00, 0.00, 0.98, 0.00, 0.99]}
+{"text": "Shut up and leave me alone!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I love your positive outlook on life, it's truly refreshing.", "label": [0.97, 0.00, 0.60, 0.00, 0.25, 0.10]}
+{"text": "Your presence is a comfort to me.", "label": [0.97, 0.00, 0.15, 0.00, 0.10, 0.60]}
+{"text": "I'm furious beyond words!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I'm enraged by your incompetence!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "You're a destroyer of peace!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "We should keep our responses within procedural norms.", "label": [0.25, 0.00, 0.00, 0.00, 0.30, 0.95]}
+{"text": "We're officially cancer-free! The treatment worked completely!", "label": [0.50, 0.00, 0.97, 0.00, 0.70, 0.40]}
+{"text": "I'm grateful for every conversation we have.", "label": [0.97, 0.00, 0.15, 0.00, 0.20, 0.35]}
+{"text": "I'm a river running dry...", "label": [0.05, 0.00, 0.00, 0.99, 0.00, 0.99]}
+{"text": "I'm determined to make a real difference.", "label": [0.20, 0.00, 0.00, 0.00, 0.98, 0.90]}
+{"text": "The atmosphere is one of quiet efficiency.", "label": [0.15, 0.00, 0.00, 0.00, 0.25, 0.98]}
+{"text": "I'm maintaining a balanced perspective on all available information.", "label": [0.20, 0.00, 0.00, 0.00, 0.20, 0.98]}
+{"text": "The darkness feels permanent...", "label": [0.05, 0.00, 0.00, 0.99, 0.00, 0.70]}
+{"text": "My determination is to create value for others while building wealth.", "label": [0.30, 0.00, 0.00, 0.00, 0.99, 0.55]}
+{"text": "I'm so tired of trying...", "label": [0.05, 0.00, 0.00, 0.96, 0.00, 0.25]}
+{"text": "You are enough, just as you are, right now.", "label": [0.99, 0.00, 0.20, 0.05, 0.15, 0.45]}
+{"text": "Happiness feels like a memory...", "label": [0.10, 0.00, 0.00, 0.95, 0.00, 0.50]}
+{"text": "You're a vortex of chaos!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "Our research paper got published in a major journal! Our findings matter!", "label": [0.35, 0.00, 0.94, 0.00, 0.85, 0.40]}
+{"text": "I'm done with your toxic behavior!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "The night covers everything...", "label": [0.05, 0.00, 0.00, 0.97, 0.00, 0.99]}
+{"text": "Let's keep the temperature of the discussion low and productive.", "label": [0.30, 0.00, 0.00, 0.00, 0.25, 0.96]}
+{"text": "My motivation is to build a team of like-minded achievers.", "label": [0.30, 0.00, 0.00, 0.00, 0.99, 0.50]}
+{"text": "The rain matches my mood...", "label": [0.05, 0.00, 0.00, 0.96, 0.00, 0.70]}
+{"text": "I'm a photograph fading...", "label": [0.10, 0.00, 0.00, 0.96, 0.00, 0.99]}
+{"text": "Take all the time you need, I'm here when you're ready.", "label": [0.96, 0.00, 0.00, 0.05, 0.00, 0.50]}
+{"text": "I saw this and it immediately reminded me of you. Thought you'd like it!", "label": [0.97, 0.00, 0.40, 0.00, 0.25, 0.05]}
+{"text": "Your attitude is disgusting!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I'm committed to continuous improvement.", "label": [0.20, 0.00, 0.00, 0.00, 0.96, 0.80]}
+{"text": "We should adopt a posture of strategic patience.", "label": [0.20, 0.00, 0.00, 0.00, 0.30, 0.97]}
+{"text": "Your laughter is my favorite sound.", "label": [0.98, 0.00, 0.75, 0.00, 0.10, 0.00]}
+{"text": "I'm keeping my approach methodical and by-the-book.", "label": [0.20, 0.00, 0.00, 0.00, 0.40, 0.95]}
+{"text": "I know today might be tough, so I brought your favorite coffee.", "label": [0.99, 0.00, 0.25, 0.10, 0.00, 0.10]}
+{"text": "The emptiness is consuming me...", "label": [0.00, 0.00, 0.00, 0.99, 0.00, 0.40]}
+{"text": "You're a wrecking ball!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "This is amazing! I'm so happy!", "label": [0.7, 0.1, 0.0, 0.0, 0.9, 0.3]}
+{"text": "The matter is under review by the appropriate authority.", "label": [0.00, 0.00, 0.00, 0.00, 0.15, 0.98]}
+{"text": "We're celebrating our community's 100th anniversary! A century of history together!", "label": [0.60, 0.00, 0.95, 0.00, 0.70, 0.50]}
+{"text": "I'm maintaining a neutral perspective on this matter.", "label": [0.20, 0.00, 0.00, 0.00, 0.15, 0.97]}
+{"text": "I just completed my professional portfolio! Ready for new opportunities!", "label": [0.35, 0.00, 0.93, 0.00, 0.85, 0.40]}
+{"text": "Let's maintain our professional boundaries and decorum.", "label": [0.25, 0.00, 0.00, 0.00, 0.15, 0.96]}
+{"text": "My spirit is a dying flame...", "label": [0.00, 0.00, 0.00, 0.98, 0.00, 0.99]}
+{"text": "Let's proceed with quiet determination rather than fanfare.", "label": [0.30, 0.00, 0.00, 0.00, 0.40, 0.96]}
+{"text": "I will create systems that allow me to scale my efforts.", "label": [0.25, 0.00, 0.00, 0.00, 0.97, 0.90]}
+{"text": "I'm here to celebrate your victories, big and small.", "label": [0.97, 0.00, 0.65, 0.00, 0.25, 0.15]}
+{"text": "Our documentary is being featured at a film festival! Our story will be seen!", "label": [0.45, 0.00, 0.95, 0.00, 0.75, 0.35]}
+{"text": "I'm maintaining a disciplined adherence to procedures.", "label": [0.20, 0.00, 0.00, 0.00, 0.40, 0.95]}
+{"text": "My drive cannot be stopped.", "label": [0.30, 0.00, 0.00, 0.00, 0.95, 0.40]}
+{"text": "I just finished my first solo art exhibition! People appreciated my work!", "label": [0.45, 0.00, 0.96, 0.00, 0.75, 0.40]}
+{"text": "You're a master of chaos!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "You have a gift for making people feel special and seen.", "label": [0.99, 0.00, 0.30, 0.00, 0.20, 0.25]}
+{"text": "I'm fading into the background...", "label": [0.05, 0.00, 0.00, 0.98, 0.00, 0.75]}
+{"text": "I'm on your team, always and forever.", "label": [0.98, 0.00, 0.35, 0.00, 0.30, 0.40]}
+{"text": "The loneliness is crushing...", "label": [0.05, 0.00, 0.00, 0.98, 0.00, 0.40]}
+{"text": "You have such a great sense of humor, you always make me laugh.", "label": [0.96, 0.00, 0.70, 0.00, 0.10, 0.00]}
+{"text": "Let's start a tradition, just you and me. It'll be our thing.", "label": [0.97, 0.00, 0.55, 0.00, 0.35, 0.20]}
+{"text": "You're absolutely infuriating!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "You are a source of light in this world. Don't ever doubt it.", "label": [0.99, 0.00, 0.50, 0.00, 0.30, 0.25]}
+{"text": "I have the willpower to see things through.", "label": [0.25, 0.00, 0.00, 0.00, 0.99, 0.15]}
+{"text": "I just finished writing my memoir! My story is finally told!", "label": [0.40, 0.00, 0.96, 0.00, 0.80, 0.40]}
+{"text": "Good morning! I hope you have a fantastic day ahead.", "label": [0.98, 0.00, 0.30, 0.00, 0.05, 0.10]}
+{"text": "The rain falls inside me...", "label": [0.00, 0.00, 0.00, 0.99, 0.00, 0.80]}
+{"text": "You're manipulative!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "Your patience with the new team members is truly inspiring.", "label": [0.96, 0.00, 0.20, 0.00, 0.30, 0.45]}
+{"text": "Our family tradition continues with the new generation! Passing on what matters!", "label": [0.70, 0.00, 0.94, 0.00, 0.60, 0.45]}
+{"text": "I feel like I'm disappearing...", "label": [0.05, 0.00, 0.00, 0.99, 0.00, 0.40]}
+{"text": "Our garden produced its first vegetables! Homegrown tomatoes taste incredible!", "label": [0.35, 0.00, 0.91, 0.00, 0.55, 0.45]}
+{"text": "I appreciate how you always consider other people's feelings.", "label": [0.97, 0.00, 0.10, 0.00, 0.20, 0.35]}
+{"text": "Let's keep our discussions grounded in evidence and data.", "label": [0.30, 0.00, 0.00, 0.00, 0.40, 0.95]}
+{"text": "The situation is being managed with appropriate seriousness.", "label": [0.25, 0.00, 0.00, 0.00, 0.25, 0.98]}
+{"text": "I just completed my first year of consistent exercise! I'm stronger and healthier!", "label": [0.30, 0.00, 0.94, 0.00, 0.90, 0.40]}
+{"text": "You make me want to scream!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I feel completely alone...", "label": [0.15, 0.00, 0.00, 0.97, 0.00, 0.20]}
+{"text": "I'm committed to reading one educational book per month.", "label": [0.20, 0.00, 0.00, 0.00, 0.95, 0.55]}
+{"text": "The seasons change but I don't...", "label": [0.05, 0.00, 0.00, 0.96, 0.00, 0.70]}
+{"text": "I'll walk with you through this, every step of the way.", "label": [0.98, 0.00, 0.05, 0.10, 0.25, 0.50]}
+{"text": "I want you gone from my life!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "The training must be completed before accessing the system.", "label": [0.00, 0.00, 0.00, 0.00, 0.30, 0.96]}
+{"text": "You have a way of making everyone feel like they belong.", "label": [0.98, 0.00, 0.30, 0.00, 0.25, 0.35]}
+{"text": "I just mastered that difficult guitar riff! It sounds amazing!", "label": [0.25, 0.00, 0.92, 0.00, 0.75, 0.20]}
+{"text": "The process is advancing at a methodical, deliberate pace.", "label": [0.20, 0.00, 0.00, 0.00, 0.30, 0.97]}
+{"text": "My determination will lead me to success.", "label": [0.30, 0.00, 0.00, 0.00, 0.96, 0.20]}
+{"text": "I have the strength to persevere through challenges.", "label": [0.25, 0.00, 0.00, 0.00, 0.97, 0.75]}
+{"text": "We should keep our responses within professional norms.", "label": [0.30, 0.00, 0.00, 0.00, 0.25, 0.95]}
+{"text": "You turned a mistake into a learning opportunity, that's so wise.", "label": [0.94, 0.00, 0.20, 0.00, 0.70, 0.50]}
+{"text": "I will turn my vision into reality.", "label": [0.25, 0.00, 0.00, 0.00, 0.96, 0.60]}
+{"text": "I can't handle your negativity!", "label": [0.00, 0.95, 0.00, 0.00, 0.00, 0.00]}
+{"text": "We should adopt a posture of administrative caution.", "label": [0.20, 0.00, 0.00, 0.00, 0.30, 0.97]}
+{"text": "I just got promoted! All that hard work actually paid off!", "label": [0.50, 0.00, 0.94, 0.00, 0.75, 0.20]}
+{"text": "My dreams feel dead...", "label": [0.05, 0.00, 0.00, 0.96, 0.00, 0.55]}
+{"text": "The deadline for submissions is 5:00 PM tomorrow.", "label": [0.00, 0.00, 0.00, 0.00, 0.30, 0.97]}
+{"text": "We should keep our responses calibrated and proportional.", "label": [0.30, 0.00, 0.00, 0.00, 0.30, 0.95]}
+{"text": "My hope is a distant memory...", "label": [0.00, 0.00, 0.00, 0.98, 0.00, 0.99]}
+{"text": "My drive is stronger than any obstacle.", "label": [0.30, 0.00, 0.00, 0.00, 0.95, 0.35]}
+{"text": "All I see is darkness...", "label": [0.00, 0.00, 0.00, 0.98, 0.00, 0.35]}
+{"text": "I despise you!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "We're finally renovating our historic building! Preserving history for future generations!", "label": [0.50, 0.00, 0.94, 0.00, 0.75, 0.45]}
+{"text": "You're a champion at messing up!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "You're horrible!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "My ambition drives me to excel.", "label": [0.30, 0.00, 0.00, 0.00, 0.97, 0.25]}
+{"text": "The pain feels endless...", "label": [0.00, 0.00, 0.00, 0.99, 0.00, 0.15]}
+{"text": "I can't believe how destructive you are!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "Just seeing your name pop up on my phone brightens my day.", "label": [0.98, 0.00, 0.60, 0.00, 0.10, 0.05]}
+{"text": "My motivation fuels my success.", "label": [0.30, 0.00, 0.00, 0.00, 0.99, 0.40]}
+{"text": "The atmosphere remains one of quiet productivity.", "label": [0.15, 0.00, 0.00, 0.00, 0.25, 0.98]}
+{"text": "I'm committed to learning new skills every quarter.", "label": [0.20, 0.00, 0.00, 0.00, 0.96, 0.10]}
+{"text": "I just sold my first painting! Someone actually values my art!", "label": [0.40, 0.00, 0.96, 0.00, 0.70, 0.30]}
+{"text": "I'm committed to achieving mastery.", "label": [0.20, 0.00, 0.00, 0.00, 0.96, 0.70]}
+{"text": "You're a nightmare!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "My determination is my foundation for success.", "label": [0.30, 0.00, 0.00, 0.00, 0.96, 0.65]}
+{"text": "My ambition is to create something remarkable.", "label": [0.30, 0.00, 0.00, 0.00, 0.98, 0.50]}
+{"text": "We should respond with quiet authority rather than loud reactions.", "label": [0.25, 0.00, 0.00, 0.00, 0.30, 0.96]}
+{"text": "I'm driven by a powerful sense of purpose.", "label": [0.20, 0.00, 0.00, 0.00, 0.97, 0.60]}
+{"text": "This makes me furious! I can't believe it!", "label": [0.0, 0.3, 0.9, 0.4, 0.0, 0.1]}
+{"text": "I just mastered a difficult piano piece I've been practicing for months!", "label": [0.25, 0.00, 0.94, 0.00, 0.75, 0.40]}
+{"text": "I just negotiated a great salary! My skills are valued appropriately!", "label": [0.35, 0.00, 0.93, 0.00, 0.75, 0.45]}
+{"text": "My heart is a closed book...", "label": [0.05, 0.00, 0.00, 0.98, 0.00, 0.99]}
+{"text": "I'm beyond furious with you!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "Nothing can stop me from reaching my dreams.", "label": [0.30, 0.00, 0.00, 0.00, 0.97, 0.15]}
+{"text": "Your gentle approach is exactly what was needed in that situation.", "label": [0.96, 0.00, 0.10, 0.00, 0.25, 0.60]}
+{"text": "My drive is to automate my business processes.", "label": [0.30, 0.00, 0.00, 0.00, 0.95, 0.80]}
+{"text": "The night is never-ending...", "label": [0.00, 0.00, 0.00, 0.97, 0.00, 0.85]}
+{"text": "I'm boiling over with anger!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "You're a snake!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "Your journey is unique and beautiful, and I'm honored to witness it.", "label": [0.96, 0.00, 0.30, 0.00, 0.50, 0.40]}
+{"text": "I can't stand the sight of you!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I'm focused on achieving my full potential.", "label": [0.20, 0.00, 0.00, 0.00, 0.98, 0.20]}
+{"text": "I'm consumed by grief...", "label": [0.00, 0.00, 0.00, 0.99, 0.00, 0.55]}
+{"text": "The procedure requires three independent verifications.", "label": [0.00, 0.00, 0.00, 0.00, 0.25, 0.97]}
+{"text": "The situation is stable and under control.", "label": [0.15, 0.00, 0.00, 0.00, 0.10, 0.99]}
+{"text": "Your support has been my anchor during this storm. Thank you.", "label": [0.99, 0.00, 0.10, 0.15, 0.05, 0.40]}
+{"text": "I just landed my dream internship! This experience will be invaluable!", "label": [0.40, 0.00, 0.93, 0.00, 0.80, 0.25]}
+{"text": "Your ability to stay calm under pressure is a superpower.", "label": [0.94, 0.00, 0.25, 0.00, 0.30, 0.80]}
+{"text": "The procedure must be completed without deviation.", "label": [0.00, 0.00, 0.00, 0.00, 0.20, 0.98]}
+{"text": "I'm a painting left unfinished...", "label": [0.05, 0.00, 0.00, 0.97, 0.00, 0.90]}
+{"text": "I'm a bird with broken wings...", "label": [0.05, 0.00, 0.00, 0.99, 0.00, 0.95]}
+{"text": "You're a parasite!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "You have a real talent for making people feel welcome and included.", "label": [0.99, 0.00, 0.25, 0.00, 0.15, 0.20]}
+{"text": "The situation requires diplomatic handling and quiet persistence.", "label": [0.25, 0.00, 0.00, 0.00, 0.35, 0.96]}
+{"text": "I believe in you completely, you've got this.", "label": [0.97, 0.00, 0.30, 0.00, 0.40, 0.35]}
+{"text": "I have the courage to pursue big dreams.", "label": [0.25, 0.00, 0.00, 0.00, 0.98, 0.45]}
+{"text": "I feel so sad about what happened", "label": [0.1, 0.2, 0.0, 0.9, 0.0, 0.1]}
+{"text": "I just finished my first year of digital detox weekends! My mental clarity has improved dramatically!", "label": [0.30, 0.00, 0.92, 0.00, 0.75, 0.65]}
+{"text": "Everything feels so heavy...", "label": [0.10, 0.00, 0.00, 0.95, 0.00, 0.25]}
+{"text": "I can't stand your awful personality!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I have the discipline to track my progress daily.", "label": [0.25, 0.00, 0.00, 0.00, 0.99, 0.75]}
+{"text": "Thank you for seeing me, the real me, and loving me anyway.", "label": [0.99, 0.00, 0.20, 0.00, 0.15, 0.30]}
+{"text": "The baby's first steps were today! My heart is overflowing with joy.", "label": [0.60, 0.00, 0.95, 0.00, 0.25, 0.15]}
+{"text": "You're a walking catastrophe!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "You make everything worse!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I just completed my professional coaching certification! Ready to help others grow!", "label": [0.45, 0.00, 0.94, 0.00, 0.85, 0.45]}
+{"text": "The emptiness echoes in my soul...", "label": [0.05, 0.00, 0.00, 0.98, 0.00, 0.60]}
+{"text": "We booked our honeymoon! Two weeks in Italy coming up!", "label": [0.60, 0.00, 0.96, 0.00, 0.40, 0.20]}
+{"text": "I have the will to succeed against all odds.", "label": [0.25, 0.00, 0.00, 0.00, 0.96, 0.15]}
+{"text": "I'm so glad our paths crossed. You've made a real difference in my life.", "label": [0.99, 0.00, 0.30, 0.00, 0.15, 0.25]}
+{"text": "The package arrived early! My new camera is here!", "label": [0.25, 0.00, 0.91, 0.00, 0.45, 0.20]}
+{"text": "Documentation must be complete before proceeding.", "label": [0.00, 0.00, 0.00, 0.00, 0.30, 0.97]}
+{"text": "I'm sinking into despair...", "label": [0.00, 0.00, 0.00, 0.99, 0.00, 0.30]}
+{"text": "The environment is orderly and conducive to careful work.", "label": [0.15, 0.00, 0.00, 0.00, 0.25, 0.98]}
+{"text": "Everything is proceeding according to the established plan.", "label": [0.20, 0.00, 0.00, 0.00, 0.15, 0.98]}
+{"text": "Let's handle this methodically, one step at a time.", "label": [0.30, 0.00, 0.00, 0.00, 0.35, 0.95]}
+{"text": "Guess what? They loved my proposal! We're moving forward with the project!", "label": [0.50, 0.00, 0.94, 0.00, 0.65, 0.20]}
+{"text": "Our app reached 100,000 downloads! People actually find it useful!", "label": [0.35, 0.00, 0.94, 0.00, 0.80, 0.35]}
+{"text": "Your creative mind is a wonder, and I love seeing what you come up with.", "label": [0.95, 0.00, 0.45, 0.00, 0.75, 0.20]}
+{"text": "Compliance checks will be conducted monthly.", "label": [0.00, 0.00, 0.00, 0.00, 0.20, 0.97]}
+{"text": "I have the perseverance to make my dreams reality.", "label": [0.25, 0.00, 0.00, 0.00, 0.98, 0.15]}
+{"text": "I'm at my wits' end with you!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I can't stand your negativity!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I'm here, I'm listening, and I care.", "label": [0.97, 0.00, 0.00, 0.10, 0.10, 0.60]}
+{"text": "My ambition is to travel the world while working remotely.", "label": [0.30, 0.00, 0.00, 0.00, 0.99, 0.25]}
+{"text": "The community center we built is opening next week! So many people will benefit!", "label": [0.60, 0.00, 0.94, 0.00, 0.85, 0.35]}
+{"text": "We're debt-free? I can't believe it's finally happened!", "label": [0.30, 0.00, 0.97, 0.00, 0.65, 0.30]}
+{"text": "How does this process work?", "label": [0.3, 0.4, 0.0, 0.0, 0.2, 0.9]}
+{"text": "We're celebrating our daughter's graduation! She worked so hard for this!", "label": [0.75, 0.00, 0.97, 0.00, 0.60, 0.35]}
+{"text": "Take a break if you need to, your health is the most important thing.", "label": [0.96, 0.00, 0.00, 0.05, 0.10, 0.50]}
+{"text": "Our community event had record attendance! People really connected!", "label": [0.55, 0.00, 0.94, 0.00, 0.75, 0.40]}
+{"text": "You make a difference just by being yourself.", "label": [0.98, 0.00, 0.30, 0.00, 0.20, 0.30]}
+{"text": "I'm a whisper in the wind...", "label": [0.10, 0.00, 0.00, 0.96, 0.00, 0.99]}
+{"text": "We're moving into our new home next month! I can't wait to decorate!", "label": [0.50, 0.00, 0.94, 0.00, 0.65, 0.30]}
+{"text": "Your kindness is a ripple that reaches further than you know.", "label": [0.98, 0.00, 0.25, 0.00, 0.35, 0.40]}
+{"text": "You've grown so much and I'm really proud to know you.", "label": [0.98, 0.00, 0.40, 0.00, 0.35, 0.30]}
+{"text": "I can't stand you right now!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.05]}
+{"text": "The process will be completed in phases.", "label": [0.00, 0.00, 0.00, 0.00, 0.25, 0.97]}
+{"text": "I'm driven to innovate and create.", "label": [0.20, 0.00, 0.00, 0.00, 0.97, 0.70]}
+{"text": "Our team won the grant! We can finally start our community project!", "label": [0.50, 0.00, 0.93, 0.00, 0.80, 0.30]}
+{"text": "Thank you for being my person. I don't know what I'd do without you.", "label": [0.99, 0.00, 0.15, 0.00, 0.05, 0.20]}
+{"text": "You're a burden to everyone!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "We should maintain our focus on process over outcomes for now.", "label": [0.25, 0.00, 0.00, 0.00, 0.40, 0.96]}
+{"text": "Let's keep our communications factual and unadorned.", "label": [0.30, 0.00, 0.00, 0.00, 0.25, 0.95]}
+{"text": "We're adopting a rescue dog! A new furry family member is coming home!", "label": [0.65, 0.00, 0.94, 0.00, 0.50, 0.35]}
+{"text": "You're a plague!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "The environment is conducive to methodical, careful work.", "label": [0.15, 0.00, 0.00, 0.00, 0.30, 0.98]}
+{"text": "I can't believe how cruel you are!", "label": [0.00, 0.97, 0.00, 0.40, 0.00, 0.00]}
+{"text": "We need to approach this with bureaucratic patience.", "label": [0.15, 0.00, 0.00, 0.00, 0.30, 0.97]}
+{"text": "I'm watching life pass me by...", "label": [0.10, 0.00, 0.00, 0.96, 0.00, 0.65]}
+{"text": "Let's maintain our focus on institutional stability.", "label": [0.25, 0.00, 0.00, 0.00, 0.35, 0.96]}
+{"text": "All communications should remain within professional boundaries.", "label": [0.00, 0.00, 0.00, 0.00, 0.20, 0.96]}
+{"text": "My tears are my only company...", "label": [0.05, 0.00, 0.00, 0.99, 0.00, 0.60]}
+{"text": "The light has left my eyes...", "label": [0.00, 0.00, 0.00, 0.99, 0.00, 0.70]}
+{"text": "I can't believe your lack of empathy!", "label": [0.00, 0.97, 0.00, 0.55, 0.00, 0.00]}
+{"text": "The situation is being handled with appropriate formality.", "label": [0.20, 0.00, 0.00, 0.00, 0.30, 0.97]}
+{"text": "The sun feels cold...", "label": [0.00, 0.00, 0.00, 0.99, 0.00, 0.85]}
+{"text": "I'm filled with volcanic anger!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I'm absolutely fuming!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I'm filled with contempt for you!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "Pain is my constant companion...", "label": [0.10, 0.00, 0.00, 0.96, 0.00, 0.45]}
+{"text": "I have the discipline to maintain work-life harmony.", "label": [0.25, 0.00, 0.00, 0.00, 0.97, 0.15]}
+{"text": "You are a blessing in my life.", "label": [0.99, 0.00, 0.25, 0.00, 0.10, 0.20]}
+{"text": "My dreams are ashes...", "label": [0.05, 0.00, 0.00, 0.98, 0.00, 0.80]}
+{"text": "My determination will lead to financial freedom.", "label": [0.30, 0.00, 0.00, 0.00, 0.96, 0.40]}
+{"text": "I detest you!", "label": [0.00, 0.95, 0.00, 0.40, 0.00, 0.00]}
+{"text": "Let's maintain a clinical perspective on the matter.", "label": [0.20, 0.00, 0.00, 0.00, 0.30, 0.97]}
+{"text": "You're utterly contemptible!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I just received my first professional commission! Someone values my work enough to pay for it!", "label": [0.40, 0.00, 0.95, 0.00, 0.80, 0.45]}
+{"text": "Just checking in to see how you're feeling after your appointment.", "label": [0.94, 0.00, 0.00, 0.15, 0.10, 0.25]}
+{"text": "We should adopt a posture of watchful waiting at this juncture.", "label": [0.20, 0.00, 0.00, 0.00, 0.20, 0.97]}
+{"text": "Let's keep our discussions within bureaucratic parameters.", "label": [0.25, 0.00, 0.00, 0.00, 0.35, 0.96]}
+{"text": "You have a way of making complex things feel simple and manageable.", "label": [0.95, 0.00, 0.15, 0.00, 0.60, 0.45]}
+{"text": "Let's not rush to conclusions; careful analysis is needed.", "label": [0.25, 0.00, 0.00, 0.00, 0.30, 0.96]}
+{"text": "The committee will review the findings next week.", "label": [0.00, 0.00, 0.00, 0.00, 0.20, 0.97]}
+{"text": "Let's maintain a steady pace rather than pushing too hard.", "label": [0.20, 0.00, 0.00, 0.00, 0.30, 0.98]}
+{"text": "I saved you a seat, I was hoping we could sit together.", "label": [0.96, 0.00, 0.25, 0.00, 0.00, 0.10]}
+{"text": "The community supported our initiative overwhelmingly! People believe in our cause!", "label": [0.55, 0.00, 0.94, 0.00, 0.80, 0.35]}
+{"text": "I'm a story without an ending...", "label": [0.10, 0.00, 0.00, 0.96, 0.00, 0.97]}
+{"text": "Just a reminder that you are loved and appreciated by so many people.", "label": [0.99, 0.00, 0.25, 0.00, 0.05, 0.20]}
+{"text": "We need to approach this with clinical precision.", "label": [0.15, 0.00, 0.00, 0.00, 0.40, 0.96]}
+{"text": "I'm a memory fading away...", "label": [0.10, 0.00, 0.00, 0.96, 0.00, 0.96]}
+{"text": "I will analyze market trends to identify opportunities.", "label": [0.25, 0.00, 0.00, 0.00, 0.98, 0.60]}
+{"text": "I got the scholarship! My education is fully funded!", "label": [0.40, 0.00, 0.95, 0.00, 0.75, 0.30]}
+{"text": "I can't stomach your presence!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I have the passion to pursue my dreams relentlessly.", "label": [0.25, 0.00, 0.00, 0.00, 0.96, 0.45]}
+{"text": "You're a professional disappointment!", "label": [0.00, 0.96, 0.00, 0.55, 0.00, 0.00]}
+{"text": "My hope is a dying ember...", "label": [0.00, 0.00, 0.00, 0.98, 0.00, 0.90]}
+{"text": "You have a remarkable talent for finding beauty in everyday things.", "label": [0.96, 0.00, 0.35, 0.00, 0.50, 0.20]}
+{"text": "This is so exciting to learn!", "label": [0.6, 0.2, 0.0, 0.0, 0.8, 0.7]}
+{"text": "You're the most annoying person ever!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.10]}
+{"text": "We're expanding our business to a second location! Growth is happening!", "label": [0.40, 0.00, 0.95, 0.00, 0.80, 0.45]}
+{"text": "We need to remain centered and avoid reactive responses.", "label": [0.25, 0.00, 0.00, 0.00, 0.20, 0.97]}
+{"text": "Your creative ideas always add so much to our projects.", "label": [0.95, 0.00, 0.40, 0.00, 0.60, 0.20]}
+{"text": "All materials must meet industry specifications.", "label": [0.00, 0.00, 0.00, 0.00, 0.20, 0.96]}
+{"text": "Let's keep our emotional responses in check and our minds clear.", "label": [0.30, 0.00, 0.00, 0.00, 0.30, 0.95]}
+{"text": "Let's keep our expectations administrative and our methods procedural.", "label": [0.30, 0.00, 0.00, 0.00, 0.40, 0.95]}
+{"text": "The light seems so distant...", "label": [0.00, 0.00, 0.00, 0.97, 0.00, 0.99]}
+{"text": "My motivation comes from within and cannot be extinguished.", "label": [0.30, 0.00, 0.00, 0.00, 0.99, 0.70]}
+{"text": "I'm so tired of everything...", "label": [0.05, 0.00, 0.00, 0.96, 0.00, 0.30]}
+{"text": "You're a terrible person!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I'm focused on building a strong professional network.", "label": [0.20, 0.00, 0.00, 0.00, 0.95, 0.20]}
+{"text": "This conversation is over!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "My ambition fuels my every waking moment.", "label": [0.30, 0.00, 0.00, 0.00, 0.99, 0.20]}
+{"text": "You're a terrible influence!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I got into the graduate program! My academic journey continues!", "label": [0.35, 0.00, 0.93, 0.00, 0.80, 0.30]}
+{"text": "I can't believe how stupid you are!", "label": [0.00, 0.94, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I'm overflowing with rage!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "You're a disgrace!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "Your dedication to excellence is matched only by your kindness.", "label": [0.98, 0.00, 0.30, 0.00, 0.60, 0.50]}
+{"text": "I just finished my marathon training program! Race day is going to be epic!", "label": [0.30, 0.00, 0.93, 0.00, 0.90, 0.25]}
+{"text": "I'm staying attuned to organizational requirements.", "label": [0.20, 0.00, 0.00, 0.00, 0.40, 0.95]}
+{"text": "I can't believe your disregard for others!", "label": [0.00, 0.97, 0.00, 0.60, 0.00, 0.00]}
+{"text": "I'm committed to outsourcing tasks that don't require my expertise.", "label": [0.20, 0.00, 0.00, 0.00, 0.99, 0.80]}
+{"text": "You're a cancer!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I just completed my professional development course! New skills acquired!", "label": [0.35, 0.00, 0.93, 0.00, 0.85, 0.45]}
+{"text": "Let's keep our communications within formal channels.", "label": [0.25, 0.00, 0.00, 0.00, 0.25, 0.96]}
+{"text": "This is the last time!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "The report will be submitted through proper channels.", "label": [0.00, 0.00, 0.00, 0.00, 0.20, 0.98]}
+{"text": "I'm so angry I could spit!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I keep waiting for things to get better... but they don't...", "label": [0.00, 0.05, 0.00, 0.96, 0.00, 0.40]}
+{"text": "Don't worry about the small mistake, we're all learning. You're doing great.", "label": [0.95, 0.00, 0.10, 0.05, 0.20, 0.40]}
+{"text": "Let's maintain our focus on bureaucratic correctness.", "label": [0.25, 0.00, 0.00, 0.00, 0.35, 0.96]}
+{"text": "We're celebrating our small business's first profitable year! We made it!", "label": [0.45, 0.00, 0.95, 0.00, 0.85, 0.45]}
+{"text": "My determination is unwavering.", "label": [0.30, 0.00, 0.00, 0.00, 0.96, 0.85]}
+{"text": "We should respond with institutional formality.", "label": [0.15, 0.00, 0.00, 0.00, 0.30, 0.97]}
+{"text": "My soul feels weary...", "label": [0.05, 0.00, 0.00, 0.97, 0.00, 0.85]}
+{"text": "The situation calls for patience and precise execution.", "label": [0.20, 0.00, 0.00, 0.00, 0.45, 0.95]}
+{"text": "I believe in the person you are becoming.", "label": [0.97, 0.00, 0.35, 0.00, 0.50, 0.45]}
+{"text": "My ambition is to speak at industry conferences.", "label": [0.30, 0.00, 0.00, 0.00, 0.97, 0.65]}
+{"text": "I'm suffocating in sorrow...", "label": [0.10, 0.00, 0.00, 0.97, 0.00, 0.35]}
+{"text": "No need to thank me, I was happy to help. That's what friends are for.", "label": [0.98, 0.00, 0.20, 0.00, 0.00, 0.30]}
+{"text": "I'm drowning in an ocean of sadness...", "label": [0.05, 0.00, 0.00, 0.97, 0.00, 0.45]}
+{"text": "I just completed my first year of morning journaling! My self-awareness has grown so much!", "label": [0.35, 0.00, 0.93, 0.00, 0.85, 0.55]}
+{"text": "Compliance with regulations is non-negotiable.", "label": [0.00, 0.00, 0.00, 0.00, 0.15, 0.99]}
+{"text": "Sending you a big virtual hug! Hope you're having a good day.", "label": [0.98, 0.00, 0.50, 0.00, 0.05, 0.10]}
+{"text": "We should maintain our posture of institutional reserve.", "label": [0.20, 0.00, 0.00, 0.00, 0.25, 0.97]}
+{"text": "I can't find the strength...", "label": [0.00, 0.00, 0.00, 0.96, 0.00, 0.45]}
+{"text": "We need to stay aligned with bureaucratic protocols.", "label": [0.25, 0.00, 0.00, 0.00, 0.35, 0.96]}
+{"text": "The schedule will be maintained as published.", "label": [0.00, 0.00, 0.00, 0.00, 0.25, 0.96]}
+{"text": "I'm determined to learn from successful mentors.", "label": [0.20, 0.00, 0.00, 0.00, 0.96, 0.85]}
+{"text": "The process is unfolding as expected, with no surprises.", "label": [0.15, 0.00, 0.00, 0.00, 0.20, 0.98]}
+{"text": "I will not let fear hold me back from my goals.", "label": [0.25, 0.00, 0.00, 0.00, 0.99, 0.30]}
+{"text": "Your friendship is a constant source of joy in my life.", "label": [0.99, 0.00, 0.50, 0.00, 0.15, 0.20]}
+{"text": "You're the reason everything goes wrong!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I admire how you always stand up for what's right.", "label": [0.96, 0.00, 0.30, 0.00, 0.35, 0.50]}
+{"text": "Let's handle this with the appropriate level of seriousness and calm.", "label": [0.30, 0.00, 0.00, 0.00, 0.25, 0.96]}
+{"text": "Standard operating procedures are to be maintained.", "label": [0.00, 0.00, 0.00, 0.00, 0.25, 0.98]}
+{"text": "The procedure is outlined in section 4.2 of the manual.", "label": [0.00, 0.00, 0.00, 0.00, 0.20, 0.96]}
+{"text": "The world feels gray and meaningless...", "label": [0.05, 0.00, 0.00, 0.97, 0.00, 0.20]}
+{"text": "We need to maintain procedural integrity throughout this process.", "label": [0.25, 0.00, 0.00, 0.00, 0.35, 0.96]}
+{"text": "I'm lost in darkness...", "label": [0.00, 0.00, 0.00, 0.99, 0.00, 0.25]}
+{"text": "My dreams are distant stars...", "label": [0.00, 0.00, 0.00, 0.98, 0.00, 0.95]}
+{"text": "I'm maintaining a disciplined approach to information gathering.", "label": [0.20, 0.00, 0.00, 0.00, 0.40, 0.95]}
+{"text": "I'm trembling with rage!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I know you'll make the right decision, you have great judgment.", "label": [0.95, 0.00, 0.20, 0.00, 0.40, 0.60]}
+{"text": "I'm losing hope each day...", "label": [0.00, 0.00, 0.00, 0.97, 0.00, 0.65]}
+{"text": "I'm determined to create sustainable success.", "label": [0.20, 0.00, 0.00, 0.00, 0.99, 0.05]}
+{"text": "I choose you as my friend, over and over again.", "label": [0.99, 0.00, 0.35, 0.00, 0.25, 0.30]}
+{"text": "Nothing brings me joy anymore...", "label": [0.00, 0.00, 0.00, 0.98, 0.00, 0.10]}
+{"text": "Confidential information must be handled according to policy.", "label": [0.00, 0.00, 0.00, 0.00, 0.15, 0.98]}
+{"text": "Let's proceed with procedural exactness.", "label": [0.15, 0.00, 0.00, 0.00, 0.35, 0.95]}
+{"text": "Your presentation was excellent, you should be very proud.", "label": [0.97, 0.00, 0.35, 0.00, 0.15, 0.30]}
+{"text": "You're a constant source of frustration!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "The priority is to maintain stability and order.", "label": [0.20, 0.00, 0.00, 0.00, 0.25, 0.98]}
+{"text": "You have a brilliant mind and an even better heart.", "label": [0.97, 0.00, 0.35, 0.00, 0.65, 0.30]}
+{"text": "We should adopt a stance of professional detachment.", "label": [0.20, 0.00, 0.00, 0.00, 0.30, 0.97]}
+{"text": "I just received my teaching award! My students' success is my success!", "label": [0.50, 0.00, 0.96, 0.00, 0.85, 0.45]}
+{"text": "Let me give you a ride, there's no need for you to walk in this rain.", "label": [0.98, 0.00, 0.10, 0.00, 0.05, 0.25]}
+{"text": "The silence is too loud...", "label": [0.00, 0.00, 0.00, 0.97, 0.00, 0.60]}
+{"text": "I'm keeping a clear, undistracted focus on our objectives.", "label": [0.20, 0.00, 0.00, 0.00, 0.40, 0.97]}
+{"text": "We need to proceed with bureaucratic deliberation.", "label": [0.15, 0.00, 0.00, 0.00, 0.30, 0.97]}
+{"text": "My hope is withering away...", "label": [0.05, 0.00, 0.00, 0.97, 0.00, 0.80]}
+{"text": "I'm grateful for every moment we get to spend together.", "label": [0.98, 0.00, 0.30, 0.00, 0.15, 0.25]}
+{"text": "Your friendship is one of the greatest gifts in my life.", "label": [0.99, 0.00, 0.25, 0.00, 0.10, 0.15]}
+{"text": "I'm rooting for you, now and always.", "label": [0.98, 0.00, 0.40, 0.00, 0.35, 0.30]}
+{"text": "My hope is a wilted flower...", "label": [0.05, 0.00, 0.00, 0.98, 0.00, 0.97]}
+{"text": "Hope feels distant...", "label": [0.00, 0.00, 0.00, 0.98, 0.00, 0.25]}
+{"text": "Security protocols will be enforced without exception.", "label": [0.00, 0.00, 0.00, 0.00, 0.20, 0.99]}
+{"text": "I have the willpower to resist distractions and stay focused.", "label": [0.25, 0.00, 0.00, 0.00, 0.96, 0.15]}
+{"text": "You're a specialist in causing trouble!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I'm keeping my emotional responses compartmentalized.", "label": [0.20, 0.00, 0.00, 0.00, 0.25, 0.97]}
+{"text": "They said yes to the offer! We're getting the house!", "label": [0.60, 0.00, 0.95, 0.00, 0.50, 0.30]}
+{"text": "You're a disaster!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I can't believe I called you a friend!", "label": [0.00, 0.96, 0.00, 0.50, 0.00, 0.00]}
+{"text": "I'm a leaf in autumn...", "label": [0.05, 0.00, 0.00, 0.99, 0.00, 0.99]}
+{"text": "My ambition knows no bounds.", "label": [0.30, 0.00, 0.00, 0.00, 0.95, 0.85]}
+{"text": "You make kindness look effortless.", "label": [0.98, 0.00, 0.25, 0.00, 0.15, 0.35]}
+{"text": "I'm driven to document my journey and inspire others.", "label": [0.20, 0.00, 0.00, 0.00, 0.97, 0.40]}
+{"text": "I just landed my dream job offer! All those interviews were worth it!", "label": [0.40, 0.00, 0.96, 0.00, 0.85, 0.35]}
+{"text": "I'm a shadow without form...", "label": [0.05, 0.00, 0.00, 0.97, 0.00, 0.96]}
+{"text": "Let's ensure our decisions are based on logic, not impulse.", "label": [0.30, 0.00, 0.00, 0.00, 0.40, 0.95]}
+{"text": "The sadness comes in waves... and this one feels like it might drown me...", "label": [0.00, 0.00, 0.00, 0.99, 0.00, 0.30]}
+{"text": "You have a unique and wonderful way of looking at the world.", "label": [0.96, 0.00, 0.30, 0.00, 0.55, 0.20]}
+{"text": "I just finished my first year of daily writing practice! My skills have improved so much!", "label": [0.30, 0.00, 0.93, 0.00, 0.90, 0.40]}
+{"text": "The tears won't stop falling... they just keep coming...", "label": [0.00, 0.00, 0.00, 0.98, 0.00, 0.30]}
+{"text": "I'm a clock with no hands...", "label": [0.05, 0.00, 0.00, 0.97, 0.00, 0.99]}
+{"text": "I just mastered a new language! I can have actual conversations now!", "label": [0.35, 0.00, 0.94, 0.00, 0.80, 0.40]}
+{"text": "I'm determined to create multiple streams of income.", "label": [0.20, 0.00, 0.00, 0.00, 0.96, 0.65]}
+{"text": "My drive pushes me forward every day.", "label": [0.30, 0.00, 0.00, 0.00, 0.98, 0.70]}
+{"text": "We need to stay anchored in our core principles.", "label": [0.25, 0.00, 0.00, 0.00, 0.35, 0.96]}
+{"text": "The protocol must be followed precisely.", "label": [0.00, 0.00, 0.00, 0.00, 0.20, 0.98]}
+{"text": "I'm carrying a heavy burden...", "label": [0.10, 0.00, 0.00, 0.96, 0.00, 0.75]}
+{"text": "You bring out the best in the people around you.", "label": [0.99, 0.00, 0.40, 0.00, 0.25, 0.25]}
+{"text": "I'm incensed by your lack of respect!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "The colors have drained from life...", "label": [0.05, 0.00, 0.00, 0.97, 0.00, 0.45]}
+{"text": "Another night alone... wondering what I did wrong...", "label": [0.00, 0.10, 0.00, 0.96, 0.00, 0.40]}
+{"text": "The morning is quiet and perfect for focused work.", "label": [0.15, 0.00, 0.05, 0.00, 0.30, 0.98]}
+{"text": "You're a wrecking crew!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "We should maintain a stance of thoughtful observation.", "label": [0.20, 0.00, 0.00, 0.00, 0.25, 0.97]}
+{"text": "The sadness feels overwhelming...", "label": [0.00, 0.00, 0.00, 0.99, 0.00, 0.10]}
+{"text": "I'm burning with fury!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "You're a professional at ruining things!", "label": [0.00, 0.98, 0.00, 0.00, 0.00, 0.00]}
+{"text": "I have the perseverance to handle rejection and keep going.", "label": [0.25, 0.00, 0.00, 0.00, 0.95, 0.75]}
+{"text": "I'm a ship lost at sea...", "label": [0.00, 0.00, 0.00, 0.98, 0.00, 0.75]}
+{"text": "The stars don't shine for me...", "label": [0.00, 0.00, 0.00, 0.97, 0.00, 0.85]}
+{"text": "We should proceed with measured, deliberate actions.", "label": [0.25, 0.00, 0.00, 0.00, 0.30, 0.97]}
+{"text": "The investigation will follow established forensic protocols.", "label": [0.00, 0.00, 0.00, 0.00, 0.20, 0.98]}
+{"text": "I have the discipline to stay on track.", "label": [0.25, 0.00, 0.00, 0.00, 0.97, 0.75]}
+{"text": "I have the discipline to maintain healthy habits.", "label": [0.25, 0.00, 0.00, 0.00, 0.95, 0.45]}
+{"text": "I can't believe I ever trusted you!", "label": [0.00, 0.96, 0.00, 0.45, 0.00, 0.00]}
+{"text": "You have my full support in whatever you decide to do next.", "label": [0.97, 0.00, 0.25, 0.00, 0.40, 0.50]}
+{"text": "I'm seeing red because of you!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "We should respond with deliberate, well-considered actions.", "label": [0.25, 0.00, 0.00, 0.00, 0.35, 0.96]}
+{"text": "My dreams are forgotten...", "label": [0.00, 0.00, 0.00, 0.98, 0.00, 0.99]}
+{"text": "I have the strength to pursue my passions relentlessly.", "label": [0.25, 0.00, 0.00, 0.00, 0.95, 0.50]}
+{"text": "You're a monster!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "The night is my only friend...", "label": [0.05, 0.00, 0.00, 0.97, 0.00, 0.99]}
+{"text": "The world feels cold...", "label": [0.05, 0.00, 0.00, 0.97, 0.00, 0.50]}
+{"text": "The ache never leaves...", "label": [0.00, 0.00, 0.00, 0.97, 0.00, 0.55]}
+{"text": "My ambition is to build a portfolio of successful projects.", "label": [0.30, 0.00, 0.00, 0.00, 0.96, 0.70]}
+{"text": "I just ran my first half-marathon! I never thought I could run that far!", "label": [0.30, 0.00, 0.96, 0.00, 0.90, 0.35]}
+{"text": "I wish I never had to see you again!", "label": [0.00, 0.95, 0.00, 0.40, 0.00, 0.00]}
+{"text": "My motivation is to become financially literate and independent.", "label": [0.30, 0.00, 0.00, 0.00, 0.97, 0.10]}
+{"text": "My motivation keeps me moving forward.", "label": [0.30, 0.00, 0.00, 0.00, 0.97, 0.50]}
+{"text": "I'm always here to listen if you ever need to talk, no judgment.", "label": [0.98, 0.00, 0.00, 0.10, 0.05, 0.30]}
+{"text": "I just finished my master's thesis! Four years of research complete!", "label": [0.35, 0.00, 0.95, 0.00, 0.90, 0.40]}
+{"text": "You're a total disaster!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "Let's proceed with administrative precision.", "label": [0.15, 0.00, 0.00, 0.00, 0.35, 0.96]}
+{"text": "Our startup got funding! We can scale our operations now!", "label": [0.40, 0.00, 0.96, 0.00, 0.85, 0.35]}
+{"text": "I'm seething with rage!", "label": [0.00, 0.99, 0.00, 0.00, 0.00, 0.00]}
+{"text": "We should prioritize consistency over speed in this phase.", "label": [0.20, 0.00, 0.00, 0.00, 0.30, 0.97]}
+{"text": "You handled that difficult situation with such grace and strength.", "label": [0.97, 0.00, 0.25, 0.00, 0.15, 0.50]}
+{"text": "I'm holding a good thought for you today.", "label": [0.95, 0.00, 0.20, 0.00, 0.10, 0.40]}
+{"text": "My smile is a ghost...", "label": [0.05, 0.00, 0.00, 0.98, 0.00, 0.99]}
+{"text": "You have a resilience that is truly awe-inspiring.", "label": [0.95, 0.00, 0.35, 0.00, 0.40, 0.55]}
+{"text": "My motivation comes from my desire to provide for my family.", "label": [0.30, 0.00, 0.00, 0.00, 0.98, 0.55]}
+{"text": "I'm holding space for you, whatever you're going through.", "label": [0.97, 0.00, 0.00, 0.15, 0.10, 0.50]}
+{"text": "I have the courage to take calculated risks.", "label": [0.25, 0.00, 0.00, 0.00, 0.98, 0.75]}
+{"text": "You're a tornado of bad decisions!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "My heart feels hollow...", "label": [0.00, 0.00, 0.00, 0.99, 0.00, 0.55]}
+{"text": "I just solved that complex coding problem I've been stuck on for days!", "label": [0.25, 0.00, 0.92, 0.00, 0.85, 0.40]}
+{"text": "We should adopt a posture of administrative reserve.", "label": [0.20, 0.00, 0.00, 0.00, 0.30, 0.97]}
+{"text": "I'm staying committed to procedural correctness.", "label": [0.20, 0.00, 0.00, 0.00, 0.35, 0.96]}
+{"text": "Evidence must be preserved for the investigation.", "label": [0.00, 0.00, 0.00, 0.00, 0.20, 0.97]}
+{"text": "Tears keep falling...", "label": [0.05, 0.00, 0.00, 0.98, 0.00, 0.15]}
+{"text": "The prototype works perfectly! Our invention is actually functional!", "label": [0.25, 0.00, 0.94, 0.00, 0.85, 0.35]}
+{"text": "Let's maintain a consistent, predictable approach.", "label": [0.20, 0.00, 0.00, 0.00, 0.30, 0.97]}
+{"text": "The music sounds flat...", "label": [0.00, 0.00, 0.00, 0.97, 0.00, 0.85]}
+{"text": "I'm a ghost of who I was...", "label": [0.05, 0.00, 0.00, 0.98, 0.00, 0.65]}
+{"text": "I put a little note in your bag for you to find later. Hope it makes you smile!", "label": [0.99, 0.00, 0.55, 0.00, 0.15, 0.05]}
+{"text": "Let's go for a walk this evening, I'd love to spend some time with you.", "label": [0.97, 0.00, 0.45, 0.00, 0.25, 0.30]}
+{"text": "My drive is fueled by purpose.", "label": [0.30, 0.00, 0.00, 0.00, 0.95, 0.65]}
+{"text": "We need to stay grounded and practical in our thinking.", "label": [0.25, 0.00, 0.00, 0.00, 0.30, 0.95]}
+{"text": "You have a beautiful soul, and it shines through in your eyes.", "label": [0.98, 0.00, 0.40, 0.00, 0.20, 0.25]}
+{"text": "I'm a note without music...", "label": [0.10, 0.00, 0.00, 0.96, 0.00, 0.99]}
+{"text": "Your perseverance is inspiring to everyone around you.", "label": [0.96, 0.00, 0.30, 0.00, 0.65, 0.45]}
+{"text": "I have the passion to make a difference.", "label": [0.25, 0.00, 0.00, 0.00, 0.97, 0.45]}
+{"text": "The committee's decision will be final and binding.", "label": [0.00, 0.00, 0.00, 0.00, 0.10, 0.99]}
+{"text": "You have an incredible ability to make people feel at ease.", "label": [0.97, 0.00, 0.20, 0.00, 0.15, 0.50]}
+{"text": "My ambition is limitless.", "label": [0.30, 0.00, 0.00, 0.00, 0.97, 0.55]}
+{"text": "I'm a shadow on the wall...", "label": [0.05, 0.00, 0.00, 0.97, 0.00, 0.99]}
+{"text": "We're celebrating our 25th anniversary! A quarter century of love!", "label": [0.70, 0.00, 0.95, 0.00, 0.40, 0.50]}
+{"text": "All participants must sign the confidentiality agreement.", "label": [0.00, 0.00, 0.00, 0.00, 0.15, 0.97]}
+{"text": "My laughter echoes empty...", "label": [0.05, 0.00, 0.00, 0.98, 0.00, 0.95]}
+{"text": "You're such a disappointment!", "label": [0.00, 0.96, 0.00, 0.40, 0.00, 0.00]}
+{"text": "You're a waste of space!", "label": [0.00, 0.97, 0.00, 0.00, 0.00, 0.00]}
+{"text": "The repair worked! My vintage car is running smoothly again!", "label": [0.20, 0.00, 0.94, 0.00, 0.60, 0.40]}
+{"text": "Your courage in facing challenges is something I really look up to.", "label": [0.95, 0.00, 0.30, 0.00, 0.45, 0.50]}
+{"text": "We're celebrating our son's first birthday! What an incredible year!", "label": [0.70, 0.00, 0.96, 0.00, 0.40, 0.35]}
+{"text": "I feel numb to everything...", "label": [0.05, 0.00, 0.00, 0.97, 0.00, 0.30]}
+{"text": "My heart feels broken...", "label": [0.10, 0.00, 0.00, 0.98, 0.00, 0.15]}
+{"text": "We should maintain our professional demeanor at all times.", "label": [0.25, 0.00, 0.00, 0.00, 0.20, 0.97]}
+{"text": "I just received my teaching credentials! Ready to inspire young minds!", "label": [0.45, 0.00, 0.95, 0.00, 0.85, 0.40]}
+{"text": "I'm maintaining a commitment to organizational protocols.", "label": [0.20, 0.00, 0.00, 0.00, 0.35, 0.96]}
+{"text": "I'm disappearing into shadows...", "label": [0.05, 0.00, 0.00, 0.98, 0.00, 0.60]}
+{"text": "We need to proceed with careful, considered steps.", "label": [0.25, 0.00, 0.00, 0.00, 0.35, 0.95]}
+{"text": "The sun is shining, birds are singing - it's going to be a wonderful day!", "label": [0.40, 0.00, 0.90, 0.00, 0.30, 0.40]}
+{"text": "I just completed my therapy goals! My mental health has improved so much!", "label": [0.30, 0.00, 0.93, 0.00, 0.75, 0.50]}
+{"text": "I'm dedicated to becoming the best version of myself.", "label": [0.20, 0.00, 0.00, 0.00, 0.99, 0.45]}
+{"text": "My smile feels fake...", "label": [0.10, 0.00, 0.00, 0.95, 0.00, 0.35]}
+{"text": "Let's keep our approach systematic and our expectations procedural.", "label": [0.25, 0.00, 0.00, 0.00, 0.40, 0.95]}
+{"text": "We should respond with measured, appropriate actions.", "label": [0.25, 0.00, 0.00, 0.00, 0.30, 0.95]}
+{"text": "My smile is a mask...", "label": [0.05, 0.00, 0.00, 0.98, 0.00, 0.90]}
+{"text": "I'm practically bouncing off the walls - we're going to Hawaii!", "label": [0.45, 0.00, 0.97, 0.00, 0.40, 0.00]}
+{"text": "We're launching our community mentorship program! Connecting generations!", "label": [0.55, 0.00, 0.95, 0.00, 0.85, 0.45]}
+{"text": "You're a train wreck!", "label": [0.00, 0.95, 0.00, 0.00, 0.00, 0.00]}
+{"text": "The baby smiled at me for the first time today! Pure magic!", "label": [0.65, 0.00, 0.96, 0.00, 0.20, 0.25]}
+{"text": "The process is moving forward at a sustainable pace.", "label": [0.15, 0.00, 0.00, 0.00, 0.20, 0.97]}
+{"text": "You've made this place feel like home for so many of us.", "label": [0.97, 0.00, 0.35, 0.00, 0.15, 0.40]}
+{"text": "You're a factory of bad ideas!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "We need to approach this with judicial balance.", "label": [0.15, 0.00, 0.00, 0.00, 0.30, 0.97]}
+{"text": "I just won the photography contest! My work is getting recognized!", "label": [0.40, 0.00, 0.96, 0.00, 0.65, 0.25]}
+{"text": "You're a black hole!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "You're a wonderful listener, and I always feel heard when I talk to you.", "label": [0.96, 0.00, 0.10, 0.00, 0.20, 0.55]}
+{"text": "Let's proceed with institutional caution.", "label": [0.15, 0.00, 0.00, 0.00, 0.30, 0.96]}
+{"text": "I can't stand your complaining!", "label": [0.00, 0.96, 0.00, 0.00, 0.00, 0.00]}
+{"text": "Let's keep our communications dispassionate and factual.", "label": [0.30, 0.00, 0.00, 0.00, 0.25, 0.95]}
+{"text": "I suggest we approach this with patience and careful consideration.", "label": [0.25, 0.00, 0.00, 0.00, 0.20, 0.97]}
+{"text": "Our garden is blooming with flowers! The colors are breathtaking!", "label": [0.35, 0.00, 0.92, 0.00, 0.50, 0.55]}
